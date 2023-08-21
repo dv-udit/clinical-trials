@@ -1,0 +1,1977 @@
+
+{
+    "FullStudiesResponse":{
+      "APIVrs":"1.01.05",
+      "DataVrs":"2023:08:16 23:57:56.293",
+      "Expression":"NCT03421379",
+      "NStudiesAvail":462815,
+      "NStudiesFound":1,
+      "MinRank":1,
+      "MaxRank":1,
+      "NStudiesReturned":1,
+      "FullStudies":[
+        {
+          "Rank":1,
+          "Study":{
+            "ProtocolSection":{
+              "IdentificationModule":{
+                "NCTId":"NCT03421379",
+                "OrgStudyIdInfo":{
+                  "OrgStudyId":"16962"
+                },
+                "SecondaryIdInfoList":{
+                  "SecondaryIdInfo":[
+                    {
+                      "SecondaryId":"I8R-JE-IGBJ",
+                      "SecondaryIdType":"Other Identifier",
+                      "SecondaryIdDomain":"Eli Lilly and Company"
+                    }
+                  ]
+                },
+                "Organization":{
+                  "OrgFullName":"Eli Lilly and Company",
+                  "OrgClass":"INDUSTRY"
+                },
+                "BriefTitle":"A Study of Nasal Glucagon (LY900018) in Japanese Participants With Diabetes Mellitus",
+                "OfficialTitle":"A Phase 3 Study of Nasal Glucagon (LY900018) Compared to Intramuscular Glucagon for Treatment of Insulin-induced Hypoglycemia in Japanese Patients With Diabetes Mellitus"
+              },
+              "StatusModule":{
+                "StatusVerifiedDate":"September 2019",
+                "OverallStatus":"Completed",
+                "ExpandedAccessInfo":{
+                  "HasExpandedAccess":"No"
+                },
+                "StartDateStruct":{
+                  "StartDate":"February 21, 2018",
+                  "StartDateType":"Actual"
+                },
+                "PrimaryCompletionDateStruct":{
+                  "PrimaryCompletionDate":"August 20, 2018",
+                  "PrimaryCompletionDateType":"Actual"
+                },
+                "CompletionDateStruct":{
+                  "CompletionDate":"August 20, 2018",
+                  "CompletionDateType":"Actual"
+                },
+                "StudyFirstSubmitDate":"January 30, 2018",
+                "StudyFirstSubmitQCDate":"January 30, 2018",
+                "StudyFirstPostDateStruct":{
+                  "StudyFirstPostDate":"February 5, 2018",
+                  "StudyFirstPostDateType":"Actual"
+                },
+                "ResultsFirstSubmitDate":"August 14, 2019",
+                "ResultsFirstSubmitQCDate":"September 18, 2019",
+                "ResultsFirstPostDateStruct":{
+                  "ResultsFirstPostDate":"October 8, 2019",
+                  "ResultsFirstPostDateType":"Actual"
+                },
+                "LastUpdateSubmitDate":"September 18, 2019",
+                "LastUpdatePostDateStruct":{
+                  "LastUpdatePostDate":"October 8, 2019",
+                  "LastUpdatePostDateType":"Actual"
+                }
+              },
+              "SponsorCollaboratorsModule":{
+                "ResponsibleParty":{
+                  "ResponsiblePartyType":"Sponsor"
+                },
+                "LeadSponsor":{
+                  "LeadSponsorName":"Eli Lilly and Company",
+                  "LeadSponsorClass":"INDUSTRY"
+                }
+              },
+              "OversightModule":{
+                "OversightHasDMC":"No",
+                "IsFDARegulatedDrug":"Yes",
+                "IsFDARegulatedDevice":"No",
+                "IsUSExport":"Yes"
+              },
+              "DescriptionModule":{
+                "BriefSummary":"The purpose of this study is to determine the efficacy and safety of nasal glucagon compared to intramuscular (IM) glucagon for treatment of insulin-induced hypoglycemia in Japanese participants with diabetes mellitus."
+              },
+              "ConditionsModule":{
+                "ConditionList":{
+                  "Condition":[
+                    "Diabetes Mellitus"
+                  ]
+                }
+              },
+              "DesignModule":{
+                "StudyType":"Interventional",
+                "PhaseList":{
+                  "Phase":[
+                    "Phase 3"
+                  ]
+                },
+                "DesignInfo":{
+                  "DesignAllocation":"Randomized",
+                  "DesignInterventionModel":"Crossover Assignment",
+                  "DesignPrimaryPurpose":"Treatment",
+                  "DesignMaskingInfo":{
+                    "DesignMasking":"None (Open Label)"
+                  }
+                },
+                "EnrollmentInfo":{
+                  "EnrollmentCount":"75",
+                  "EnrollmentType":"Actual"
+                }
+              },
+              "ArmsInterventionsModule":{
+                "ArmGroupList":{
+                  "ArmGroup":[
+                    {
+                      "ArmGroupLabel":"Glucagon Nasal Powder",
+                      "ArmGroupType":"Experimental",
+                      "ArmGroupDescription":"A single dose of 3 milligram (mg) glucagon nasal powder administered intranasally.",
+                      "ArmGroupInterventionList":{
+                        "ArmGroupInterventionName":[
+                          "Drug: Glucagon Nasal Powder"
+                        ]
+                      }
+                    },{
+                      "ArmGroupLabel":"Glucagon Hydrochloride Solution",
+                      "ArmGroupType":"Active Comparator",
+                      "ArmGroupDescription":"A single dose of 1 mg glucagon hydrochloride solution was administered intramuscular (IM)",
+                      "ArmGroupInterventionList":{
+                        "ArmGroupInterventionName":[
+                          "Drug: Glucagon Hydrochloride Solution"
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "InterventionList":{
+                  "Intervention":[
+                    {
+                      "InterventionType":"Drug",
+                      "InterventionName":"Glucagon Nasal Powder",
+                      "InterventionDescription":"Administered intranasally",
+                      "InterventionArmGroupLabelList":{
+                        "InterventionArmGroupLabel":[
+                          "Glucagon Nasal Powder"
+                        ]
+                      },
+                      "InterventionOtherNameList":{
+                        "InterventionOtherName":[
+                          "LY900018"
+                        ]
+                      }
+                    },{
+                      "InterventionType":"Drug",
+                      "InterventionName":"Glucagon Hydrochloride Solution",
+                      "InterventionDescription":"Administered IM",
+                      "InterventionArmGroupLabelList":{
+                        "InterventionArmGroupLabel":[
+                          "Glucagon Hydrochloride Solution"
+                        ]
+                      },
+                      "InterventionOtherNameList":{
+                        "InterventionOtherName":[
+                          "GlucaGen®"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "OutcomesModule":{
+                "PrimaryOutcomeList":{
+                  "PrimaryOutcome":[
+                    {
+                      "PrimaryOutcomeMeasure":"Percentage of Participants Achieving Treatment Success During Controlled Insulin-Induced Hypoglycemia",
+                      "PrimaryOutcomeDescription":"Percentage of participants who achieved treatment success during the controlled insulin-induced hypoglycemia in participants with type 1 diabetes mellitus (T1DM) and participants with type 2 diabetes mellitus (T2DM).Treatment success is defined as an increase in plasma glucose to greater than or equal to (≥) 70 milligrams per deciliter (mg/dL) or an increase of ≥20 mg/dL from plasma glucose nadir, without receiving additional actions to increase the plasma glucose concentration. Nadir is defined as the minimum plasma glucose concentration at the time of or within 10 minutes following glucagon administration.",
+                      "PrimaryOutcomeTimeFrame":"Pre-dose up to 30 minutes post each glucagon administration"
+                    }
+                  ]
+                },
+                "SecondaryOutcomeList":{
+                  "SecondaryOutcome":[
+                    {
+                      "SecondaryOutcomeMeasure":"Pharmacodynamics (PD): Change From Baseline in Maximal Blood Glucose (BGmax) of Glucagon Nasal Powder and Glucagon Hydrochloride Intramuscular (IM)",
+                      "SecondaryOutcomeDescription":"PD assessment measured the change from Baseline in maximal blood glucose (BGmax) of Glucagon Nasal Powder and Glucagon Hydrochloride intramuscular (IM).",
+                      "SecondaryOutcomeTimeFrame":"Pre-dose, 5, 10, 15, 20, 25, 30, 40, 50, 60, 90, 120, 240 minutes after each glucagon administration"
+                    },{
+                      "SecondaryOutcomeMeasure":"PD: Time to Maximal Concentration (Tmax) of Glucagon Nasal Powder and Glucagon Hydrochloride IM",
+                      "SecondaryOutcomeDescription":"PD assessment measured the time to maximal concentration (Tmax) of Glucagon Nasal Powder and Glucagon Hydrochloride IM.",
+                      "SecondaryOutcomeTimeFrame":"Pre-dose, 5, 10, 15, 20, 25, 30, 40, 50, 60, 90, 120, 240 minutes after each glucagon administration"
+                    },{
+                      "SecondaryOutcomeMeasure":"Pharmacokinetics (PK): Change From Baseline in Area Under the Concentration Versus Time Curve From Zero to Time t (AUC [0-tLast]) of Glucagon Nasal Powder and Glucagon Hydrochloride IM",
+                      "SecondaryOutcomeDescription":"PK assessment measured the change from baseline in the area under the concentration versus time curve from time zero to time t, where t is the last time point with a measurable concentration of Glucagon Nasal Powder and Glucagon Hydrochloride IM.",
+                      "SecondaryOutcomeTimeFrame":"Pre-dose, 5, 10, 15, 20, 25, 30, 40, 50, 60, 90, 120, 240 minutes after each glucagon administration"
+                    },{
+                      "SecondaryOutcomeMeasure":"PK: Change From Baseline in Maximal Concentration (Cmax) of Glucagon Nasal Powder and Glucagon Hydrochloride IM",
+                      "SecondaryOutcomeDescription":"PK assessment measured the change from baseline in maximal concentration (Cmax) of glucagon nasal powder and glucagon hydrochloride IM.",
+                      "SecondaryOutcomeTimeFrame":"Pre-dose, 5, 10, 15, 20, 25, 30, 40, 50, 60, 90, 120, 240 minutes after each glucagon administration"
+                    },{
+                      "SecondaryOutcomeMeasure":"PK: Change From Baseline in Tmax of Glucagon Nasal Powder and Glucagon Hydrochloride IM",
+                      "SecondaryOutcomeDescription":"PK assessment measured the change from baseline in Tmax of Glucagon Nasal Powder and Glucagon Hydrochloride IM.",
+                      "SecondaryOutcomeTimeFrame":"Pre-dose, 5, 10, 15, 20, 25, 30, 40, 50, 60, 90, 120, 240 minutes after each glucagon administration"
+                    }
+                  ]
+                }
+              },
+              "EligibilityModule":{
+                "EligibilityCriteria":"Inclusion Criteria:\n\nParticipants with Type 1 diabetes (T1D) or Type 2 diabetes (T2D)\nBody mass Index (BMI) of 18.5 to 30.0 kilograms per meter squared (kg/m2) for T1D, or 18.5 to 35.0 kg/m2 for T2D\nHemoglobin A1c (HbA1c) ≤10%\n\nExclusion Criteria:\n\nHave significant changes in insulin regimen and/ or unstable blood sugar control within the past 3 month\nHave received a total daily dose of insulin >1.2 units per kilogram (U/kg)",
+                "HealthyVolunteers":"No",
+                "Gender":"All",
+                "MinimumAge":"18 Years",
+                "MaximumAge":"70 Years",
+                "StdAgeList":{
+                  "StdAge":[
+                    "Adult",
+                    "Older Adult"
+                  ]
+                }
+              },
+              "ContactsLocationsModule":{
+                "OverallOfficialList":{
+                  "OverallOfficial":[
+                    {
+                      "OverallOfficialName":"Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+                      "OverallOfficialAffiliation":"Eli Lilly and Company",
+                      "OverallOfficialRole":"Study Director"
+                    }
+                  ]
+                },
+                "LocationList":{
+                  "Location":[
+                    {
+                      "LocationFacility":"For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.",
+                      "LocationCity":"Fukuoka",
+                      "LocationZip":"812-0025",
+                      "LocationCountry":"Japan"
+                    },{
+                      "LocationFacility":"For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.",
+                      "LocationCity":"Tokyo",
+                      "LocationZip":"130-0004",
+                      "LocationCountry":"Japan"
+                    },{
+                      "LocationFacility":"For additional information regarding investigative sites for this trial, contact 1-888-545-5972 Mon - Fri, 9 AM to 4 PM or 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri, 9 AM to 5 PM Eastern Time or speak with your personal physician.",
+                      "LocationCity":"Tokyo",
+                      "LocationZip":"162-0053",
+                      "LocationCountry":"Japan"
+                    },{
+                      "LocationFacility":"For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.",
+                      "LocationCity":"Tokyo",
+                      "LocationZip":"169-0073",
+                      "LocationCountry":"Japan"
+                    }
+                  ]
+                }
+              },
+              "IPDSharingStatementModule":{
+                "IPDSharing":"Yes",
+                "IPDSharingDescription":"Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.",
+                "IPDSharingInfoTypeList":{
+                  "IPDSharingInfoType":[
+                    "Study Protocol",
+                    "Statistical Analysis Plan (SAP)",
+                    "Clinical Study Report (CSR)"
+                  ]
+                },
+                "IPDSharingTimeFrame":"Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.",
+                "IPDSharingAccessCriteria":"A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.",
+                "IPDSharingURL":"https://www.clinicalstudydatarequest.com"
+              }
+            },
+            "ResultsSection":{
+              "ParticipantFlowModule":{
+                "FlowPreAssignmentDetails":"Participants were randomized to receive either nasal glucagon or intramuscular (IM) glucagon in the first period, followed by the alternate treatment in the second period.",
+                "FlowGroupList":{
+                  "FlowGroup":[
+                    {
+                      "FlowGroupId":"FG000",
+                      "FlowGroupTitle":"Glucagon Nasal Powder/Glucagon Hydrochloride",
+                      "FlowGroupDescription":"A single dose of 3 milligram (mg) glucagon nasal powder was administered intranasally in period 1 then 1 mg single dose intramuscular glucagon hydrochloride solution was administered in period 2."
+                    },{
+                      "FlowGroupId":"FG001",
+                      "FlowGroupTitle":"Glucagon Hydrochloride Solution/Glucagon Nasal Powder",
+                      "FlowGroupDescription":"A single dose of 1 mg glucagon hydrochloride solution was administered intramuscular (IM) in period 1 then 3 mg single dose glucagon nasal powder was administered in period 2."
+                    }
+                  ]
+                },
+                "FlowPeriodList":{
+                  "FlowPeriod":[
+                    {
+                      "FlowPeriodTitle":"Period 1",
+                      "FlowMilestoneList":{
+                        "FlowMilestone":[
+                          {
+                            "FlowMilestoneType":"STARTED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"34"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"41"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"Received at Least One Dose of Study Drug",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"33"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"39"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"32"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"37"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"NOT COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"2"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"4"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "FlowDropWithdrawList":{
+                        "FlowDropWithdraw":[
+                          {
+                            "FlowDropWithdrawType":"Withdrawal by Subject",
+                            "FlowReasonList":{
+                              "FlowReason":[
+                                {
+                                  "FlowReasonGroupId":"FG000",
+                                  "FlowReasonNumSubjects":"0"
+                                },{
+                                  "FlowReasonGroupId":"FG001",
+                                  "FlowReasonNumSubjects":"1"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowDropWithdrawType":"Physician Decision",
+                            "FlowReasonList":{
+                              "FlowReason":[
+                                {
+                                  "FlowReasonGroupId":"FG000",
+                                  "FlowReasonNumSubjects":"1"
+                                },{
+                                  "FlowReasonGroupId":"FG001",
+                                  "FlowReasonNumSubjects":"1"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowDropWithdrawType":"Did not receive treatment",
+                            "FlowReasonList":{
+                              "FlowReason":[
+                                {
+                                  "FlowReasonGroupId":"FG000",
+                                  "FlowReasonNumSubjects":"1"
+                                },{
+                                  "FlowReasonGroupId":"FG001",
+                                  "FlowReasonNumSubjects":"2"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "FlowPeriodTitle":"Washout Period (3 to 14 Days)",
+                      "FlowMilestoneList":{
+                        "FlowMilestone":[
+                          {
+                            "FlowMilestoneType":"STARTED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"32"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"37"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"32"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"37"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"NOT COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"0"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"0"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "FlowPeriodTitle":"Period 2",
+                      "FlowMilestoneList":{
+                        "FlowMilestone":[
+                          {
+                            "FlowMilestoneType":"STARTED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"32"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"37"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"32"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"37"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"NOT COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"0"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"0"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "BaselineCharacteristicsModule":{
+                "BaselinePopulationDescription":"All randomized participants who received at least one dose of study drug.",
+                "BaselineGroupList":{
+                  "BaselineGroup":[
+                    {
+                      "BaselineGroupId":"BG000",
+                      "BaselineGroupTitle":"Glucagon Nasal Powder/Glucagon Hydrochloride Solution",
+                      "BaselineGroupDescription":"A single dose of 3 mg glucagon nasal powder was administered intranasally"
+                    },{
+                      "BaselineGroupId":"BG001",
+                      "BaselineGroupTitle":"Glucagon Hydrochloride Solution/Glucagon Nasal Powder",
+                      "BaselineGroupDescription":"A single dose of 1 mg glucagon hydrochloride solution was administered IM"
+                    },{
+                      "BaselineGroupId":"BG002",
+                      "BaselineGroupTitle":"Total",
+                      "BaselineGroupDescription":"Total of all reporting groups"
+                    }
+                  ]
+                },
+                "BaselineDenomList":{
+                  "BaselineDenom":[
+                    {
+                      "BaselineDenomUnits":"Participants",
+                      "BaselineDenomCountList":{
+                        "BaselineDenomCount":[
+                          {
+                            "BaselineDenomCountGroupId":"BG000",
+                            "BaselineDenomCountValue":"33"
+                          },{
+                            "BaselineDenomCountGroupId":"BG001",
+                            "BaselineDenomCountValue":"39"
+                          },{
+                            "BaselineDenomCountGroupId":"BG002",
+                            "BaselineDenomCountValue":"72"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "BaselineMeasureList":{
+                  "BaselineMeasure":[
+                    {
+                      "BaselineMeasureTitle":"Age, Continuous",
+                      "BaselineMeasureParamType":"Mean",
+                      "BaselineMeasureDispersionType":"Standard Deviation",
+                      "BaselineMeasureUnitOfMeasure":"years",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"41.7",
+                                        "BaselineMeasurementSpread":"11.6"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"57.5",
+                                        "BaselineMeasurementSpread":"9.2"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"50.2",
+                                        "BaselineMeasurementSpread":"13.0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Sex: Female, Male",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineMeasureCalculatePct":"No",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"Female",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"13"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"9"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"22"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Male",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"20"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"30"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"50"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Ethnicity (NIH/OMB)",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineMeasureCalculatePct":"No",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"Hispanic or Latino",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Not Hispanic or Latino",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"33"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"39"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"72"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Unknown or Not Reported",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Race (NIH/OMB)",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineMeasureCalculatePct":"No",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"American Indian or Alaska Native",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Asian",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"33"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"39"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"72"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Native Hawaiian or Other Pacific Islander",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Black or African American",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"White",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"More than one race",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Unknown or Not Reported",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Region of Enrollment",
+                      "BaselineMeasureParamType":"Number",
+                      "BaselineMeasureUnitOfMeasure":"participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassTitle":"Japan",
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"33"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"39"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"72"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "OutcomeMeasuresModule":{
+                "OutcomeMeasureList":{
+                  "OutcomeMeasure":[
+                    {
+                      "OutcomeMeasureType":"Primary",
+                      "OutcomeMeasureTitle":"Percentage of Participants Achieving Treatment Success During Controlled Insulin-Induced Hypoglycemia",
+                      "OutcomeMeasureDescription":"Percentage of participants who achieved treatment success during the controlled insulin-induced hypoglycemia in participants with type 1 diabetes mellitus (T1DM) and participants with type 2 diabetes mellitus (T2DM).Treatment success is defined as an increase in plasma glucose to greater than or equal to (≥) 70 milligrams per deciliter (mg/dL) or an increase of ≥20 mg/dL from plasma glucose nadir, without receiving additional actions to increase the plasma glucose concentration. Nadir is defined as the minimum plasma glucose concentration at the time of or within 10 minutes following glucagon administration.",
+                      "OutcomeMeasurePopulationDescription":"All randomized participant who completed both treatment visits and had evaluable treatment success data.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Number",
+                      "OutcomeMeasureUnitOfMeasure":"percentage of participants",
+                      "OutcomeMeasureTimeFrame":"Pre-dose up to 30 minutes post each glucagon administration",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Glucagon Nasal Powder",
+                            "OutcomeGroupDescription":"A single dose of 3 mg glucagon nasal powder was administered intranasally"
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Glucagon Hydrochloride Solution",
+                            "OutcomeGroupDescription":"A single dose of 1 mg glucagon hydrochloride solution was administered IM"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"68"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"68"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"100"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"100"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeAnalysisList":{
+                        "OutcomeAnalysis":[
+                          {
+                            "OutcomeAnalysisGroupIdList":{
+                              "OutcomeAnalysisGroupId":[
+                                "OG000",
+                                "OG001"
+                              ]
+                            },
+                            "OutcomeAnalysisNonInferiorityType":"Non-Inferiority",
+                            "OutcomeAnalysisNonInferiorityComment":"The pre-defined non-inferiority margin is (10%)",
+                            "OutcomeAnalysisParamType":"Treatment Difference Wald's Method",
+                            "OutcomeAnalysisParamValue":"0.00",
+                            "OutcomeAnalysisCIPctValue":"95",
+                            "OutcomeAnalysisCINumSides":"2-Sided",
+                            "OutcomeAnalysisCILowerLimit":"-1.47",
+                            "OutcomeAnalysisCIUpperLimit":"1.47"
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Pharmacodynamics (PD): Change From Baseline in Maximal Blood Glucose (BGmax) of Glucagon Nasal Powder and Glucagon Hydrochloride Intramuscular (IM)",
+                      "OutcomeMeasureDescription":"PD assessment measured the change from Baseline in maximal blood glucose (BGmax) of Glucagon Nasal Powder and Glucagon Hydrochloride intramuscular (IM).",
+                      "OutcomeMeasurePopulationDescription":"All randomized patients who receive at least 1 dose of the study drug and have evaluable PD data.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Geometric Mean",
+                      "OutcomeMeasureDispersionType":"Geometric Coefficient of Variation",
+                      "OutcomeMeasureUnitOfMeasure":"milligram/deciliter (mg/dL)",
+                      "OutcomeMeasureTimeFrame":"Pre-dose, 5, 10, 15, 20, 25, 30, 40, 50, 60, 90, 120, 240 minutes after each glucagon administration",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Glucagon Nasal Powder",
+                            "OutcomeGroupDescription":"A single dose of 3 mg glucagon nasal powder was administered intranasally"
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Glucagon Hydrochloride Solution",
+                            "OutcomeGroupDescription":"A single dose of 1 mg glucagon hydrochloride solution was administered IM"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"71"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"70"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"113",
+                                        "OutcomeMeasurementSpread":"32"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"119",
+                                        "OutcomeMeasurementSpread":"33"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"PD: Time to Maximal Concentration (Tmax) of Glucagon Nasal Powder and Glucagon Hydrochloride IM",
+                      "OutcomeMeasureDescription":"PD assessment measured the time to maximal concentration (Tmax) of Glucagon Nasal Powder and Glucagon Hydrochloride IM.",
+                      "OutcomeMeasurePopulationDescription":"All randomized participants who received at least one dose of study drug and had evaluable PD data.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Median",
+                      "OutcomeMeasureDispersionType":"Full Range",
+                      "OutcomeMeasureUnitOfMeasure":"hour",
+                      "OutcomeMeasureTimeFrame":"Pre-dose, 5, 10, 15, 20, 25, 30, 40, 50, 60, 90, 120, 240 minutes after each glucagon administration",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Glucagon Nasal Powder",
+                            "OutcomeGroupDescription":"A single dose of 3 mg glucagon nasal powder was administered intranasally"
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Glucagon Hydrochloride Solution",
+                            "OutcomeGroupDescription":"A single dose of 1 mg glucagon hydrochloride solution was administered IM"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"71"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"70"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"1.00",
+                                        "OutcomeMeasurementLowerLimit":"0.50",
+                                        "OutcomeMeasurementUpperLimit":"4.02"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"1.50",
+                                        "OutcomeMeasurementLowerLimit":"0.67",
+                                        "OutcomeMeasurementUpperLimit":"4.00"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Pharmacokinetics (PK): Change From Baseline in Area Under the Concentration Versus Time Curve From Zero to Time t (AUC [0-tLast]) of Glucagon Nasal Powder and Glucagon Hydrochloride IM",
+                      "OutcomeMeasureDescription":"PK assessment measured the change from baseline in the area under the concentration versus time curve from time zero to time t, where t is the last time point with a measurable concentration of Glucagon Nasal Powder and Glucagon Hydrochloride IM.",
+                      "OutcomeMeasurePopulationDescription":"All randomized participants who received at least one dose of study drug and had evaluable PK data.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Geometric Mean",
+                      "OutcomeMeasureDispersionType":"Geometric Coefficient of Variation",
+                      "OutcomeMeasureUnitOfMeasure":"Picogram*hour/milliliter (pg*h/mL)",
+                      "OutcomeMeasureTimeFrame":"Pre-dose, 5, 10, 15, 20, 25, 30, 40, 50, 60, 90, 120, 240 minutes after each glucagon administration",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Glucagon Nasal Powder",
+                            "OutcomeGroupDescription":"A single dose of 3 mg glucagon nasal powder was administered intranasally"
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Glucagon Hydrochloride Solution",
+                            "OutcomeGroupDescription":"A single dose of 1 mg glucagon hydrochloride solution was administered IM"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"71"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"68"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"4830",
+                                        "OutcomeMeasurementSpread":"89"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"3240",
+                                        "OutcomeMeasurementSpread":"32"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"PK: Change From Baseline in Maximal Concentration (Cmax) of Glucagon Nasal Powder and Glucagon Hydrochloride IM",
+                      "OutcomeMeasureDescription":"PK assessment measured the change from baseline in maximal concentration (Cmax) of glucagon nasal powder and glucagon hydrochloride IM.",
+                      "OutcomeMeasurePopulationDescription":"All randomized participants who received at least one dose of study drug and had evaluable PK data.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Geometric Mean",
+                      "OutcomeMeasureDispersionType":"Geometric Coefficient of Variation",
+                      "OutcomeMeasureUnitOfMeasure":"picogram/milliliter (pg/mL)",
+                      "OutcomeMeasureTimeFrame":"Pre-dose, 5, 10, 15, 20, 25, 30, 40, 50, 60, 90, 120, 240 minutes after each glucagon administration",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Glucagon Nasal Powder",
+                            "OutcomeGroupDescription":"A single dose of 3 mg glucagon nasal powder was administered intranasally"
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Glucagon Hydrochloride Solution",
+                            "OutcomeGroupDescription":"A single dose of 1 mg glucagon hydrochloride solution was administered IM"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"71"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"68"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"9520",
+                                        "OutcomeMeasurementSpread":"103"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"3290",
+                                        "OutcomeMeasurementSpread":"37"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"PK: Change From Baseline in Tmax of Glucagon Nasal Powder and Glucagon Hydrochloride IM",
+                      "OutcomeMeasureDescription":"PK assessment measured the change from baseline in Tmax of Glucagon Nasal Powder and Glucagon Hydrochloride IM.",
+                      "OutcomeMeasurePopulationDescription":"All randomized participants who received at least one dose of study drug and had evaluable PK data.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Median",
+                      "OutcomeMeasureDispersionType":"Full Range",
+                      "OutcomeMeasureUnitOfMeasure":"hour (h)",
+                      "OutcomeMeasureTimeFrame":"Pre-dose, 5, 10, 15, 20, 25, 30, 40, 50, 60, 90, 120, 240 minutes after each glucagon administration",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Glucagon Nasal Powder",
+                            "OutcomeGroupDescription":"A single dose of 3 mg glucagon nasal powder was administered intranasally"
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Glucagon Hydrochloride Solution",
+                            "OutcomeGroupDescription":"A single dose of 1 mg glucagon hydrochloride solution was administered IM"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"71"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"68"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"0.25",
+                                        "OutcomeMeasurementLowerLimit":"0.17",
+                                        "OutcomeMeasurementUpperLimit":"0.67"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"0.17",
+                                        "OutcomeMeasurementLowerLimit":"0.08",
+                                        "OutcomeMeasurementUpperLimit":"0.67"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "AdverseEventsModule":{
+                "EventsFrequencyThreshold":"0",
+                "EventsTimeFrame":"From Baseline to End of Follow-up (Up to 2 Months)",
+                "EventsDescription":"All randomized participants who received at least one dose of study drug.",
+                "EventGroupList":{
+                  "EventGroup":[
+                    {
+                      "EventGroupId":"EG000",
+                      "EventGroupTitle":"Glucagon Nasal Powder",
+                      "EventGroupDescription":"A single dose of 3 mg glucagon nasal powder was administered intranasally",
+                      "EventGroupDeathsNumAffected":"0",
+                      "EventGroupDeathsNumAtRisk":"71",
+                      "EventGroupSeriousNumAffected":"0",
+                      "EventGroupSeriousNumAtRisk":"71",
+                      "EventGroupOtherNumAffected":"15",
+                      "EventGroupOtherNumAtRisk":"71"
+                    },{
+                      "EventGroupId":"EG001",
+                      "EventGroupTitle":"Glucagon Hydrochloride Solution",
+                      "EventGroupDescription":"A single dose of 1 mg glucagon hydrochloride solution was administered IM",
+                      "EventGroupDeathsNumAffected":"0",
+                      "EventGroupDeathsNumAtRisk":"70",
+                      "EventGroupSeriousNumAffected":"1",
+                      "EventGroupSeriousNumAtRisk":"70",
+                      "EventGroupOtherNumAffected":"13",
+                      "EventGroupOtherNumAtRisk":"70"
+                    }
+                  ]
+                },
+                "SeriousEventList":{
+                  "SeriousEvent":[
+                    {
+                      "SeriousEventTerm":"Vertigo positional",
+                      "SeriousEventOrganSystem":"Ear and labyrinth disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 18.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"71"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "OtherEventList":{
+                  "OtherEvent":[
+                    {
+                      "OtherEventTerm":"Ear pain",
+                      "OtherEventOrganSystem":"Ear and labyrinth disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"2",
+                            "OtherEventStatsNumAffected":"2",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Eye pain",
+                      "OtherEventOrganSystem":"Eye disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Eye pruritus",
+                      "OtherEventOrganSystem":"Eye disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Lacrimation increased",
+                      "OtherEventOrganSystem":"Eye disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Diarrhoea",
+                      "OtherEventOrganSystem":"Gastrointestinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Nausea",
+                      "OtherEventOrganSystem":"Gastrointestinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"5",
+                            "OtherEventStatsNumAffected":"5",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"11",
+                            "OtherEventStatsNumAffected":"11",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Toothache",
+                      "OtherEventOrganSystem":"Gastrointestinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Vomiting",
+                      "OtherEventOrganSystem":"Gastrointestinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"2",
+                            "OtherEventStatsNumAffected":"2",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"5",
+                            "OtherEventStatsNumAffected":"4",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Feeling abnormal",
+                      "OtherEventOrganSystem":"General disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Cystitis",
+                      "OtherEventOrganSystem":"Infections and infestations",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Blood pressure decreased",
+                      "OtherEventOrganSystem":"Investigations",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"2",
+                            "OtherEventStatsNumAffected":"2",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Blood pressure increased",
+                      "OtherEventOrganSystem":"Investigations",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"4",
+                            "OtherEventStatsNumAffected":"4",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Back pain",
+                      "OtherEventOrganSystem":"Musculoskeletal and connective tissue disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Headache",
+                      "OtherEventOrganSystem":"Nervous system disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Nasal congestion",
+                      "OtherEventOrganSystem":"Respiratory, thoracic and mediastinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Nasal pruritus",
+                      "OtherEventOrganSystem":"Respiratory, thoracic and mediastinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Oropharyngeal pain",
+                      "OtherEventOrganSystem":"Respiratory, thoracic and mediastinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Rhinalgia",
+                      "OtherEventOrganSystem":"Respiratory, thoracic and mediastinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"6",
+                            "OtherEventStatsNumAffected":"6",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Cold sweat",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Hot flush",
+                      "OtherEventOrganSystem":"Vascular disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Hypertension",
+                      "OtherEventOrganSystem":"Vascular disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Peripheral coldness",
+                      "OtherEventOrganSystem":"Vascular disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 18.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"0",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"71"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"70"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "MoreInfoModule":{
+                "CertainAgreement":{
+                  "AgreementPISponsorEmployee":"No",
+                  "AgreementRestrictionType":"GT60",
+                  "AgreementRestrictiveAgreement":"Yes"
+                },
+                "PointOfContact":{
+                  "PointOfContactTitle":"Chief Medical Officer",
+                  "PointOfContactOrganization":"Eli Lilly and Company",
+                  "PointOfContactEMail":"ClinicalTrials.gov@lilly.com",
+                  "PointOfContactPhone":"800-545-5979"
+                }
+              }
+            },
+            "DocumentSection":{
+              "LargeDocumentModule":{
+                "LargeDocList":{
+                  "LargeDoc":[
+                    {
+                      "LargeDocTypeAbbrev":"Prot",
+                      "LargeDocHasProtocol":"Yes",
+                      "LargeDocHasSAP":"No",
+                      "LargeDocHasICF":"No",
+                      "LargeDocLabel":"Study Protocol",
+                      "LargeDocDate":"December 5, 2017",
+                      "LargeDocUploadDate":"07/10/2019 15:01",
+                      "LargeDocFilename":"Prot_000.pdf"
+                    },{
+                      "LargeDocTypeAbbrev":"SAP",
+                      "LargeDocHasProtocol":"No",
+                      "LargeDocHasSAP":"Yes",
+                      "LargeDocHasICF":"No",
+                      "LargeDocLabel":"Statistical Analysis Plan",
+                      "LargeDocDate":"February 2, 2018",
+                      "LargeDocUploadDate":"07/10/2019 15:01",
+                      "LargeDocFilename":"SAP_001.pdf"
+                    }
+                  ]
+                }
+              }
+            },
+            "DerivedSection":{
+              "MiscInfoModule":{
+                "VersionHolder":"August 17, 2023"
+              },
+              "ConditionBrowseModule":{
+                "ConditionMeshList":{
+                  "ConditionMesh":[
+                    {
+                      "ConditionMeshId":"D000003920",
+                      "ConditionMeshTerm":"Diabetes Mellitus"
+                    }
+                  ]
+                },
+                "ConditionAncestorList":{
+                  "ConditionAncestor":[
+                    {
+                      "ConditionAncestorId":"D000044882",
+                      "ConditionAncestorTerm":"Glucose Metabolism Disorders"
+                    },{
+                      "ConditionAncestorId":"D000008659",
+                      "ConditionAncestorTerm":"Metabolic Diseases"
+                    },{
+                      "ConditionAncestorId":"D000004700",
+                      "ConditionAncestorTerm":"Endocrine System Diseases"
+                    }
+                  ]
+                },
+                "ConditionBrowseLeafList":{
+                  "ConditionBrowseLeaf":[
+                    {
+                      "ConditionBrowseLeafId":"M6805",
+                      "ConditionBrowseLeafName":"Diabetes Mellitus",
+                      "ConditionBrowseLeafAsFound":"Diabetes Mellitus",
+                      "ConditionBrowseLeafRelevance":"high"
+                    },{
+                      "ConditionBrowseLeafId":"M9743",
+                      "ConditionBrowseLeafName":"Hypoglycemia",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M11329",
+                      "ConditionBrowseLeafName":"Metabolic Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M25093",
+                      "ConditionBrowseLeafName":"Glucose Metabolism Disorders",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M7552",
+                      "ConditionBrowseLeafName":"Endocrine System Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    }
+                  ]
+                },
+                "ConditionBrowseBranchList":{
+                  "ConditionBrowseBranch":[
+                    {
+                      "ConditionBrowseBranchAbbrev":"BC18",
+                      "ConditionBrowseBranchName":"Nutritional and Metabolic Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC19",
+                      "ConditionBrowseBranchName":"Gland and Hormone Related Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"All",
+                      "ConditionBrowseBranchName":"All Conditions"
+                    }
+                  ]
+                }
+              },
+              "InterventionBrowseModule":{
+                "InterventionMeshList":{
+                  "InterventionMesh":[
+                    {
+                      "InterventionMeshId":"D000005934",
+                      "InterventionMeshTerm":"Glucagon"
+                    },{
+                      "InterventionMeshId":"D000052216",
+                      "InterventionMeshTerm":"Glucagon-Like Peptide 1"
+                    }
+                  ]
+                },
+                "InterventionAncestorList":{
+                  "InterventionAncestor":[
+                    {
+                      "InterventionAncestorId":"D000005765",
+                      "InterventionAncestorTerm":"Gastrointestinal Agents"
+                    },{
+                      "InterventionAncestorId":"D000006728",
+                      "InterventionAncestorTerm":"Hormones"
+                    },{
+                      "InterventionAncestorId":"D000006730",
+                      "InterventionAncestorTerm":"Hormones, Hormone Substitutes, and Hormone Antagonists"
+                    },{
+                      "InterventionAncestorId":"D000045505",
+                      "InterventionAncestorTerm":"Physiological Effects of Drugs"
+                    },{
+                      "InterventionAncestorId":"D000054795",
+                      "InterventionAncestorTerm":"Incretins"
+                    }
+                  ]
+                },
+                "InterventionBrowseLeafList":{
+                  "InterventionBrowseLeaf":[
+                    {
+                      "InterventionBrowseLeafId":"M21550",
+                      "InterventionBrowseLeafName":"Pharmaceutical Solutions",
+                      "InterventionBrowseLeafRelevance":"low"
+                    },{
+                      "InterventionBrowseLeafId":"M10055",
+                      "InterventionBrowseLeafName":"Insulin",
+                      "InterventionBrowseLeafRelevance":"low"
+                    },{
+                      "InterventionBrowseLeafId":"M173072",
+                      "InterventionBrowseLeafName":"Insulin, Globin Zinc",
+                      "InterventionBrowseLeafRelevance":"low"
+                    },{
+                      "InterventionBrowseLeafId":"M8733",
+                      "InterventionBrowseLeafName":"Glucagon",
+                      "InterventionBrowseLeafAsFound":"Remission",
+                      "InterventionBrowseLeafRelevance":"high"
+                    },{
+                      "InterventionBrowseLeafId":"M26687",
+                      "InterventionBrowseLeafName":"Glucagon-Like Peptide 1",
+                      "InterventionBrowseLeafAsFound":"Remission",
+                      "InterventionBrowseLeafRelevance":"high"
+                    },{
+                      "InterventionBrowseLeafId":"M8571",
+                      "InterventionBrowseLeafName":"Gastrointestinal Agents",
+                      "InterventionBrowseLeafRelevance":"low"
+                    },{
+                      "InterventionBrowseLeafId":"M9479",
+                      "InterventionBrowseLeafName":"Hormones",
+                      "InterventionBrowseLeafRelevance":"low"
+                    },{
+                      "InterventionBrowseLeafId":"M9478",
+                      "InterventionBrowseLeafName":"Hormone Antagonists",
+                      "InterventionBrowseLeafRelevance":"low"
+                    },{
+                      "InterventionBrowseLeafId":"M27595",
+                      "InterventionBrowseLeafName":"Incretins",
+                      "InterventionBrowseLeafRelevance":"low"
+                    }
+                  ]
+                },
+                "InterventionBrowseBranchList":{
+                  "InterventionBrowseBranch":[
+                    {
+                      "InterventionBrowseBranchAbbrev":"PhSol",
+                      "InterventionBrowseBranchName":"Pharmaceutical Solutions"
+                    },{
+                      "InterventionBrowseBranchAbbrev":"All",
+                      "InterventionBrowseBranchName":"All Drugs and Chemicals"
+                    },{
+                      "InterventionBrowseBranchAbbrev":"Hypo",
+                      "InterventionBrowseBranchName":"Hypoglycemic Agents"
+                    },{
+                      "InterventionBrowseBranchAbbrev":"Gast",
+                      "InterventionBrowseBranchName":"Gastrointestinal Agents"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+  

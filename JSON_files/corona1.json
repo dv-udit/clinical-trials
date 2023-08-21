@@ -1,0 +1,2538 @@
+
+{
+    "FullStudiesResponse":{
+      "APIVrs":"1.01.05",
+      "DataVrs":"2023:08:16 23:57:56.293",
+      "Expression":"NCT04952402",
+      "NStudiesAvail":462815,
+      "NStudiesFound":1,
+      "MinRank":1,
+      "MaxRank":1,
+      "NStudiesReturned":1,
+      "FullStudies":[
+        {
+          "Rank":1,
+          "Study":{
+            "ProtocolSection":{
+              "IdentificationModule":{
+                "NCTId":"NCT04952402",
+                "OrgStudyIdInfo":{
+                  "OrgStudyId":"A5404"
+                },
+                "Organization":{
+                  "OrgFullName":"National Institute of Allergy and Infectious Diseases (NIAID)",
+                  "OrgClass":"NIH"
+                },
+                "BriefTitle":"SARS-CoV-2 Immune Responses After COVID-19 Therapy and Subsequent Vaccine",
+                "OfficialTitle":"SARS-CoV-2 Immune Responses After COVID-19 Therapy and Subsequent Vaccine"
+              },
+              "StatusModule":{
+                "StatusVerifiedDate":"May 2023",
+                "OverallStatus":"Completed",
+                "ExpandedAccessInfo":{
+                  "HasExpandedAccess":"No"
+                },
+                "StartDateStruct":{
+                  "StartDate":"July 9, 2021",
+                  "StartDateType":"Actual"
+                },
+                "PrimaryCompletionDateStruct":{
+                  "PrimaryCompletionDate":"February 28, 2022",
+                  "PrimaryCompletionDateType":"Actual"
+                },
+                "CompletionDateStruct":{
+                  "CompletionDate":"January 10, 2023",
+                  "CompletionDateType":"Actual"
+                },
+                "StudyFirstSubmitDate":"June 28, 2021",
+                "StudyFirstSubmitQCDate":"July 2, 2021",
+                "StudyFirstPostDateStruct":{
+                  "StudyFirstPostDate":"July 7, 2021",
+                  "StudyFirstPostDateType":"Actual"
+                },
+                "ResultsFirstSubmitDate":"February 22, 2023",
+                "ResultsFirstSubmitQCDate":"May 17, 2023",
+                "ResultsFirstPostDateStruct":{
+                  "ResultsFirstPostDate":"May 19, 2023",
+                  "ResultsFirstPostDateType":"Actual"
+                },
+                "ResultsFirstPostedQCCommentsDateStruct":{
+                  "ResultsFirstPostedQCCommentsDate":"March 22, 2023",
+                  "ResultsFirstPostedQCCommentsDateType":"Actual"
+                },
+                "LastUpdateSubmitDate":"May 22, 2023",
+                "LastUpdatePostDateStruct":{
+                  "LastUpdatePostDate":"May 24, 2023",
+                  "LastUpdatePostDateType":"Actual"
+                }
+              },
+              "SponsorCollaboratorsModule":{
+                "ResponsibleParty":{
+                  "ResponsiblePartyType":"Sponsor"
+                },
+                "LeadSponsor":{
+                  "LeadSponsorName":"National Institute of Allergy and Infectious Diseases (NIAID)",
+                  "LeadSponsorClass":"NIH"
+                }
+              },
+              "OversightModule":{
+                "OversightHasDMC":"Yes",
+                "IsFDARegulatedDrug":"Yes",
+                "IsFDARegulatedDevice":"No"
+              },
+              "DescriptionModule":{
+                "BriefSummary":"The purpose of this study is to evaluate the safety and efficacy of mRNA COVID-19 vaccines in:\n\n• People with prior COVID-19 (SARS-CoV-2 infection) who were in the ACTIV-2/A5401 study.\n\nAnd\n\n• People who have never had COVID-19 (SARS-CoV-2 infection).",
+                "DetailedDescription":"A5404 is a phase IV, open-label study. The objective of A5404 is to evaluate how prior investigational therapy for COVID-19 versus comparator (placebo or active comparator) affects vaccine response. The safety of mRNA COVID-19 vaccines is also explored.\n\nEligible A5404 participants include: Participants of ACTIV-2/A5401 at selected sites who received an investigational therapy or its comparator; and persons without known history of prior SARS-CoV-2 infection defined as no known history of any SARS-CoV-2 positive test (non-A5401 participants). In line with our protocol, for outcome measures related to neutralizing antibodies and adverse events, we further break down the ACTIV-2/A5401 participants into two exposure groups: those who received an active therapy (AZD7442 IM or IV, BRII-196 + BRII 198 IV, SAB 185 (3,840 or 10,240 units/kg) IV, BMS 096414+BMS 986413 subcutaneous) and those who received Camostat Oral or Placebo.\n\nParticipants of ACTIV-2/A5401 received study-provided standard dosing of the Moderna mRNA-1273 vaccine, or a community-provided mRNA-based COVID-19 vaccine (e.g., Moderna or Pfizer). Participants in ACTIV-2/A5401 received their mRNA-based COVID-19 vaccine 60-240 days after receiving their last dose of a select ACTIV-2/A5401 investigational therapy, or its comparator. Participants without prior COVID-19 received study-provided standard dosing of the Moderna mRNA-1273 vaccine.\n\nThe study closed early to accrual on February 25, 2022 due to slow enrollment. Clarification Memo #1 (dated January 11, 2023) reflects decisions to discontinue follow up at study Day 365 instead of following participants to Day 730 after the first dose of vaccine and to reallocate some secondary outcome measures to exploratory outcome measures."
+              },
+              "ConditionsModule":{
+                "ConditionList":{
+                  "Condition":[
+                    "Covid19",
+                    "SARS-CoV2 Infection"
+                  ]
+                }
+              },
+              "DesignModule":{
+                "StudyType":"Interventional",
+                "PhaseList":{
+                  "Phase":[
+                    "Phase 4"
+                  ]
+                },
+                "DesignInfo":{
+                  "DesignAllocation":"Non-Randomized",
+                  "DesignInterventionModel":"Single Group Assignment",
+                  "DesignPrimaryPurpose":"Prevention",
+                  "DesignMaskingInfo":{
+                    "DesignMasking":"None (Open Label)"
+                  }
+                },
+                "EnrollmentInfo":{
+                  "EnrollmentCount":"43",
+                  "EnrollmentType":"Actual"
+                }
+              },
+              "ArmsInterventionsModule":{
+                "ArmGroupList":{
+                  "ArmGroup":[
+                    {
+                      "ArmGroupLabel":"Cohort: ACTIV-2/A5401",
+                      "ArmGroupType":"Experimental",
+                      "ArmGroupDescription":"Participants of the ACTIV-2/A5401 randomized trial who received a select investigational (active) therapy (AZD7442 IM or IV, BRII-196 + BRII 198 IV, SAB 185 (3,840 or 10,240 units/kg) IV, BMS 096414+BMS 986413 subcutaneous, Camostat Oral) or its corresponding comparator (Placebo).",
+                      "ArmGroupInterventionList":{
+                        "ArmGroupInterventionName":[
+                          "Biological: Study-provided Moderna mRNA-1273 COVID-19 vaccine",
+                          "Biological: Community-provided Moderna mRNA-1273 COVID-19 Vaccine",
+                          "Biological: Community-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine"
+                        ]
+                      }
+                    },{
+                      "ArmGroupLabel":"Cohort: COVID-19 Naïve",
+                      "ArmGroupType":"Experimental",
+                      "ArmGroupDescription":"Participants without known history of prior SARS-CoV-2 infection defined as no known history of any SARS-CoV-2 positive test (non-ACTIV-2/A5401 participants).",
+                      "ArmGroupInterventionList":{
+                        "ArmGroupInterventionName":[
+                          "Biological: Study-provided Moderna mRNA-1273 COVID-19 vaccine"
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "InterventionList":{
+                  "Intervention":[
+                    {
+                      "InterventionType":"Biological",
+                      "InterventionName":"Study-provided Moderna mRNA-1273 COVID-19 vaccine",
+                      "InterventionDescription":"Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).",
+                      "InterventionArmGroupLabelList":{
+                        "InterventionArmGroupLabel":[
+                          "Cohort: ACTIV-2/A5401",
+                          "Cohort: COVID-19 Naïve"
+                        ]
+                      }
+                    },{
+                      "InterventionType":"Biological",
+                      "InterventionName":"Community-provided Moderna mRNA-1273 COVID-19 Vaccine",
+                      "InterventionDescription":"Participants received a two-dose series.",
+                      "InterventionArmGroupLabelList":{
+                        "InterventionArmGroupLabel":[
+                          "Cohort: ACTIV-2/A5401"
+                        ]
+                      }
+                    },{
+                      "InterventionType":"Biological",
+                      "InterventionName":"Community-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine",
+                      "InterventionDescription":"Participants received a two-dose series.",
+                      "InterventionArmGroupLabelList":{
+                        "InterventionArmGroupLabel":[
+                          "Cohort: ACTIV-2/A5401"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "OutcomesModule":{
+                "PrimaryOutcomeList":{
+                  "PrimaryOutcome":[
+                    {
+                      "PrimaryOutcomeMeasure":"Neutralizing Antibody (NAb) Level",
+                      "PrimaryOutcomeDescription":"NAb level was measured by using both 50% neutralizing dilution titers (ND50) and 80% neutralizing titers (ND80). A higher NAb level corresponds to a stronger immune response. For ND50 values less than lower limit of quantification (LLQ), we impute with 10 (which is ½ LLQ of 20). For ND50 values exceeding the upper limit of quantification (ULQ), we impute with 20,000 (a value suggested by the immunology lab, which is 2 times the ULQ of 10,000). For ND80, we impute similarly with 10 and 20,000. We carry forward the Day 56 NAb measurement if the Day 140 measurement is not reported.",
+                      "PrimaryOutcomeTimeFrame":"Measured 140 days after the first dose of the vaccine"
+                    }
+                  ]
+                },
+                "SecondaryOutcomeList":{
+                  "SecondaryOutcome":[
+                    {
+                      "SecondaryOutcomeMeasure":"Geometric Mean of Relative Change in Neutralizing Antibody Levels From Pre-vaccine to Post-vaccine",
+                      "SecondaryOutcomeDescription":"Relative change is defined as the ratio of post-vaccine NAb level/pre-vaccine NAb level. A ratio greater than one indicates an increase of NAb response. For ND50 values less than lower limit of quantification (LLQ), we impute with 10 (which is ½ LLQ of 20). For ND50 values exceeding the upper limit of quantification (ULQ), we impute with 20,000 (a value suggested by the immunology lab, which is 2 times the ULQ of 10,000). For ND80, we impute similarly with 10 and 20,000.",
+                      "SecondaryOutcomeTimeFrame":"Measured before the first dose of the vaccine, and 56 days after the first dose of the vaccine"
+                    },{
+                      "SecondaryOutcomeMeasure":"Proportion of Participants With New Grade 3 or Higher AE, or SAE, or AE Leading to Change or Discontinuation in Vaccine Receipt",
+                      "SecondaryOutcomeDescription":"An adverse event (AE) is any unfavorable and unintended sign, symptom, or diagnosis that occurs in a study participant during the conduct of the study REGARDLESS of the attribution. A serious adverse event (SAE) is defined as any untoward medical occurrence that results in death; is life-threatening; requires inpatient hospitalization or prolongation of existing hospitalization; results in persistent or significant disability/incapacity; is a congenital anomaly/birth defect; is an important medical event that may not be immediately life-threatening or result in death or hospitalization but may jeopardize the patient or may require intervention to prevent one of the other outcomes listed in the definition above.\n\nAdverse events are graded on a scale from 1-5: 1=mild, 2=moderate, 3=severe, 4=life-threatening, 5=death. AE grading was per Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table V2.1).",
+                      "SecondaryOutcomeTimeFrame":"From first dose of the vaccine through 140 days after the first dose of the vaccine"
+                    },{
+                      "SecondaryOutcomeMeasure":"Number of Participants With Grade 1 or Higher Allergic Reaction",
+                      "SecondaryOutcomeDescription":"Adverse events are graded on a scale from 1-5: 1=mild, 2=moderate, 3=severe, 4=life-threatening, 5=death. AE grading was per Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table V2.1).",
+                      "SecondaryOutcomeTimeFrame":"From first dose of the vaccine through 56 days after the first dose of the vaccine"
+                    },{
+                      "SecondaryOutcomeMeasure":"Proportion of Participants With Grade 2 or Higher Injection Site Reaction",
+                      "SecondaryOutcomeDescription":"Adverse events are graded on a scale from 1-5: 1=mild, 2=moderate, 3=severe, 4=life-threatening, 5=death. AE grading was per Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table V2.1).",
+                      "SecondaryOutcomeTimeFrame":"From first dose of the vaccine through 56 days after the first dose of the vaccine"
+                    },{
+                      "SecondaryOutcomeMeasure":"Geometric Mean of Relative Change in Neutralizing Antibody Levels From Pre-vaccine to Post-vaccine by Received Vaccine",
+                      "SecondaryOutcomeDescription":"Relative change is defined as the ratio of post-vaccine NAb level/pre-vaccine NAb level by received vaccine, i.e., Moderna mRNA-1273 versus Pfizer-BioNTech BNT162b2. A ratio greater than one indicates an increase of NAb response for those on Moderna mRNA-1273 versus Pfizer-BioNTech BNT162b2. For ND50 values less than lower limit of quantification (LLQ), we impute with 10 (which is ½ LLQ of 20). For ND50 values exceeding the upper limit of quantification (ULQ), we impute with 20,000 (a value suggested by the immunology lab, which is 2 times the ULQ of 10,000). For ND80, we impute similarly with 10 and 20,000.",
+                      "SecondaryOutcomeTimeFrame":"Measured before the first dose of the vaccine, and 56 days after the first dose of the vaccine"
+                    }
+                  ]
+                },
+                "OtherOutcomeList":{
+                  "OtherOutcome":[
+                    {
+                      "OtherOutcomeMeasure":"CD4+ T Cell Response to SARS-CoV-2 Spike Protein",
+                      "OtherOutcomeDescription":"Team re-prioritized the analysis of secondary objectives due to limited accrual and moved this outcome to exploratory.",
+                      "OtherOutcomeTimeFrame":"At the visit 56 days after the first dose of the vaccine"
+                    },{
+                      "OtherOutcomeMeasure":"CD8+ T Cell Response to SARS-CoV-2 Spike Protein",
+                      "OtherOutcomeDescription":"Team re-prioritized the analysis of secondary objectives due to limited accrual and moved this outcome to exploratory.",
+                      "OtherOutcomeTimeFrame":"At the visit 56 days after the first dose of the vaccine"
+                    },{
+                      "OtherOutcomeMeasure":"IgG Serologic Response to SARS-CoV-2 Spike Protein at Receptor Binding Domain (RBD) and N Terminal Domain (NTD) and Matrix (M) Protein.",
+                      "OtherOutcomeDescription":"Team re-prioritized the analysis of secondary objectives due to limited accrual and moved this outcome to exploratory.",
+                      "OtherOutcomeTimeFrame":"At the visit 56 days after the first dose of the vaccine"
+                    },{
+                      "OtherOutcomeMeasure":"Flow Cytometry of PBMC for Markers of Exhaustion on B and T Cells",
+                      "OtherOutcomeDescription":"Team re-prioritized the analysis of secondary objectives due to limited accrual and moved this outcome to exploratory.",
+                      "OtherOutcomeTimeFrame":"At study entry/Day 0 and 56 days after the first vaccine dose."
+                    },{
+                      "OtherOutcomeMeasure":"IgM Serologic Response to SARS-CoV-2 Spike Protein at Receptor Binding Domain (RBD) and N Terminal Domain (NTD) and Matrix (M) Protein.",
+                      "OtherOutcomeDescription":"Team re-prioritized the analysis of secondary objectives due to limited accrual and moved this outcome to exploratory.",
+                      "OtherOutcomeTimeFrame":"At the visit 56 days after the first dose of the vaccine"
+                    }
+                  ]
+                }
+              },
+              "EligibilityModule":{
+                "EligibilityCriteria":"Inclusion Criteria:\n\nFor all participants: Ability and willingness of participant (or legally authorized representative) to provide informed consent prior to initiation of any study procedures.\nFor participants who are in, or who have completed, the ACTIV-2/A5401 trial: Receipt of all selected investigational therapy or active comparator/placebo for that therapy at selected sites.\nFor participants who are in, or who have completed, the ACTIV-2/A5401 trial and receive study-provided Moderna mRNA-1273 COVID-19 vaccine: Receipt of the last dose of investigational therapy or active comparator/placebo for that therapy ≥30 days and ≤240 days prior to study entry.\nFor participants who are in, or who have completed, the ACTIV-2/A5401 trial and have received or will be receiving community-provided mRNA-based COVID-19 vaccine: Receipt of the last dose of investigational therapy or active comparator/placebo for that therapy ≥30 and ≤240 days prior to receipt or planned receipt of the first dose of community-provided vaccine.\n\nExclusion Criteria:\n\nFor participants who are in, or who have completed, the ACTIV-2/A5401 trial: Self-report of prior receipt of a non-mRNA-based COVID-19 vaccine.\nFor participants who are in, or who have completed, the ACTIV-2/A5401 trial: Self-report of receipt of the first dose of an mRNA-based COVID-19 vaccine 140 days or more before A5404 enrollment.\nFor participants who are in, or who have completed, the ACTIV-2/A5401 trial: Self-report of a second SARS-CoV-2 infection after the infection that qualified the participant for ACTIV-2/A5401.\nFor non-A5401/ACTIV-2 participants: Self-report of receipt of any prior COVID-19 vaccine.\nFor non-A5401/ACTIV-2 participants: Known prior history of any SARS-CoV-2-positive test (e.g., PCR test, Nucleic Acid Amplification Test (NAAT), antigen test, serology test).\nFor participants who receive study-provided Moderna mRNA-1273 COVID-19 vaccine: Known allergy to any component of the Moderna COVID-19 vaccine.",
+                "HealthyVolunteers":"Accepts Healthy Volunteers",
+                "Gender":"All",
+                "MinimumAge":"18 Years",
+                "StdAgeList":{
+                  "StdAge":[
+                    "Adult",
+                    "Older Adult"
+                  ]
+                }
+              },
+              "ContactsLocationsModule":{
+                "OverallOfficialList":{
+                  "OverallOfficial":[
+                    {
+                      "OverallOfficialName":"David Smith, MD, MAS",
+                      "OverallOfficialAffiliation":"UCSD Antiviral Research Center",
+                      "OverallOfficialRole":"Study Chair"
+                    }
+                  ]
+                },
+                "LocationList":{
+                  "Location":[
+                    {
+                      "LocationFacility":"UCLA CARE Center CRS",
+                      "LocationCity":"Los Angeles",
+                      "LocationState":"California",
+                      "LocationZip":"90035-4709",
+                      "LocationCountry":"United States"
+                    },{
+                      "LocationFacility":"UCSD Antiviral Research Center CRS",
+                      "LocationCity":"San Diego",
+                      "LocationState":"California",
+                      "LocationZip":"92103",
+                      "LocationCountry":"United States"
+                    },{
+                      "LocationFacility":"Rush University CRS (Site ID: 2702)",
+                      "LocationCity":"Chicago",
+                      "LocationState":"Illinois",
+                      "LocationZip":"60612",
+                      "LocationCountry":"United States"
+                    },{
+                      "LocationFacility":"Brigham and Women's Hospital Therapeutics Clinical Research Site (BWH TCRS) CRS",
+                      "LocationCity":"Boston",
+                      "LocationState":"Massachusetts",
+                      "LocationZip":"02115",
+                      "LocationCountry":"United States"
+                    },{
+                      "LocationFacility":"Chapel Hill CRS (Site ID: 3201)",
+                      "LocationCity":"Chapel Hill",
+                      "LocationState":"North Carolina",
+                      "LocationZip":"27599",
+                      "LocationCountry":"United States"
+                    },{
+                      "LocationFacility":"University of Washington AIDS CRS",
+                      "LocationCity":"Seattle",
+                      "LocationState":"Washington",
+                      "LocationZip":"98104-9929",
+                      "LocationCountry":"United States"
+                    }
+                  ]
+                }
+              },
+              "ReferencesModule":{
+                "SeeAlsoLinkList":{
+                  "SeeAlsoLink":[
+                    {
+                      "SeeAlsoLinkLabel":"The Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), corrected Version 2.1, July 2017.",
+                      "SeeAlsoLinkURL":"https://rsc.niaid.nih.gov/clinical-research-sites/daids-adverse-event-grading-tables"
+                    },{
+                      "SeeAlsoLinkLabel":"Manual for Expedited Reporting of Adverse Events to DAIDS (DAIDS EAE Manual), Version 2.0, January 2010",
+                      "SeeAlsoLinkURL":"https://rsc.niaid.nih.gov/clinical-research-sites/manual-expedited-reporting-adverse-events-daids"
+                    }
+                  ]
+                }
+              },
+              "IPDSharingStatementModule":{
+                "IPDSharing":"Yes",
+                "IPDSharingDescription":"Individual participant data that underlie results in the publication, after deidentification.",
+                "IPDSharingInfoTypeList":{
+                  "IPDSharingInfoType":[
+                    "Study Protocol",
+                    "Statistical Analysis Plan (SAP)"
+                  ]
+                },
+                "IPDSharingTimeFrame":"Beginning 3 months following publication and available throughout period of funding of the AIDS Clinical Trials Group by NIH.",
+                "IPDSharingAccessCriteria":"With whom? Researchers who provide a methodologically sound proposal for use of the data that is approved by the AIDS Clinical Trials Group.\nFor what types of analyses? To achieve aims in the proposal approved by the AIDS Clinical Trials Group.\nBy what mechanism will data be made available? Researchers may submit a request for access to data using the AIDS Clinical Trials Group \"Data Request\" form at: https://actgnetwork.org/submit-a-proposal/. Researchers of approved proposals will need to sign an AIDS Clinical Trials Group Data Use Agreement before receiving the data."
+              }
+            },
+            "ResultsSection":{
+              "ParticipantFlowModule":{
+                "FlowPreAssignmentDetails":"For participant flow, ACTIV-2/A5401 participants regardless of the exposure (select active therapy or Camostat or placebo) are considered as one cohort, and COVID-naïve participants are considered as the second cohort.",
+                "FlowRecruitmentDetails":"Participants were enrolled from July 9, 2021 to December 16, 2021 at six clinical research sites in the U.S.",
+                "FlowGroupList":{
+                  "FlowGroup":[
+                    {
+                      "FlowGroupId":"FG000",
+                      "FlowGroupTitle":"Cohort: ACTIV-2/A5401",
+                      "FlowGroupDescription":"Participants of the ACTIV-2/A5401 randomized trial who received a select investigational (active) therapy (AZD7442 IM or IV, BRII-196 + BRII 198 IV, SAB 185 (3,840 or 10,240 units/kg) IV, BMS 096414+BMS 986413 subcutaneous, Camostat Oral) or its corresponding comparator (Placebo).\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                    },{
+                      "FlowGroupId":"FG001",
+                      "FlowGroupTitle":"Cohort: COVID-19 Naïve",
+                      "FlowGroupDescription":"Participants without known history of prior SARS-CoV-2 infection defined as no known history of any SARS-CoV-2 positive test (non-ACTIV-2/A5401 participants).\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28)."
+                    }
+                  ]
+                },
+                "FlowPeriodList":{
+                  "FlowPeriod":[
+                    {
+                      "FlowPeriodTitle":"Overall Study",
+                      "FlowMilestoneList":{
+                        "FlowMilestone":[
+                          {
+                            "FlowMilestoneType":"STARTED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"18"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"25"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"Completed Two-dose Vaccine Series",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"18"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"25"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"17"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"21"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"NOT COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"1"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"4"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "FlowDropWithdrawList":{
+                        "FlowDropWithdraw":[
+                          {
+                            "FlowDropWithdrawType":"Lost to Follow-up",
+                            "FlowReasonList":{
+                              "FlowReason":[
+                                {
+                                  "FlowReasonGroupId":"FG000",
+                                  "FlowReasonNumSubjects":"1"
+                                },{
+                                  "FlowReasonGroupId":"FG001",
+                                  "FlowReasonNumSubjects":"3"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowDropWithdrawType":"Lack Of Venous Access",
+                            "FlowReasonList":{
+                              "FlowReason":[
+                                {
+                                  "FlowReasonGroupId":"FG000",
+                                  "FlowReasonNumSubjects":"0"
+                                },{
+                                  "FlowReasonGroupId":"FG001",
+                                  "FlowReasonNumSubjects":"1"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "BaselineCharacteristicsModule":{
+                "BaselinePopulationDescription":"All A5404 trial participants. For baseline characteristics, ACTIV-2/A5401 participants regardless of the exposure (select active therapy or Camostat or placebo) are considered as one cohort, and COVID-naïve participants are considered as the second cohort.",
+                "BaselineGroupList":{
+                  "BaselineGroup":[
+                    {
+                      "BaselineGroupId":"BG000",
+                      "BaselineGroupTitle":"Cohort: ACTIV-2/A5401",
+                      "BaselineGroupDescription":"Participants of the ACTIV-2/A5401 randomized trial who received a select investigational (active) therapy (AZD7442 IM or IV, BRII-196 + BRII 198 IV, SAB 185 (3,840 or 10,240 units/kg) IV, BMS 096414+BMS 986413 subcutaneous, Camostat Oral) or its corresponding comparator (Placebo).\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                    },{
+                      "BaselineGroupId":"BG001",
+                      "BaselineGroupTitle":"Cohort: COVID-19 Naïve",
+                      "BaselineGroupDescription":"Participants without known history of prior SARS-CoV-2 infection defined as no known history of any SARS-CoV-2 positive test (non-ACTIV-2/A5401 participants).\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28)."
+                    },{
+                      "BaselineGroupId":"BG002",
+                      "BaselineGroupTitle":"Total",
+                      "BaselineGroupDescription":"Total of all reporting groups"
+                    }
+                  ]
+                },
+                "BaselineDenomList":{
+                  "BaselineDenom":[
+                    {
+                      "BaselineDenomUnits":"Participants",
+                      "BaselineDenomCountList":{
+                        "BaselineDenomCount":[
+                          {
+                            "BaselineDenomCountGroupId":"BG000",
+                            "BaselineDenomCountValue":"18"
+                          },{
+                            "BaselineDenomCountGroupId":"BG001",
+                            "BaselineDenomCountValue":"25"
+                          },{
+                            "BaselineDenomCountGroupId":"BG002",
+                            "BaselineDenomCountValue":"43"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "BaselineMeasureList":{
+                  "BaselineMeasure":[
+                    {
+                      "BaselineMeasureTitle":"Age, Continuous",
+                      "BaselineMeasureParamType":"Median",
+                      "BaselineMeasureDispersionType":"Inter-Quartile Range",
+                      "BaselineMeasureUnitOfMeasure":"years",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"18"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"25"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"43"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"35",
+                                        "BaselineMeasurementLowerLimit":"28",
+                                        "BaselineMeasurementUpperLimit":"52"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"32",
+                                        "BaselineMeasurementLowerLimit":"23",
+                                        "BaselineMeasurementUpperLimit":"42"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"32",
+                                        "BaselineMeasurementLowerLimit":"24",
+                                        "BaselineMeasurementUpperLimit":"43"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Sex/Gender, Customized",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassTitle":"Female",
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"18"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"25"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"43"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"9"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"16"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"25"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "BaselineClassTitle":"Gender Queer",
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"18"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"25"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"43"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"1"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"1"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "BaselineClassTitle":"Male",
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"18"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"25"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"43"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"9"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"8"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"17"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Sex: Female, Male",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"18"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"25"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"43"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"Female",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"9"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"17"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"26"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Male",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"9"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"8"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"17"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Ethnicity (NIH/OMB)",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"18"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"25"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"43"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"Hispanic or Latino",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"6"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"6"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"12"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Not Hispanic or Latino",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"12"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"19"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"31"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Unknown or Not Reported",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Race/Ethnicity, Customized",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassTitle":"Race",
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"18"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"25"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"43"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"Black Or African American",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"1"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"18"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"19"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"White",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"17"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"7"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"24"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Body Mass Index",
+                      "BaselineMeasurePopulationDescription":"8 participants in the ACTV-2/A5401 cohort did not have BMI information collected.",
+                      "BaselineMeasureParamType":"Median",
+                      "BaselineMeasureDispersionType":"Inter-Quartile Range",
+                      "BaselineMeasureUnitOfMeasure":"kg/m^2",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"10"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"25"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"35"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"40",
+                                        "BaselineMeasurementLowerLimit":"27",
+                                        "BaselineMeasurementUpperLimit":"46"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"24",
+                                        "BaselineMeasurementLowerLimit":"21",
+                                        "BaselineMeasurementUpperLimit":"32"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"27",
+                                        "BaselineMeasurementLowerLimit":"21",
+                                        "BaselineMeasurementUpperLimit":"44"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "OutcomeMeasuresModule":{
+                "OutcomeMeasureList":{
+                  "OutcomeMeasure":[
+                    {
+                      "OutcomeMeasureType":"Primary",
+                      "OutcomeMeasureTitle":"Neutralizing Antibody (NAb) Level",
+                      "OutcomeMeasureDescription":"NAb level was measured by using both 50% neutralizing dilution titers (ND50) and 80% neutralizing titers (ND80). A higher NAb level corresponds to a stronger immune response. For ND50 values less than lower limit of quantification (LLQ), we impute with 10 (which is ½ LLQ of 20). For ND50 values exceeding the upper limit of quantification (ULQ), we impute with 20,000 (a value suggested by the immunology lab, which is 2 times the ULQ of 10,000). For ND80, we impute similarly with 10 and 20,000. We carry forward the Day 56 NAb measurement if the Day 140 measurement is not reported.",
+                      "OutcomeMeasurePopulationDescription":"The analysis population includes all participants who received at least the first dose of an mRNA-based COVID-19 vaccine and who provided a specimen sample at either Day 56 or Day 140 (One COVID-19 naïve participant who was not able to provide specimen at any study visits was excluded).",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Geometric Mean",
+                      "OutcomeMeasureDispersionType":"95% Confidence Interval",
+                      "OutcomeMeasureUnitOfMeasure":"titer",
+                      "OutcomeMeasureTimeFrame":"Measured 140 days after the first dose of the vaccine",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"ACTIV-2/A5401 Investigational Therapy Except Camostat",
+                            "OutcomeGroupDescription":"Participants of ACTIV-2/A5401 who received an investigational (active) therapy (AZD7442 IM or IV, BRII-196 + BRII 198 IV, SAB 185 (3,840 or 10,240 units/kg) IV or BMS 096414+BMS 986413 subcutaneous).\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"ACTIV-2/A5401 Placebo or Camostat",
+                            "OutcomeGroupDescription":"Participants of ACTIV-2/A5401 who received placebo or Camostat.\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG002",
+                            "OutcomeGroupTitle":"COVID-19 Naïve",
+                            "OutcomeGroupDescription":"Participants without known history of prior SARS-CoV-2 infection defined as no known history of any SARS-CoV-2 positive test (non-ACTIV-2/A5401 participants)\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28)."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"8"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"10"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG002",
+                                  "OutcomeDenomCountValue":"24"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeClassTitle":"50% neutralizing dilution titers (ND50)",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"2242.47",
+                                        "OutcomeMeasurementLowerLimit":"688.55",
+                                        "OutcomeMeasurementUpperLimit":"7303.29"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"2695.21",
+                                        "OutcomeMeasurementLowerLimit":"1005.71",
+                                        "OutcomeMeasurementUpperLimit":"7222.88"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG002",
+                                        "OutcomeMeasurementValue":"2196.74",
+                                        "OutcomeMeasurementLowerLimit":"970.88",
+                                        "OutcomeMeasurementUpperLimit":"4970.42"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"80% neutralizing dilution titers (ND80)",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"888.80",
+                                        "OutcomeMeasurementLowerLimit":"222.60",
+                                        "OutcomeMeasurementUpperLimit":"3548.78"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"972.43",
+                                        "OutcomeMeasurementLowerLimit":"358.67",
+                                        "OutcomeMeasurementUpperLimit":"2636.46"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG002",
+                                        "OutcomeMeasurementValue":"794.90",
+                                        "OutcomeMeasurementLowerLimit":"364.34",
+                                        "OutcomeMeasurementUpperLimit":"1734.27"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Geometric Mean of Relative Change in Neutralizing Antibody Levels From Pre-vaccine to Post-vaccine",
+                      "OutcomeMeasureDescription":"Relative change is defined as the ratio of post-vaccine NAb level/pre-vaccine NAb level. A ratio greater than one indicates an increase of NAb response. For ND50 values less than lower limit of quantification (LLQ), we impute with 10 (which is ½ LLQ of 20). For ND50 values exceeding the upper limit of quantification (ULQ), we impute with 20,000 (a value suggested by the immunology lab, which is 2 times the ULQ of 10,000). For ND80, we impute similarly with 10 and 20,000.",
+                      "OutcomeMeasurePopulationDescription":"The analysis population includes all participants who received at least the first dose of an mRNA-based COVID-19 vaccine and who provided a specimen sample at both Day 0 and Day 56.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Geometric Mean",
+                      "OutcomeMeasureDispersionType":"95% Confidence Interval",
+                      "OutcomeMeasureUnitOfMeasure":"ratio",
+                      "OutcomeMeasureTimeFrame":"Measured before the first dose of the vaccine, and 56 days after the first dose of the vaccine",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"ACTIV-2/A5401 Investigational Therapy Except Camostat",
+                            "OutcomeGroupDescription":"Participants of ACTIV-2/A5401 who received an investigational (active) therapy (AZD7442 IM or IV, BRII-196 + BRII 198 IV, SAB 185 (3,840 or 10,240 units/kg) IV or BMS 096414+BMS 986413 subcutaneous).\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"ACTIV-2/A5401 Placebo or Camostat",
+                            "OutcomeGroupDescription":"Participants of ACTIV-2/A5401 who received placebo or Camostat.\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG002",
+                            "OutcomeGroupTitle":"COVID-19 Naïve",
+                            "OutcomeGroupDescription":"Participants without known history of prior SARS-CoV-2 infection defined as no known history of any SARS-CoV-2 positive test (non-ACTIV-2/A5401 participants)\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28)."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"3"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"2"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG002",
+                                  "OutcomeDenomCountValue":"21"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeClassTitle":"50% neutralizing dilution titers (ND50)",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"6.85",
+                                        "OutcomeMeasurementLowerLimit":"0.05",
+                                        "OutcomeMeasurementUpperLimit":"982.60"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"21.63",
+                                        "OutcomeMeasurementLowerLimit":"0.00",
+                                        "OutcomeMeasurementUpperLimit":"1842965.87"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG002",
+                                        "OutcomeMeasurementValue":"50.80",
+                                        "OutcomeMeasurementLowerLimit":"16.66",
+                                        "OutcomeMeasurementUpperLimit":"154.86"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"80% neutralizing dilution titers (ND80)",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"8.31",
+                                        "OutcomeMeasurementLowerLimit":"0.01",
+                                        "OutcomeMeasurementUpperLimit":"5138.20"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"40.86",
+                                        "OutcomeMeasurementLowerLimit":"0.18",
+                                        "OutcomeMeasurementUpperLimit":"9051.19"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG002",
+                                        "OutcomeMeasurementValue":"33.05",
+                                        "OutcomeMeasurementLowerLimit":"12.19",
+                                        "OutcomeMeasurementUpperLimit":"89.59"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Proportion of Participants With New Grade 3 or Higher AE, or SAE, or AE Leading to Change or Discontinuation in Vaccine Receipt",
+                      "OutcomeMeasureDescription":"An adverse event (AE) is any unfavorable and unintended sign, symptom, or diagnosis that occurs in a study participant during the conduct of the study REGARDLESS of the attribution. A serious adverse event (SAE) is defined as any untoward medical occurrence that results in death; is life-threatening; requires inpatient hospitalization or prolongation of existing hospitalization; results in persistent or significant disability/incapacity; is a congenital anomaly/birth defect; is an important medical event that may not be immediately life-threatening or result in death or hospitalization but may jeopardize the patient or may require intervention to prevent one of the other outcomes listed in the definition above.\n\nAdverse events are graded on a scale from 1-5: 1=mild, 2=moderate, 3=severe, 4=life-threatening, 5=death. AE grading was per Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table V2.1).",
+                      "OutcomeMeasurePopulationDescription":"The analysis population includes all participants who received at least the first dose of an mRNA-based COVID-19 vaccine.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Number",
+                      "OutcomeMeasureDispersionType":"95% Confidence Interval",
+                      "OutcomeMeasureUnitOfMeasure":"proportion of participants",
+                      "OutcomeMeasureTimeFrame":"From first dose of the vaccine through 140 days after the first dose of the vaccine",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"ACTIV-2/A5401 Investigational Therapy Except Camostat",
+                            "OutcomeGroupDescription":"Participants of ACTIV-2/A5401 who received an investigational (active) therapy (AZD7442 IM or IV, BRII-196 + BRII 198 IV, SAB 185 (3,840 or 10,240 units/kg) IV or BMS 096414+BMS 986413 subcutaneous).\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"ACTIV-2/A5401 Placebo or Camostat",
+                            "OutcomeGroupDescription":"Participants of ACTIV-2/A5401 who received placebo or Camostat.\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG002",
+                            "OutcomeGroupTitle":"COVID-19 Naïve",
+                            "OutcomeGroupDescription":"Participants without known history of prior SARS-CoV-2 infection defined as no known history of any SARS-CoV-2 positive test (non-ACTIV-2/A5401 participants)\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28)."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"8"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"10"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG002",
+                                  "OutcomeDenomCountValue":"25"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"0.13",
+                                        "OutcomeMeasurementLowerLimit":"0.00",
+                                        "OutcomeMeasurementUpperLimit":"0.53"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"0.00",
+                                        "OutcomeMeasurementLowerLimit":"0.00",
+                                        "OutcomeMeasurementUpperLimit":"0.31"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG002",
+                                        "OutcomeMeasurementValue":"0.00",
+                                        "OutcomeMeasurementLowerLimit":"0.00",
+                                        "OutcomeMeasurementUpperLimit":"0.14"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Number of Participants With Grade 1 or Higher Allergic Reaction",
+                      "OutcomeMeasureDescription":"Adverse events are graded on a scale from 1-5: 1=mild, 2=moderate, 3=severe, 4=life-threatening, 5=death. AE grading was per Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table V2.1).",
+                      "OutcomeMeasurePopulationDescription":"The analysis population includes all participants who received at least the first dose of an mRNA-based COVID-19 vaccine.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Count of Participants",
+                      "OutcomeMeasureUnitOfMeasure":"Participants",
+                      "OutcomeMeasureTimeFrame":"From first dose of the vaccine through 56 days after the first dose of the vaccine",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"ACTIV-2/A5401 Investigational Therapy Except Camostat",
+                            "OutcomeGroupDescription":"Participants of ACTIV-2/A5401 who received an investigational (active) therapy (AZD7442 IM or IV, BRII-196 + BRII 198 IV, SAB 185 (3,840 or 10,240 units/kg) IV or BMS 096414+BMS 986413 subcutaneous).\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"ACTIV-2/A5401 Placebo or Camostat",
+                            "OutcomeGroupDescription":"Participants of ACTIV-2/A5401 who received placebo or Camostat.\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG002",
+                            "OutcomeGroupTitle":"COVID-19 Naïve",
+                            "OutcomeGroupDescription":"Participants without known history of prior SARS-CoV-2 infection defined as no known history of any SARS-CoV-2 positive test (non-ACTIV-2/A5401 participants)\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28)."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"8"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"10"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG002",
+                                  "OutcomeDenomCountValue":"25"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"0"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"0"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG002",
+                                        "OutcomeMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Proportion of Participants With Grade 2 or Higher Injection Site Reaction",
+                      "OutcomeMeasureDescription":"Adverse events are graded on a scale from 1-5: 1=mild, 2=moderate, 3=severe, 4=life-threatening, 5=death. AE grading was per Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table V2.1).",
+                      "OutcomeMeasurePopulationDescription":"The analysis population includes all participants who received at least the first dose of an mRNA-based COVID-19 vaccine.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Number",
+                      "OutcomeMeasureDispersionType":"95% Confidence Interval",
+                      "OutcomeMeasureUnitOfMeasure":"proportion of participants",
+                      "OutcomeMeasureTimeFrame":"From first dose of the vaccine through 56 days after the first dose of the vaccine",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"ACTIV-2/A5401 Investigational Therapy Except Camostat",
+                            "OutcomeGroupDescription":"Participants of ACTIV-2/A5401 who received an investigational (active) therapy (AZD7442 IM or IV, BRII-196 + BRII 198 IV, SAB 185 (3,840 or 10,240 units/kg) IV or BMS 096414+BMS 986413 subcutaneous).\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"ACTIV-2/A5401 Placebo or Camostat",
+                            "OutcomeGroupDescription":"Participants of ACTIV-2/A5401 who received placebo or Camostat.\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG002",
+                            "OutcomeGroupTitle":"COVID-19 Naïve",
+                            "OutcomeGroupDescription":"Participants without known history of prior SARS-CoV-2 infection defined as no known history of any SARS-CoV-2 positive test (non-ACTIV-2/A5401 participants)\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28)."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"8"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"10"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG002",
+                                  "OutcomeDenomCountValue":"25"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"0.00",
+                                        "OutcomeMeasurementLowerLimit":"0.00",
+                                        "OutcomeMeasurementUpperLimit":"0.37"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"0.10",
+                                        "OutcomeMeasurementLowerLimit":"0.00",
+                                        "OutcomeMeasurementUpperLimit":"0.45"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG002",
+                                        "OutcomeMeasurementValue":"0.00",
+                                        "OutcomeMeasurementLowerLimit":"0.00",
+                                        "OutcomeMeasurementUpperLimit":"0.16"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Geometric Mean of Relative Change in Neutralizing Antibody Levels From Pre-vaccine to Post-vaccine by Received Vaccine",
+                      "OutcomeMeasureDescription":"Relative change is defined as the ratio of post-vaccine NAb level/pre-vaccine NAb level by received vaccine, i.e., Moderna mRNA-1273 versus Pfizer-BioNTech BNT162b2. A ratio greater than one indicates an increase of NAb response for those on Moderna mRNA-1273 versus Pfizer-BioNTech BNT162b2. For ND50 values less than lower limit of quantification (LLQ), we impute with 10 (which is ½ LLQ of 20). For ND50 values exceeding the upper limit of quantification (ULQ), we impute with 20,000 (a value suggested by the immunology lab, which is 2 times the ULQ of 10,000). For ND80, we impute similarly with 10 and 20,000.",
+                      "OutcomeMeasurePopulationDescription":"The analysis population includes all participants who received at least the first dose of an mRNA-based COVID-19 vaccine and who provided a specimen sample at both Day 0 and Day 56. None of the participants who received Pfizer-BioNTech BNT162b2 COVID-19 vaccine provided a specimen sample at both Day 0 and Day 56.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Geometric Mean",
+                      "OutcomeMeasureDispersionType":"95% Confidence Interval",
+                      "OutcomeMeasureUnitOfMeasure":"ratio",
+                      "OutcomeMeasureTimeFrame":"Measured before the first dose of the vaccine, and 56 days after the first dose of the vaccine",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Participants Who Received Study or Community-provided Moderna mRNA-1273 COVID-19 Vaccine",
+                            "OutcomeGroupDescription":"Participants from the ACTIV-2/A5404 cohort or the COVID-19 Naïve cohort.\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series."
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Participants Who Received Community-provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine",
+                            "OutcomeGroupDescription":"Participants from the ACTIV-2/A5404 cohort.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"26"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"0"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeClassTitle":"50% neutralizing dilution titers (ND50)",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"37.75",
+                                        "OutcomeMeasurementLowerLimit":"14.48",
+                                        "OutcomeMeasurementUpperLimit":"98.43"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"80% neutralizing dilution titers (ND80)",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"28.65",
+                                        "OutcomeMeasurementLowerLimit":"12.05",
+                                        "OutcomeMeasurementUpperLimit":"68.13"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Other Pre-specified",
+                      "OutcomeMeasureTitle":"CD4+ T Cell Response to SARS-CoV-2 Spike Protein",
+                      "OutcomeMeasureDescription":"Team re-prioritized the analysis of secondary objectives due to limited accrual and moved this outcome to exploratory.",
+                      "OutcomeMeasureReportingStatus":"Not Posted",
+                      "OutcomeMeasureTimeFrame":"At the visit 56 days after the first dose of the vaccine",
+                      "OutcomeMeasureDenomUnitsSelected":"Participants"
+                    },{
+                      "OutcomeMeasureType":"Other Pre-specified",
+                      "OutcomeMeasureTitle":"CD8+ T Cell Response to SARS-CoV-2 Spike Protein",
+                      "OutcomeMeasureDescription":"Team re-prioritized the analysis of secondary objectives due to limited accrual and moved this outcome to exploratory.",
+                      "OutcomeMeasureReportingStatus":"Not Posted",
+                      "OutcomeMeasureTimeFrame":"At the visit 56 days after the first dose of the vaccine",
+                      "OutcomeMeasureDenomUnitsSelected":"Participants"
+                    },{
+                      "OutcomeMeasureType":"Other Pre-specified",
+                      "OutcomeMeasureTitle":"IgG Serologic Response to SARS-CoV-2 Spike Protein at Receptor Binding Domain (RBD) and N Terminal Domain (NTD) and Matrix (M) Protein.",
+                      "OutcomeMeasureDescription":"Team re-prioritized the analysis of secondary objectives due to limited accrual and moved this outcome to exploratory.",
+                      "OutcomeMeasureReportingStatus":"Not Posted",
+                      "OutcomeMeasureTimeFrame":"At the visit 56 days after the first dose of the vaccine",
+                      "OutcomeMeasureDenomUnitsSelected":"Participants"
+                    },{
+                      "OutcomeMeasureType":"Other Pre-specified",
+                      "OutcomeMeasureTitle":"Flow Cytometry of PBMC for Markers of Exhaustion on B and T Cells",
+                      "OutcomeMeasureDescription":"Team re-prioritized the analysis of secondary objectives due to limited accrual and moved this outcome to exploratory.",
+                      "OutcomeMeasureReportingStatus":"Not Posted",
+                      "OutcomeMeasureTimeFrame":"At study entry/Day 0 and 56 days after the first vaccine dose.",
+                      "OutcomeMeasureDenomUnitsSelected":"Participants"
+                    },{
+                      "OutcomeMeasureType":"Other Pre-specified",
+                      "OutcomeMeasureTitle":"IgM Serologic Response to SARS-CoV-2 Spike Protein at Receptor Binding Domain (RBD) and N Terminal Domain (NTD) and Matrix (M) Protein.",
+                      "OutcomeMeasureDescription":"Team re-prioritized the analysis of secondary objectives due to limited accrual and moved this outcome to exploratory.",
+                      "OutcomeMeasureReportingStatus":"Not Posted",
+                      "OutcomeMeasureTimeFrame":"At the visit 56 days after the first dose of the vaccine",
+                      "OutcomeMeasureDenomUnitsSelected":"Participants"
+                    }
+                  ]
+                }
+              },
+              "AdverseEventsModule":{
+                "EventsFrequencyThreshold":"0",
+                "EventsTimeFrame":"From study entry through 1 year after receiving the first dose of vaccine.",
+                "EventsDescription":"Any unfavorable/unintended sign/lab finding/symptom/dx during the study REGARDLESS of attribution inc. any occurrence new in onset/aggravated in severity/frequency from baseline. SAE/EAEs should also be entered into the DAIDS Adverse Experience Reporting System. AE grading was per Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (V2.1).",
+                "EventGroupList":{
+                  "EventGroup":[
+                    {
+                      "EventGroupId":"EG000",
+                      "EventGroupTitle":"ACTIV-2/A5401 Investigational Therapy Except Camostat",
+                      "EventGroupDescription":"Participants of ACTIV-2/A5401 who received an investigational (active) therapy (AZD7442 IM or IV, BRII-196 + BRII 198 IV, SAB 185 (3,840 or 10,240 units/kg) IV or BMS 096414+BMS 986413 subcutaneous).\n\nStudy-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series.",
+                      "EventGroupDeathsNumAffected":"0",
+                      "EventGroupDeathsNumAtRisk":"8",
+                      "EventGroupSeriousNumAffected":"0",
+                      "EventGroupSeriousNumAtRisk":"8",
+                      "EventGroupOtherNumAffected":"2",
+                      "EventGroupOtherNumAtRisk":"8"
+                    },{
+                      "EventGroupId":"EG001",
+                      "EventGroupTitle":"ACTIV-2/A5401 Placebo or Camostat",
+                      "EventGroupDescription":"Participants of ACTIV-2/A5401 who received placebo or Camostat. Study-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).\n\nCommunity-provided Moderna mRNA-1273 COVID-19 Vaccine: Participants received a two-dose series.\n\nCommunity-Provided Pfizer-BioNTech BNT162b2 COVID-19 Vaccine: Participants received a two-dose series.",
+                      "EventGroupDeathsNumAffected":"0",
+                      "EventGroupDeathsNumAtRisk":"10",
+                      "EventGroupSeriousNumAffected":"0",
+                      "EventGroupSeriousNumAtRisk":"10",
+                      "EventGroupOtherNumAffected":"8",
+                      "EventGroupOtherNumAtRisk":"10"
+                    },{
+                      "EventGroupId":"EG002",
+                      "EventGroupTitle":"COVID-19 Naïve",
+                      "EventGroupDescription":"Participants without known history of prior SARS-CoV-2 infection defined as no known history of any SARS-CoV-2 positive test (non-ACTIV-2/A5401 participants) Study-provided Moderna mRNA-1273 COVID-19 vaccine: Participants received a two-dose series (100 µg (0.5 mL) was administered intramuscularly (IM) at Day 0 and Day 28).",
+                      "EventGroupDeathsNumAffected":"0",
+                      "EventGroupDeathsNumAtRisk":"25",
+                      "EventGroupSeriousNumAffected":"0",
+                      "EventGroupSeriousNumAtRisk":"25",
+                      "EventGroupOtherNumAffected":"7",
+                      "EventGroupOtherNumAtRisk":"25"
+                    }
+                  ]
+                },
+                "OtherEventList":{
+                  "OtherEvent":[
+                    {
+                      "OtherEventTerm":"Peptic ulcer",
+                      "OtherEventOrganSystem":"Gastrointestinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Fatigue",
+                      "OtherEventOrganSystem":"General disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Inflammation",
+                      "OtherEventOrganSystem":"General disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Injection site pain",
+                      "OtherEventOrganSystem":"General disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Peripheral swelling",
+                      "OtherEventOrganSystem":"General disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Acute sinusitis",
+                      "OtherEventOrganSystem":"Infections and infestations",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"COVID-19",
+                      "OtherEventOrganSystem":"Infections and infestations",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"2",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"2",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Epididymitis",
+                      "OtherEventOrganSystem":"Infections and infestations",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Pharyngitis streptococcal",
+                      "OtherEventOrganSystem":"Infections and infestations",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Suspected COVID-19",
+                      "OtherEventOrganSystem":"Infections and infestations",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Hand fracture",
+                      "OtherEventOrganSystem":"Injury, poisoning and procedural complications",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Hyperglycaemia",
+                      "OtherEventOrganSystem":"Metabolism and nutrition disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Hypertriglyceridaemia",
+                      "OtherEventOrganSystem":"Metabolism and nutrition disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Arthralgia",
+                      "OtherEventOrganSystem":"Musculoskeletal and connective tissue disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Joint stiffness",
+                      "OtherEventOrganSystem":"Musculoskeletal and connective tissue disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Musculoskeletal stiffness",
+                      "OtherEventOrganSystem":"Musculoskeletal and connective tissue disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Myalgia",
+                      "OtherEventOrganSystem":"Musculoskeletal and connective tissue disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Neck pain",
+                      "OtherEventOrganSystem":"Musculoskeletal and connective tissue disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Squamous cell carcinoma of skin",
+                      "OtherEventOrganSystem":"Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Headache",
+                      "OtherEventOrganSystem":"Nervous system disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"2",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Lumbar radiculopathy",
+                      "OtherEventOrganSystem":"Nervous system disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Tremor",
+                      "OtherEventOrganSystem":"Nervous system disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Anxiety disorder",
+                      "OtherEventOrganSystem":"Psychiatric disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Insomnia",
+                      "OtherEventOrganSystem":"Psychiatric disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Breast mass",
+                      "OtherEventOrganSystem":"Reproductive system and breast disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Vulvovaginal dryness",
+                      "OtherEventOrganSystem":"Reproductive system and breast disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Cough",
+                      "OtherEventOrganSystem":"Respiratory, thoracic and mediastinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Dyspnoea",
+                      "OtherEventOrganSystem":"Respiratory, thoracic and mediastinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Rhinitis perennial",
+                      "OtherEventOrganSystem":"Respiratory, thoracic and mediastinal disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Alopecia areata",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Dermatitis contact",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Hypertension",
+                      "OtherEventOrganSystem":"Vascular disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 25.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"8"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumAffected":"0",
+                            "OtherEventStatsNumAtRisk":"10"
+                          },{
+                            "OtherEventStatsGroupId":"EG002",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"25"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "MoreInfoModule":{
+                "CertainAgreement":{
+                  "AgreementPISponsorEmployee":"No",
+                  "AgreementRestrictiveAgreement":"No"
+                },
+                "PointOfContact":{
+                  "PointOfContactTitle":"ACTG Clinicaltrials.gov Coordinator",
+                  "PointOfContactOrganization":"ACTG Network Coordinating Center, Social and Scientific Systems, a DLH Holdings Company",
+                  "PointOfContactEMail":"ACTGCT.gov@fstrf.org",
+                  "PointOfContactPhone":"(301) 628-3348"
+                }
+              }
+            },
+            "DocumentSection":{
+              "LargeDocumentModule":{
+                "LargeDocList":{
+                  "LargeDoc":[
+                    {
+                      "LargeDocTypeAbbrev":"Prot",
+                      "LargeDocHasProtocol":"Yes",
+                      "LargeDocHasSAP":"No",
+                      "LargeDocHasICF":"No",
+                      "LargeDocLabel":"Study Protocol: Protocol Version 3.0",
+                      "LargeDocDate":"November 30, 2022",
+                      "LargeDocUploadDate":"02/03/2023 13:46",
+                      "LargeDocFilename":"Prot_000.pdf"
+                    },{
+                      "LargeDocTypeAbbrev":"Prot",
+                      "LargeDocHasProtocol":"Yes",
+                      "LargeDocHasSAP":"No",
+                      "LargeDocHasICF":"No",
+                      "LargeDocLabel":"Study Protocol: Clarification Memo",
+                      "LargeDocDate":"January 11, 2023",
+                      "LargeDocUploadDate":"02/16/2023 14:50",
+                      "LargeDocFilename":"Prot_001.pdf"
+                    },{
+                      "LargeDocTypeAbbrev":"Prot",
+                      "LargeDocHasProtocol":"Yes",
+                      "LargeDocHasSAP":"No",
+                      "LargeDocHasICF":"No",
+                      "LargeDocLabel":"Study Protocol: Letter of Amendment #1",
+                      "LargeDocDate":"July 12, 2021",
+                      "LargeDocUploadDate":"02/16/2023 14:56",
+                      "LargeDocFilename":"Prot_002.pdf"
+                    },{
+                      "LargeDocTypeAbbrev":"SAP",
+                      "LargeDocHasProtocol":"No",
+                      "LargeDocHasSAP":"Yes",
+                      "LargeDocHasICF":"No",
+                      "LargeDocLabel":"Statistical Analysis Plan",
+                      "LargeDocDate":"January 27, 2023",
+                      "LargeDocUploadDate":"01/31/2023 23:01",
+                      "LargeDocFilename":"SAP_003.pdf"
+                    },{
+                      "LargeDocTypeAbbrev":"ICF",
+                      "LargeDocHasProtocol":"No",
+                      "LargeDocHasSAP":"No",
+                      "LargeDocHasICF":"Yes",
+                      "LargeDocLabel":"Informed Consent Form",
+                      "LargeDocDate":"November 30, 2022",
+                      "LargeDocUploadDate":"02/22/2023 15:05",
+                      "LargeDocFilename":"ICF_004.pdf"
+                    }
+                  ]
+                }
+              }
+            },
+            "DerivedSection":{
+              "MiscInfoModule":{
+                "VersionHolder":"August 17, 2023",
+                "RemovedCountryList":{
+                  "RemovedCountry":[
+                    "Puerto Rico"
+                  ]
+                },
+                "SubmissionTracking":{}
+              },
+              "ConditionBrowseModule":{
+                "ConditionMeshList":{
+                  "ConditionMesh":[
+                    {
+                      "ConditionMeshId":"D000086382",
+                      "ConditionMeshTerm":"COVID-19"
+                    }
+                  ]
+                },
+                "ConditionAncestorList":{
+                  "ConditionAncestor":[
+                    {
+                      "ConditionAncestorId":"D000011024",
+                      "ConditionAncestorTerm":"Pneumonia, Viral"
+                    },{
+                      "ConditionAncestorId":"D000011014",
+                      "ConditionAncestorTerm":"Pneumonia"
+                    },{
+                      "ConditionAncestorId":"D000012141",
+                      "ConditionAncestorTerm":"Respiratory Tract Infections"
+                    },{
+                      "ConditionAncestorId":"D000007239",
+                      "ConditionAncestorTerm":"Infections"
+                    },{
+                      "ConditionAncestorId":"D000014777",
+                      "ConditionAncestorTerm":"Virus Diseases"
+                    },{
+                      "ConditionAncestorId":"D000018352",
+                      "ConditionAncestorTerm":"Coronavirus Infections"
+                    },{
+                      "ConditionAncestorId":"D000003333",
+                      "ConditionAncestorTerm":"Coronaviridae Infections"
+                    },{
+                      "ConditionAncestorId":"D000030341",
+                      "ConditionAncestorTerm":"Nidovirales Infections"
+                    },{
+                      "ConditionAncestorId":"D000012327",
+                      "ConditionAncestorTerm":"RNA Virus Infections"
+                    },{
+                      "ConditionAncestorId":"D000008171",
+                      "ConditionAncestorTerm":"Lung Diseases"
+                    },{
+                      "ConditionAncestorId":"D000012140",
+                      "ConditionAncestorTerm":"Respiratory Tract Diseases"
+                    }
+                  ]
+                },
+                "ConditionBrowseLeafList":{
+                  "ConditionBrowseLeaf":[
+                    {
+                      "ConditionBrowseLeafId":"M2562",
+                      "ConditionBrowseLeafName":"COVID-19",
+                      "ConditionBrowseLeafAsFound":"COVID-19",
+                      "ConditionBrowseLeafRelevance":"high"
+                    },{
+                      "ConditionBrowseLeafId":"M9973",
+                      "ConditionBrowseLeafName":"Infections",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M6058",
+                      "ConditionBrowseLeafName":"Communicable Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M13594",
+                      "ConditionBrowseLeafName":"Pneumonia",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M13604",
+                      "ConditionBrowseLeafName":"Pneumonia, Viral",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M14668",
+                      "ConditionBrowseLeafName":"Respiratory Tract Infections",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M17212",
+                      "ConditionBrowseLeafName":"Virus Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M20180",
+                      "ConditionBrowseLeafName":"Coronavirus Infections",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M6245",
+                      "ConditionBrowseLeafName":"Coronaviridae Infections",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M23375",
+                      "ConditionBrowseLeafName":"Nidovirales Infections",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M14839",
+                      "ConditionBrowseLeafName":"RNA Virus Infections",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M10858",
+                      "ConditionBrowseLeafName":"Lung Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M14667",
+                      "ConditionBrowseLeafName":"Respiratory Tract Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    }
+                  ]
+                },
+                "ConditionBrowseBranchList":{
+                  "ConditionBrowseBranch":[
+                    {
+                      "ConditionBrowseBranchAbbrev":"BC01",
+                      "ConditionBrowseBranchName":"Infections"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC08",
+                      "ConditionBrowseBranchName":"Respiratory Tract (Lung and Bronchial) Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"All",
+                      "ConditionBrowseBranchName":"All Conditions"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC23",
+                      "ConditionBrowseBranchName":"Symptoms and General Pathology"
+                    }
+                  ]
+                }
+              },
+              "InterventionBrowseModule":{
+                "InterventionMeshList":{
+                  "InterventionMesh":[
+                    {
+                      "InterventionMeshId":"D000014612",
+                      "InterventionMeshTerm":"Vaccines"
+                    }
+                  ]
+                },
+                "InterventionAncestorList":{
+                  "InterventionAncestor":[
+                    {
+                      "InterventionAncestorId":"D000007155",
+                      "InterventionAncestorTerm":"Immunologic Factors"
+                    },{
+                      "InterventionAncestorId":"D000045505",
+                      "InterventionAncestorTerm":"Physiological Effects of Drugs"
+                    }
+                  ]
+                },
+                "InterventionBrowseLeafList":{
+                  "InterventionBrowseLeaf":[
+                    {
+                      "InterventionBrowseLeafId":"M17050",
+                      "InterventionBrowseLeafName":"Vaccines",
+                      "InterventionBrowseLeafAsFound":"Participants",
+                      "InterventionBrowseLeafRelevance":"high"
+                    },{
+                      "InterventionBrowseLeafId":"M207080",
+                      "InterventionBrowseLeafName":"Camostat",
+                      "InterventionBrowseLeafRelevance":"low"
+                    },{
+                      "InterventionBrowseLeafId":"M9891",
+                      "InterventionBrowseLeafName":"Immunologic Factors",
+                      "InterventionBrowseLeafRelevance":"low"
+                    }
+                  ]
+                },
+                "InterventionBrowseBranchList":{
+                  "InterventionBrowseBranch":[
+                    {
+                      "InterventionBrowseBranchAbbrev":"All",
+                      "InterventionBrowseBranchName":"All Drugs and Chemicals"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+  

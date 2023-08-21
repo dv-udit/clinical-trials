@@ -1,0 +1,1595 @@
+
+{
+    "FullStudiesResponse":{
+      "APIVrs":"1.01.05",
+      "DataVrs":"2023:08:16 23:57:56.293",
+      "Expression":"NCT04514523",
+      "NStudiesAvail":462815,
+      "NStudiesFound":1,
+      "MinRank":1,
+      "MaxRank":1,
+      "NStudiesReturned":1,
+      "FullStudies":[
+        {
+          "Rank":1,
+          "Study":{
+            "ProtocolSection":{
+              "IdentificationModule":{
+                "NCTId":"NCT04514523",
+                "OrgStudyIdInfo":{
+                  "OrgStudyId":"2000026483"
+                },
+                "SecondaryIdInfoList":{
+                  "SecondaryIdInfo":[
+                    {
+                      "SecondaryId":"1R21AG061427-01",
+                      "SecondaryIdType":"U.S. NIH Grant/Contract",
+                      "SecondaryIdLink":"https://reporter.nih.gov/quickSearch/1R21AG061427-01"
+                    },{
+                      "SecondaryId":"19-004560",
+                      "SecondaryIdType":"Other Identifier",
+                      "SecondaryIdDomain":"Mayo"
+                    }
+                  ]
+                },
+                "Organization":{
+                  "OrgFullName":"Yale University",
+                  "OrgClass":"OTHER"
+                },
+                "BriefTitle":"QBSAfe: A Novel Approach to Diabetes Management Focused on Quality of Life, Burden of Treatment, Social Integration and Avoidance of Future Events",
+                "OfficialTitle":"QBSAfe: A Novel Approach to Diabetes Management Focused on Quality of Life, Burden of Treatment, Social Integration and Avoidance of Future Events",
+                "Acronym":"QBSAfe"
+              },
+              "StatusModule":{
+                "StatusVerifiedDate":"December 2022",
+                "OverallStatus":"Completed",
+                "ExpandedAccessInfo":{
+                  "HasExpandedAccess":"No"
+                },
+                "StartDateStruct":{
+                  "StartDate":"April 28, 2020",
+                  "StartDateType":"Actual"
+                },
+                "PrimaryCompletionDateStruct":{
+                  "PrimaryCompletionDate":"September 22, 2020",
+                  "PrimaryCompletionDateType":"Actual"
+                },
+                "CompletionDateStruct":{
+                  "CompletionDate":"September 22, 2020",
+                  "CompletionDateType":"Actual"
+                },
+                "StudyFirstSubmitDate":"August 12, 2020",
+                "StudyFirstSubmitQCDate":"August 12, 2020",
+                "StudyFirstPostDateStruct":{
+                  "StudyFirstPostDate":"August 17, 2020",
+                  "StudyFirstPostDateType":"Actual"
+                },
+                "ResultsFirstSubmitDate":"October 21, 2022",
+                "ResultsFirstSubmitQCDate":"December 13, 2022",
+                "ResultsFirstPostDateStruct":{
+                  "ResultsFirstPostDate":"January 6, 2023",
+                  "ResultsFirstPostDateType":"Actual"
+                },
+                "LastUpdateSubmitDate":"December 13, 2022",
+                "LastUpdatePostDateStruct":{
+                  "LastUpdatePostDate":"January 6, 2023",
+                  "LastUpdatePostDateType":"Actual"
+                }
+              },
+              "SponsorCollaboratorsModule":{
+                "ResponsibleParty":{
+                  "ResponsiblePartyType":"Sponsor"
+                },
+                "LeadSponsor":{
+                  "LeadSponsorName":"Yale University",
+                  "LeadSponsorClass":"OTHER"
+                },
+                "CollaboratorList":{
+                  "Collaborator":[
+                    {
+                      "CollaboratorName":"National Institutes of Health (NIH)",
+                      "CollaboratorClass":"NIH"
+                    },{
+                      "CollaboratorName":"Trinity Health Of New England",
+                      "CollaboratorClass":"OTHER"
+                    },{
+                      "CollaboratorName":"National Institute on Aging (NIA)",
+                      "CollaboratorClass":"NIH"
+                    }
+                  ]
+                }
+              },
+              "OversightModule":{
+                "OversightHasDMC":"No",
+                "IsFDARegulatedDrug":"No",
+                "IsFDARegulatedDevice":"No"
+              },
+              "DescriptionModule":{
+                "BriefSummary":"The purpose of this study is to co-develop a toolkit (known as the QBSAfe toolkit) with patients, family caregivers, and clinicians that focuses on palliating symptoms, alleviating burden of treatment, facilitating social connections, and optimizing treatment safety for patients with diabetes mellitus."
+              },
+              "ConditionsModule":{
+                "ConditionList":{
+                  "Condition":[
+                    "Diabetes",
+                    "Diabetes Mellitus"
+                  ]
+                }
+              },
+              "DesignModule":{
+                "StudyType":"Interventional",
+                "PhaseList":{
+                  "Phase":[
+                    "Not Applicable"
+                  ]
+                },
+                "DesignInfo":{
+                  "DesignAllocation":"N/A",
+                  "DesignInterventionModel":"Single Group Assignment",
+                  "DesignPrimaryPurpose":"Health Services Research",
+                  "DesignMaskingInfo":{
+                    "DesignMasking":"None (Open Label)"
+                  }
+                },
+                "EnrollmentInfo":{
+                  "EnrollmentCount":"91",
+                  "EnrollmentType":"Actual"
+                }
+              },
+              "ArmsInterventionsModule":{
+                "ArmGroupList":{
+                  "ArmGroup":[
+                    {
+                      "ArmGroupLabel":"Implementation Arm",
+                      "ArmGroupType":"Experimental",
+                      "ArmGroupInterventionList":{
+                        "ArmGroupInterventionName":[
+                          "Other: QBSAfe Toolkit"
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "InterventionList":{
+                  "Intervention":[
+                    {
+                      "InterventionType":"Other",
+                      "InterventionName":"QBSAfe Toolkit",
+                      "InterventionDescription":"The QBSAfe toolkit focuses on palliating symptoms, alleviating burden of treatment, facilitating social connections, and optimizing treatment safety.",
+                      "InterventionArmGroupLabelList":{
+                        "InterventionArmGroupLabel":[
+                          "Implementation Arm"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "OutcomesModule":{
+                "PrimaryOutcomeList":{
+                  "PrimaryOutcome":[
+                    {
+                      "PrimaryOutcomeMeasure":"Acceptability - Patients",
+                      "PrimaryOutcomeDescription":"Patient responses to post-visit questionnaires.",
+                      "PrimaryOutcomeTimeFrame":"Baseline [Post Clinical Encounter]"
+                    },{
+                      "PrimaryOutcomeMeasure":"Acceptability - Clinicians",
+                      "PrimaryOutcomeDescription":"Clinician responses to post-visit questionnaires.",
+                      "PrimaryOutcomeTimeFrame":"Baseline [Post Clinical Encounter]"
+                    }
+                  ]
+                },
+                "SecondaryOutcomeList":{
+                  "SecondaryOutcome":[
+                    {
+                      "SecondaryOutcomeMeasure":"Feasibility 1",
+                      "SecondaryOutcomeDescription":"Percentage of participants who completed the study procedures.",
+                      "SecondaryOutcomeTimeFrame":"Baseline [Post Clinical Encounter]"
+                    },{
+                      "SecondaryOutcomeMeasure":"Feasibility 2",
+                      "SecondaryOutcomeDescription":"Percentage of recorded visits in which the QBSAFE toolkit was used assessed by Number of visits QBSAFE was used/Number of recorded visits.",
+                      "SecondaryOutcomeTimeFrame":"Baseline [Post Clinical Encounter]"
+                    },{
+                      "SecondaryOutcomeMeasure":"Feasibility 3",
+                      "SecondaryOutcomeDescription":"Time to recruit 84 subjects across 3 sites.",
+                      "SecondaryOutcomeTimeFrame":"Baseline [Post Clinical Encounter]"
+                    }
+                  ]
+                }
+              },
+              "EligibilityModule":{
+                "EligibilityCriteria":"Inclusion Criteria:\n\n-Existing diagnosis of diabetes mellitus; have an existing appointment with a participating clinician\n\nExclusion Criteria:\n\nDo not speak English\nSevere vision/hearing impairment\nUnable to give informed consent for any reason",
+                "HealthyVolunteers":"No",
+                "Gender":"All",
+                "MinimumAge":"18 Years",
+                "StdAgeList":{
+                  "StdAge":[
+                    "Adult",
+                    "Older Adult"
+                  ]
+                }
+              },
+              "ContactsLocationsModule":{
+                "OverallOfficialList":{
+                  "OverallOfficial":[
+                    {
+                      "OverallOfficialName":"Victor Montori, MD",
+                      "OverallOfficialAffiliation":"Mayo Clinic",
+                      "OverallOfficialRole":"Principal Investigator"
+                    }
+                  ]
+                },
+                "LocationList":{
+                  "Location":[
+                    {
+                      "LocationFacility":"Yale University",
+                      "LocationCity":"New Haven",
+                      "LocationState":"Connecticut",
+                      "LocationZip":"06520",
+                      "LocationCountry":"United States"
+                    },{
+                      "LocationFacility":"Trinity Health of New England",
+                      "LocationCity":"Waterbury",
+                      "LocationState":"Connecticut",
+                      "LocationZip":"06706",
+                      "LocationCountry":"United States"
+                    },{
+                      "LocationFacility":"Mayo Clinic",
+                      "LocationCity":"Rochester",
+                      "LocationState":"Minnesota",
+                      "LocationZip":"55905",
+                      "LocationCountry":"United States"
+                    }
+                  ]
+                }
+              },
+              "ReferencesModule":{
+                "ReferenceList":{
+                  "Reference":[
+                    {
+                      "ReferencePMID":"34749816",
+                      "ReferenceType":"background",
+                      "ReferenceCitation":"Clark JE, Boehmer KR, Breslin M, Haider S, Pasciak W, Gravholt D, Sanchez BB, Hartasanchez SA, El Kawkgi OM, Montori V, Lipska KJ. Quality of life, burden of treatment, safety, and avoidance of future events (QBSAfe) protocol: a pilot study testing an intervention to shift the paradigm of diabetes care. Pilot Feasibility Stud. 2021 Nov 8;7(1):196. doi: 10.1186/s40814-021-00935-8."
+                    }
+                  ]
+                },
+                "SeeAlsoLinkList":{
+                  "SeeAlsoLink":[
+                    {
+                      "SeeAlsoLinkLabel":"Related Info",
+                      "SeeAlsoLinkURL":"https://pilotfeasibilitystudies.biomedcentral.com/articles/10.1186/s40814-021-00935-8"
+                    }
+                  ]
+                }
+              },
+              "IPDSharingStatementModule":{
+                "IPDSharing":"No"
+              }
+            },
+            "ResultsSection":{
+              "ParticipantFlowModule":{
+                "FlowRecruitmentDetails":"84 participants and 7 clinicians",
+                "FlowGroupList":{
+                  "FlowGroup":[
+                    {
+                      "FlowGroupId":"FG000",
+                      "FlowGroupTitle":"Single-Arm Intervention Group - Patients",
+                      "FlowGroupDescription":"QBSAfe Toolkit: The QBSAfe toolkit focuses on palliating symptoms, alleviating burden of treatment, facilitating social connections, and optimizing treatment safety."
+                    },{
+                      "FlowGroupId":"FG001",
+                      "FlowGroupTitle":"Single-Arm Intervention Group - Clinicians",
+                      "FlowGroupDescription":"Clinicians who participated in the study"
+                    }
+                  ]
+                },
+                "FlowPeriodList":{
+                  "FlowPeriod":[
+                    {
+                      "FlowPeriodTitle":"Overall Study",
+                      "FlowMilestoneList":{
+                        "FlowMilestone":[
+                          {
+                            "FlowMilestoneType":"STARTED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"84"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"7"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"Completed Video or Audio",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"68"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"7"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"Completed Post Visit Questionnaire",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"58"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"7"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"58"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"7"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"NOT COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"26"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"0"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "BaselineCharacteristicsModule":{
+                "BaselinePopulationDescription":"Baseline characteristics were not collected for clinicians",
+                "BaselineGroupList":{
+                  "BaselineGroup":[
+                    {
+                      "BaselineGroupId":"BG000",
+                      "BaselineGroupTitle":"Implementation Arm",
+                      "BaselineGroupDescription":"QBSAfe Toolkit: The QBSAfe toolkit focuses on palliating symptoms, alleviating burden of treatment, facilitating social connections, and optimizing treatment safety."
+                    },{
+                      "BaselineGroupId":"BG001",
+                      "BaselineGroupTitle":"Clinicians",
+                      "BaselineGroupDescription":"Clinicians who participated in the study"
+                    },{
+                      "BaselineGroupId":"BG002",
+                      "BaselineGroupTitle":"Total",
+                      "BaselineGroupDescription":"Total of all reporting groups"
+                    }
+                  ]
+                },
+                "BaselineDenomList":{
+                  "BaselineDenom":[
+                    {
+                      "BaselineDenomUnits":"Participants",
+                      "BaselineDenomCountList":{
+                        "BaselineDenomCount":[
+                          {
+                            "BaselineDenomCountGroupId":"BG000",
+                            "BaselineDenomCountValue":"84"
+                          },{
+                            "BaselineDenomCountGroupId":"BG001",
+                            "BaselineDenomCountValue":"7"
+                          },{
+                            "BaselineDenomCountGroupId":"BG002",
+                            "BaselineDenomCountValue":"91"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "BaselineMeasureList":{
+                  "BaselineMeasure":[
+                    {
+                      "BaselineMeasureTitle":"Age, Categorical",
+                      "BaselineMeasurePopulationDescription":"Baseline characteristics were not collected for clinicians",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"84"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"0"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"84"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"<=18 years",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Between 18 and 65 years",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"39"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"39"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":">=65 years",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"45"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"45"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Age, Continuous",
+                      "BaselineMeasurePopulationDescription":"Baseline characteristics were not collected for clinicians",
+                      "BaselineMeasureParamType":"Mean",
+                      "BaselineMeasureDispersionType":"Standard Deviation",
+                      "BaselineMeasureUnitOfMeasure":"years",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"84"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"0"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"84"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"74.4",
+                                        "BaselineMeasurementSpread":"15.4"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"74.4",
+                                        "BaselineMeasurementSpread":"15.4"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Sex: Female, Male",
+                      "BaselineMeasurePopulationDescription":"Baseline characteristics were not collected for clinicians",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"84"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"0"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"84"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"Female",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"39"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"39"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Male",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"45"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"45"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Race (NIH/OMB)",
+                      "BaselineMeasurePopulationDescription":"Baseline characteristics were not collected for clinicians",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"84"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"0"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"84"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"American Indian or Alaska Native",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Asian",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Native Hawaiian or Other Pacific Islander",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Black or African American",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"14"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"14"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"White",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"66"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"66"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"More than one race",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Unknown or Not Reported",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"4"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"4"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Region of Enrollment",
+                      "BaselineMeasurePopulationDescription":"Baseline characteristics were not collected for clinicians",
+                      "BaselineMeasureParamType":"Number",
+                      "BaselineMeasureUnitOfMeasure":"participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassTitle":"United States",
+                            "BaselineClassDenomList":{
+                              "BaselineClassDenom":[
+                                {
+                                  "BaselineClassDenomUnits":"Participants",
+                                  "BaselineClassDenomCountList":{
+                                    "BaselineClassDenomCount":[
+                                      {
+                                        "BaselineClassDenomCountGroupId":"BG000",
+                                        "BaselineClassDenomCountValue":"84"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG001",
+                                        "BaselineClassDenomCountValue":"0"
+                                      },{
+                                        "BaselineClassDenomCountGroupId":"BG002",
+                                        "BaselineClassDenomCountValue":"84"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"84"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"84"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "OutcomeMeasuresModule":{
+                "OutcomeMeasureList":{
+                  "OutcomeMeasure":[
+                    {
+                      "OutcomeMeasureType":"Primary",
+                      "OutcomeMeasureTitle":"Acceptability - Patients",
+                      "OutcomeMeasureDescription":"Patient responses to post-visit questionnaires.",
+                      "OutcomeMeasurePopulationDescription":"Patients who had their visit recorded and answered post visit questionnaires",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Count of Participants",
+                      "OutcomeMeasureUnitOfMeasure":"Participants",
+                      "OutcomeMeasureTimeFrame":"Baseline [Post Clinical Encounter]",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Single-Arm Intervention Group",
+                            "OutcomeGroupDescription":"QBSAfe Toolkit: The QBSAfe toolkit focuses on palliating symptoms, alleviating burden of treatment, facilitating social connections, and optimizing treatment safety."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"58"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeClassTitle":"These cards helped me talk about my situation during my visit",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeCategoryTitle":"Strongly Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"16"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"21"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Neutral",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"12"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"6"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Strongly Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"3"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"I would like to have these cards available to me at my next visit",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeCategoryTitle":"Strongly Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"12"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"10"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Neutral",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"21"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"12"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Strongly Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"3"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"I believe other patients like me would benefit from these cards",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeCategoryTitle":"Strongly Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"19"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"26"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Neutral",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"9"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"3"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Strongly Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"1"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Primary",
+                      "OutcomeMeasureTitle":"Acceptability - Clinicians",
+                      "OutcomeMeasureDescription":"Clinician responses to post-visit questionnaires.",
+                      "OutcomeMeasurePopulationDescription":"Questionnaires completed by clinicians after each patient encounter",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Count of Units",
+                      "OutcomeMeasureUnitOfMeasure":"Questionnaires after each encounter",
+                      "OutcomeMeasureTimeFrame":"Baseline [Post Clinical Encounter]",
+                      "OutcomeMeasureTypeUnitsAnalyzed":"Questionnaires after each encounter",
+                      "OutcomeMeasureDenomUnitsSelected":"Questionnaires after each encounter",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Single-Arm Intervention Group",
+                            "OutcomeGroupDescription":"QBSAfe Toolkit: The QBSAfe toolkit focuses on palliating symptoms, alleviating burden of treatment, facilitating social connections, and optimizing treatment safety."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"7"
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeDenomUnits":"Questionnaires after each encounter",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"69"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeClassTitle":"I felt confident in responding to issues raised by the patient",
+                            "OutcomeClassDenomList":{
+                              "OutcomeClassDenom":[
+                                {
+                                  "OutcomeClassDenomUnits":"Participants",
+                                  "OutcomeClassDenomCountList":{
+                                    "OutcomeClassDenomCount":[
+                                      {
+                                        "OutcomeClassDenomCountGroupId":"OG000",
+                                        "OutcomeClassDenomCountValue":"7"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeClassDenomUnits":"Questionnaires after each encounter",
+                                  "OutcomeClassDenomCountList":{
+                                    "OutcomeClassDenomCount":[
+                                      {
+                                        "OutcomeClassDenomCountGroupId":"OG000",
+                                        "OutcomeClassDenomCountValue":"69"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeCategoryTitle":"Strongly Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"48"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"14"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Neutral",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"4"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"3"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Strongly Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"I would like to use these cards with a patient like this next time",
+                            "OutcomeClassDenomList":{
+                              "OutcomeClassDenom":[
+                                {
+                                  "OutcomeClassDenomUnits":"Participants",
+                                  "OutcomeClassDenomCountList":{
+                                    "OutcomeClassDenomCount":[
+                                      {
+                                        "OutcomeClassDenomCountGroupId":"OG000",
+                                        "OutcomeClassDenomCountValue":"7"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeClassDenomUnits":"Questionnaires after each encounter",
+                                  "OutcomeClassDenomCountList":{
+                                    "OutcomeClassDenomCount":[
+                                      {
+                                        "OutcomeClassDenomCountGroupId":"OG000",
+                                        "OutcomeClassDenomCountValue":"69"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeCategoryTitle":"Strongly Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"43"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"11"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Neutral",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"14"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"1"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Strongly Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"I would recommend these cards to my colleagues",
+                            "OutcomeClassDenomList":{
+                              "OutcomeClassDenom":[
+                                {
+                                  "OutcomeClassDenomUnits":"Participants",
+                                  "OutcomeClassDenomCountList":{
+                                    "OutcomeClassDenomCount":[
+                                      {
+                                        "OutcomeClassDenomCountGroupId":"OG000",
+                                        "OutcomeClassDenomCountValue":"7"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeClassDenomUnits":"Questionnaires after each encounter",
+                                  "OutcomeClassDenomCountList":{
+                                    "OutcomeClassDenomCount":[
+                                      {
+                                        "OutcomeClassDenomCountGroupId":"OG000",
+                                        "OutcomeClassDenomCountValue":"68"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            },
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeCategoryTitle":"Strongly Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"46"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Agree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"10"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Neutral",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"11"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"1"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "OutcomeCategoryTitle":"Strongly Disagree",
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Feasibility 1",
+                      "OutcomeMeasureDescription":"Percentage of participants who completed the study procedures.",
+                      "OutcomeMeasurePopulationDescription":"Number of patients and number of clinicians in the study",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Count of Participants",
+                      "OutcomeMeasureUnitOfMeasure":"Participants",
+                      "OutcomeMeasureTimeFrame":"Baseline [Post Clinical Encounter]",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Single-Arm Intervention Group - Patients",
+                            "OutcomeGroupDescription":"QBSAfe Toolkit: The QBSAfe toolkit focuses on palliating symptoms, alleviating burden of treatment, facilitating social connections, and optimizing treatment safety."
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Single-Arm Intervention Group - Clinicians",
+                            "OutcomeGroupDescription":"Clinicians who participated in the study"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"84"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"7"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"58"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"7"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Feasibility 2",
+                      "OutcomeMeasureDescription":"Percentage of recorded visits in which the QBSAFE toolkit was used assessed by Number of visits QBSAFE was used/Number of recorded visits.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Number",
+                      "OutcomeMeasureUnitOfMeasure":"percentage of visits QBSAFE was used",
+                      "OutcomeMeasureTimeFrame":"Baseline [Post Clinical Encounter]",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Implementation Arm",
+                            "OutcomeGroupDescription":"QBSAfe Toolkit: The QBSAfe toolkit focuses on palliating symptoms, alleviating burden of treatment, facilitating social connections, and optimizing treatment safety."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"58"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"58"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Feasibility 3",
+                      "OutcomeMeasureDescription":"Time to recruit 84 subjects across 3 sites.",
+                      "OutcomeMeasurePopulationDescription":"Number of recruited patients",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Number",
+                      "OutcomeMeasureUnitOfMeasure":"Days",
+                      "OutcomeMeasureTimeFrame":"Baseline [Post Clinical Encounter]",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Implementation Arm",
+                            "OutcomeGroupDescription":"QBSAfe Toolkit: The QBSAfe toolkit focuses on palliating symptoms, alleviating burden of treatment, facilitating social connections, and optimizing treatment safety."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"84"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"145"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "AdverseEventsModule":{
+                "EventsFrequencyThreshold":"0",
+                "EventsTimeFrame":"Up to 1 week.",
+                "EventsDescription":"Study took place during routine clinical encounters. A subgroup of participants were followed for up to a week to complete qualitative interviews. Adverse events were not tracked for clinician arm.",
+                "EventGroupList":{
+                  "EventGroup":[
+                    {
+                      "EventGroupId":"EG000",
+                      "EventGroupTitle":"Single-Arm Intervention Group",
+                      "EventGroupDescription":"QBSAfe Toolkit: The QBSAfe toolkit focuses on palliating symptoms, alleviating burden of treatment, facilitating social connections, and optimizing treatment safety.",
+                      "EventGroupDeathsNumAffected":"0",
+                      "EventGroupDeathsNumAtRisk":"84",
+                      "EventGroupSeriousNumAffected":"0",
+                      "EventGroupSeriousNumAtRisk":"84",
+                      "EventGroupOtherNumAffected":"0",
+                      "EventGroupOtherNumAtRisk":"84"
+                    },{
+                      "EventGroupId":"EG001",
+                      "EventGroupTitle":"Clinicians",
+                      "EventGroupDescription":"Clinicians who participated in study",
+                      "EventGroupDeathsNumAffected":"0",
+                      "EventGroupDeathsNumAtRisk":"0",
+                      "EventGroupSeriousNumAffected":"0",
+                      "EventGroupSeriousNumAtRisk":"0",
+                      "EventGroupOtherNumAffected":"0",
+                      "EventGroupOtherNumAtRisk":"0"
+                    }
+                  ]
+                }
+              },
+              "MoreInfoModule":{
+                "CertainAgreement":{
+                  "AgreementPISponsorEmployee":"Yes"
+                },
+                "PointOfContact":{
+                  "PointOfContactTitle":"Dr. Kasia Lipska",
+                  "PointOfContactOrganization":"Yale School of Medicine",
+                  "PointOfContactEMail":"kasia.lipska@yale.edu",
+                  "PointOfContactPhone":"203-737-4853"
+                }
+              }
+            },
+            "DocumentSection":{
+              "LargeDocumentModule":{
+                "LargeDocList":{
+                  "LargeDoc":[
+                    {
+                      "LargeDocTypeAbbrev":"Prot",
+                      "LargeDocHasProtocol":"Yes",
+                      "LargeDocHasSAP":"No",
+                      "LargeDocHasICF":"No",
+                      "LargeDocLabel":"Study Protocol",
+                      "LargeDocDate":"September 8, 2020",
+                      "LargeDocUploadDate":"11/17/2022 10:03",
+                      "LargeDocFilename":"Prot_000.pdf"
+                    }
+                  ]
+                }
+              }
+            },
+            "DerivedSection":{
+              "MiscInfoModule":{
+                "VersionHolder":"August 17, 2023"
+              },
+              "ConditionBrowseModule":{
+                "ConditionMeshList":{
+                  "ConditionMesh":[
+                    {
+                      "ConditionMeshId":"D000003920",
+                      "ConditionMeshTerm":"Diabetes Mellitus"
+                    }
+                  ]
+                },
+                "ConditionAncestorList":{
+                  "ConditionAncestor":[
+                    {
+                      "ConditionAncestorId":"D000044882",
+                      "ConditionAncestorTerm":"Glucose Metabolism Disorders"
+                    },{
+                      "ConditionAncestorId":"D000008659",
+                      "ConditionAncestorTerm":"Metabolic Diseases"
+                    },{
+                      "ConditionAncestorId":"D000004700",
+                      "ConditionAncestorTerm":"Endocrine System Diseases"
+                    }
+                  ]
+                },
+                "ConditionBrowseLeafList":{
+                  "ConditionBrowseLeaf":[
+                    {
+                      "ConditionBrowseLeafId":"M6805",
+                      "ConditionBrowseLeafName":"Diabetes Mellitus",
+                      "ConditionBrowseLeafAsFound":"Diabetes",
+                      "ConditionBrowseLeafRelevance":"high"
+                    },{
+                      "ConditionBrowseLeafId":"M11329",
+                      "ConditionBrowseLeafName":"Metabolic Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M25093",
+                      "ConditionBrowseLeafName":"Glucose Metabolism Disorders",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M7552",
+                      "ConditionBrowseLeafName":"Endocrine System Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"T6034",
+                      "ConditionBrowseLeafName":"Quality of Life",
+                      "ConditionBrowseLeafAsFound":"Quality of Life",
+                      "ConditionBrowseLeafRelevance":"high"
+                    }
+                  ]
+                },
+                "ConditionBrowseBranchList":{
+                  "ConditionBrowseBranch":[
+                    {
+                      "ConditionBrowseBranchAbbrev":"BC18",
+                      "ConditionBrowseBranchName":"Nutritional and Metabolic Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC19",
+                      "ConditionBrowseBranchName":"Gland and Hormone Related Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"All",
+                      "ConditionBrowseBranchName":"All Conditions"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BXM",
+                      "ConditionBrowseBranchName":"Behaviors and Mental Disorders"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+  

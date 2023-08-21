@@ -1,0 +1,1202 @@
+
+{
+    "FullStudiesResponse":{
+      "APIVrs":"1.01.05",
+      "DataVrs":"2023:08:16 23:57:56.293",
+      "Expression":"NCT00489086",
+      "NStudiesAvail":462815,
+      "NStudiesFound":1,
+      "MinRank":1,
+      "MaxRank":1,
+      "NStudiesReturned":1,
+      "FullStudies":[
+        {
+          "Rank":1,
+          "Study":{
+            "ProtocolSection":{
+              "IdentificationModule":{
+                "NCTId":"NCT00489086",
+                "NCTIdAliasList":{
+                  "NCTIdAlias":[
+                    "NCT00500643"
+                  ]
+                },
+                "OrgStudyIdInfo":{
+                  "OrgStudyId":"CDR0000551655"
+                },
+                "SecondaryIdInfoList":{
+                  "SecondaryIdInfo":[
+                    {
+                      "SecondaryId":"R01CA109584",
+                      "SecondaryIdType":"U.S. NIH Grant/Contract",
+                      "SecondaryIdLink":"https://reporter.nih.gov/quickSearch/R01CA109584"
+                    }
+                  ]
+                },
+                "Organization":{
+                  "OrgFullName":"UCSF Benioff Children's Hospital Oakland",
+                  "OrgClass":"OTHER"
+                },
+                "BriefTitle":"Topical Tazarotene in Treating Patients With Basal Cell Skin Cancer and Basal Cell Nevus Syndrome on the Face",
+                "OfficialTitle":"A Phase II Single Arm Open-Label Clinical Trial of Chemotherapy of BCC's With Tazarotene 0.1% in Subjects With Basal Cell Nevus Syndrome"
+              },
+              "StatusModule":{
+                "StatusVerifiedDate":"October 2020",
+                "OverallStatus":"Completed",
+                "ExpandedAccessInfo":{
+                  "HasExpandedAccess":"No"
+                },
+                "StartDateStruct":{
+                  "StartDate":"July 2004"
+                },
+                "PrimaryCompletionDateStruct":{
+                  "PrimaryCompletionDate":"June 2012",
+                  "PrimaryCompletionDateType":"Actual"
+                },
+                "CompletionDateStruct":{
+                  "CompletionDate":"June 2012",
+                  "CompletionDateType":"Actual"
+                },
+                "StudyFirstSubmitDate":"June 20, 2007",
+                "StudyFirstSubmitQCDate":"June 20, 2007",
+                "StudyFirstPostDateStruct":{
+                  "StudyFirstPostDate":"June 21, 2007",
+                  "StudyFirstPostDateType":"Estimate"
+                },
+                "ResultsFirstSubmitDate":"July 31, 2013",
+                "ResultsFirstSubmitQCDate":"January 13, 2016",
+                "ResultsFirstPostDateStruct":{
+                  "ResultsFirstPostDate":"February 11, 2016",
+                  "ResultsFirstPostDateType":"Estimate"
+                },
+                "LastUpdateSubmitDate":"October 8, 2020",
+                "LastUpdatePostDateStruct":{
+                  "LastUpdatePostDate":"October 29, 2020",
+                  "LastUpdatePostDateType":"Actual"
+                }
+              },
+              "SponsorCollaboratorsModule":{
+                "ResponsibleParty":{
+                  "ResponsiblePartyType":"Sponsor"
+                },
+                "LeadSponsor":{
+                  "LeadSponsorName":"UCSF Benioff Children's Hospital Oakland",
+                  "LeadSponsorClass":"OTHER"
+                },
+                "CollaboratorList":{
+                  "Collaborator":[
+                    {
+                      "CollaboratorName":"National Cancer Institute (NCI)",
+                      "CollaboratorClass":"NIH"
+                    }
+                  ]
+                }
+              },
+              "OversightModule":{
+                "OversightHasDMC":"No"
+              },
+              "DescriptionModule":{
+                "BriefSummary":"RATIONALE: Drugs used in chemotherapy, such as tazarotene, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.\n\nPURPOSE: This phase II trial is studying topical tazarotene to see how well it works in treating patients with basal cell skin cancer and basal cell nevus syndrome on the face.",
+                "DetailedDescription":"OBJECTIVES:\n\nDetermine whether topical tazarotene, administered over a period of 18 months as a chemopreventive agent, reduces the incidence of basal cell carcinomas (BCCs) on treated skin in patients with basal cell nevus syndrome (BCNS).\nExpand and refine chemopreventive strategies in patients with BCNS who are at high risk for the development of BCCs.\n\nOUTLINE: This is an open-label, multicenter study.\n\nPatients apply topical tazarotene cream to the face once daily for 18 months in the absence of unacceptable toxicity."
+              },
+              "ConditionsModule":{
+                "ConditionList":{
+                  "Condition":[
+                    "Neoplastic Syndrome"
+                  ]
+                },
+                "KeywordList":{
+                  "Keyword":[
+                    "nevoid basal cell carcinoma syndrome",
+                    "basal cell carcinoma of the skin"
+                  ]
+                }
+              },
+              "DesignModule":{
+                "StudyType":"Interventional",
+                "PhaseList":{
+                  "Phase":[
+                    "Phase 2"
+                  ]
+                },
+                "DesignInfo":{
+                  "DesignAllocation":"N/A",
+                  "DesignInterventionModel":"Single Group Assignment",
+                  "DesignPrimaryPurpose":"Treatment",
+                  "DesignMaskingInfo":{
+                    "DesignMasking":"None (Open Label)"
+                  }
+                },
+                "EnrollmentInfo":{
+                  "EnrollmentCount":"36",
+                  "EnrollmentType":"Actual"
+                }
+              },
+              "ArmsInterventionsModule":{
+                "ArmGroupList":{
+                  "ArmGroup":[
+                    {
+                      "ArmGroupLabel":"Tazarotene Cream",
+                      "ArmGroupType":"Other",
+                      "ArmGroupDescription":"Open label",
+                      "ArmGroupInterventionList":{
+                        "ArmGroupInterventionName":[
+                          "Drug: tazarotene"
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "InterventionList":{
+                  "Intervention":[
+                    {
+                      "InterventionType":"Drug",
+                      "InterventionName":"tazarotene",
+                      "InterventionDescription":"Tazarotene is a member of the acetylenic class of retinoids.",
+                      "InterventionArmGroupLabelList":{
+                        "InterventionArmGroupLabel":[
+                          "Tazarotene Cream"
+                        ]
+                      },
+                      "InterventionOtherNameList":{
+                        "InterventionOtherName":[
+                          "tazorac"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "OutcomesModule":{
+                "PrimaryOutcomeList":{
+                  "PrimaryOutcome":[
+                    {
+                      "PrimaryOutcomeMeasure":"Complete Response Rate",
+                      "PrimaryOutcomeDescription":"The primary endpoint used to evaluate tazarotene efficacy for BCC chemotherapy was the complete response (CR) rate, defined as the complete visible disappearance of a patient's \"target\" lesion during the the 18 months of tazarotene application and its failure to recur during the ensuing 18-months. We defined surgical removal of a target lesion as a treatment failure. The primary endpoint was assessed based on intention to treat analysis such that any subject who underwent the baseline evaluation and applied at least 1 dose of tazarotene was included in the analysis. Drop-outs were considered non-responders. A priori treatment success for tazarotene was defined as a CR rate of at least 50%, and treatment failure was defined as a CR rate of 25% or less.",
+                      "PrimaryOutcomeTimeFrame":"36 months"
+                    }
+                  ]
+                },
+                "SecondaryOutcomeList":{
+                  "SecondaryOutcome":[
+                    {
+                      "SecondaryOutcomeMeasure":"Time to Lesion Clearance",
+                      "SecondaryOutcomeTimeFrame":"36 months"
+                    },{
+                      "SecondaryOutcomeMeasure":"Time to Progression",
+                      "SecondaryOutcomeTimeFrame":"36 months"
+                    },{
+                      "SecondaryOutcomeMeasure":"Estimated Duration of Complete Response",
+                      "SecondaryOutcomeTimeFrame":"36 months"
+                    },{
+                      "SecondaryOutcomeMeasure":"Overall Response at Treated Lesions",
+                      "SecondaryOutcomeTimeFrame":"36 months"
+                    }
+                  ]
+                }
+              },
+              "EligibilityModule":{
+                "EligibilityCriteria":"List of Inclusion Criteria:\n\nStudy subjects must have at least one basal cell carcinoma ≥ 3mm in diameter (target lesion) on any area of the skin except the face, chest, and back (and not impinging on vital sites) diagnosed clinically by a Study Investigator at the baseline visit.\nStudy subjects must meet diagnostic criteria for basal cell nevus syndrome including major criterion #1 plus one additional major criterion or two of the minor criteria outlined in Table I. A first degree relative would satisfy BCNS diagnostic criteria with any two major criteria or any single major plus two minor criteria.\n\nTable I. BCNS Diagnostic Criteria\n\nMajor criteria\n\nMore than 2 BCCs or one under the age of 20 years\nOdontogenic keratocysts of the jaw proven by histology\nThree or more palmar and/or plantar pits\nBilamellar calcification of the falx cerebri (if less than 20 years old)\nFused, bifid, or markedly splayed ribs.\nFirst degree relative with basal cell nevus syndrome (BCNS)\nPTCH1 gene mutation in normal tissue*\n\nMinor criteria\n\nMacrocephaly determined after adjustment for height\nCongenital malformations: cleft lip or palate, frontal bossing, \"coarse face.\"\nSkeletal abnormalities: Sprengel deformity, marked pectus deformity\nRadiological abnormalities: bridging of the sella turcica, vertebral anomalies such as hemivertebrae, fusion or elongation of the vertebral bodies.\nOvarian fibroma\nMedulloblastoma\n\n3.The subject is from 18-75 years of age, inclusive.\n\n4. If the subject is female and of child-bearing potential (women are considered not of childbearing potential if they are at least 2 years post-menopausal and/or surgically sterile), she:\n\ni. has been using adequate contraception (abstinence, IUD, birth control pills, or spermicidal gel with diaphragm or condom) since her last menses and will use adequate contraception during the study, and ii. is not lactating, and iii. has documented one negative serum pregnancy test within 14 days prior to study entry.\n\n5. The subject is willing to abstain from application of non-study topical medications to the skin of the face for the duration of the study, including prescription and over the counter preparations.\n\n6. The subject is willing not to have targeted BCCs treated by their PSCP unless the BCCs are documented by Study Investigators, preferably on two separate visits, except when the PSCP believes that delay in treatment potentially might compromise the health of the subject.\n\nList of Exclusion Criteria:\n\nThe subject has used topical or systemic therapies that might interfere with the evaluation of the study medication during the study.\nThe subject has a history of hypersensitivity to any of the ingredients in the study medication formulations.\nThe subject is unable to return for follow-up tests.\nThe subject has uncontrolled systemic disease, including known HIV positive patients.\nThe subject has a history of other skin conditions or significant illness that would interfere with evaluation of the study medication.\nAny condition or situation which in the Investigator's opinion may put the subject at significant risk, could confound the study results, or could interfere significantly with the subject's participation in the study.\nThe subject has a history of invasive cancer within the past five years excluding non-melanoma skin cancer, Stage I cervical cancer, or CLL Stage 0.",
+                "HealthyVolunteers":"No",
+                "Gender":"All",
+                "MinimumAge":"18 Years",
+                "MaximumAge":"75 Years",
+                "StdAgeList":{
+                  "StdAge":[
+                    "Adult",
+                    "Older Adult"
+                  ]
+                }
+              },
+              "ContactsLocationsModule":{
+                "OverallOfficialList":{
+                  "OverallOfficial":[
+                    {
+                      "OverallOfficialName":"Ervin Epstein, MD",
+                      "OverallOfficialAffiliation":"UCSF Benioff Children's Hospital Oakland",
+                      "OverallOfficialRole":"Principal Investigator"
+                    },{
+                      "OverallOfficialName":"David R. Bickers, MD",
+                      "OverallOfficialAffiliation":"Herbert Irving Comprehensive Cancer Center",
+                      "OverallOfficialRole":"Principal Investigator"
+                    }
+                  ]
+                },
+                "LocationList":{
+                  "Location":[
+                    {
+                      "LocationFacility":"Children's Hospital and Research Center Oakland",
+                      "LocationCity":"Oakland",
+                      "LocationState":"California",
+                      "LocationZip":"94609",
+                      "LocationCountry":"United States"
+                    },{
+                      "LocationFacility":"Herbert Irving Comprehensive Cancer Center at Columbia University Medical Center",
+                      "LocationCity":"New York",
+                      "LocationState":"New York",
+                      "LocationZip":"10032",
+                      "LocationCountry":"United States"
+                    }
+                  ]
+                }
+              },
+              "ReferencesModule":{
+                "ReferenceList":{
+                  "Reference":[
+                    {
+                      "ReferencePMID":"24441673",
+                      "ReferenceType":"result",
+                      "ReferenceCitation":"Tang JY, Chiou AS, Mackay-Wiggan JM, Aszterbaum M, Chanana AM, Lee W, Lindgren JA, Raphael MA, Thompson BJ, Bickers DR, Epstein EH Jr. Tazarotene: randomized, double-blind, vehicle-controlled, and open-label concurrent trials for basal cell carcinoma prevention and therapy in patients with basal cell nevus syndrome. Cancer Prev Res (Phila). 2014 Mar;7(3):292-9. doi: 10.1158/1940-6207.CAPR-13-0305. Epub 2014 Jan 17."
+                    }
+                  ]
+                }
+              }
+            },
+            "ResultsSection":{
+              "ParticipantFlowModule":{
+                "FlowGroupList":{
+                  "FlowGroup":[
+                    {
+                      "FlowGroupId":"FG000",
+                      "FlowGroupTitle":"Tazarotene Cream",
+                      "FlowGroupDescription":"This is a 36 month, multi-center, single arm, open label clinical study design"
+                    }
+                  ]
+                },
+                "FlowPeriodList":{
+                  "FlowPeriod":[
+                    {
+                      "FlowPeriodTitle":"Overall Study",
+                      "FlowMilestoneList":{
+                        "FlowMilestone":[
+                          {
+                            "FlowMilestoneType":"STARTED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"36"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"Completed 18 Months",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"23"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"13"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"NOT COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"23"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "BaselineCharacteristicsModule":{
+                "BaselineGroupList":{
+                  "BaselineGroup":[
+                    {
+                      "BaselineGroupId":"BG000",
+                      "BaselineGroupTitle":"Tazarotene Cream",
+                      "BaselineGroupDescription":"This is a 36 month, multi-center, single arm, open label clinical study design"
+                    }
+                  ]
+                },
+                "BaselineDenomList":{
+                  "BaselineDenom":[
+                    {
+                      "BaselineDenomUnits":"Participants",
+                      "BaselineDenomCountList":{
+                        "BaselineDenomCount":[
+                          {
+                            "BaselineDenomCountGroupId":"BG000",
+                            "BaselineDenomCountValue":"36"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "BaselineMeasureList":{
+                  "BaselineMeasure":[
+                    {
+                      "BaselineMeasureTitle":"Age, Categorical",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"<=18 years",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Between 18 and 65 years",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"36"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":">=65 years",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Age, Continuous",
+                      "BaselineMeasureParamType":"Mean",
+                      "BaselineMeasureDispersionType":"Standard Deviation",
+                      "BaselineMeasureUnitOfMeasure":"years",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"53",
+                                        "BaselineMeasurementSpread":"10"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Sex: Female, Male",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"Female",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"16"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Male",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"20"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Region of Enrollment",
+                      "BaselineMeasureParamType":"Number",
+                      "BaselineMeasureUnitOfMeasure":"participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassTitle":"United States",
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"36"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "OutcomeMeasuresModule":{
+                "OutcomeMeasureList":{
+                  "OutcomeMeasure":[
+                    {
+                      "OutcomeMeasureType":"Primary",
+                      "OutcomeMeasureTitle":"Complete Response Rate",
+                      "OutcomeMeasureDescription":"The primary endpoint used to evaluate tazarotene efficacy for BCC chemotherapy was the complete response (CR) rate, defined as the complete visible disappearance of a patient's \"target\" lesion during the the 18 months of tazarotene application and its failure to recur during the ensuing 18-months. We defined surgical removal of a target lesion as a treatment failure. The primary endpoint was assessed based on intention to treat analysis such that any subject who underwent the baseline evaluation and applied at least 1 dose of tazarotene was included in the analysis. Drop-outs were considered non-responders. A priori treatment success for tazarotene was defined as a CR rate of at least 50%, and treatment failure was defined as a CR rate of 25% or less.",
+                      "OutcomeMeasurePopulationDescription":"N=2 participants excluded from analysis: N=1 due to revised BCNS diagnosis and N=1 because unable to confirm administration of at least one dose of tazarotene.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Count of Participants",
+                      "OutcomeMeasureUnitOfMeasure":"Participants",
+                      "OutcomeMeasureTimeFrame":"36 months",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Tazarotene Cream",
+                            "OutcomeGroupDescription":"This is a 36 month, multi-center, single arm, open label clinical study design"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"34"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"2"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Time to Lesion Clearance",
+                      "OutcomeMeasurePopulationDescription":"N=2 participants excluded from analysis: N=1 due to revised BCNS diagnosis and N=1 because unable to confirm administration of at least one dose of tazarotene.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Count of Participants",
+                      "OutcomeMeasureUnitOfMeasure":"Participants",
+                      "OutcomeMeasureTimeFrame":"36 months",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Tazarotene Cream",
+                            "OutcomeGroupDescription":"This is a 36 month, multi-center, single arm, open label clinical study design"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"34"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"NA",
+                                        "OutcomeMeasurementComment":"The PI has left the institution and the only access to the data is from the publication. The access to this specific data cannot be confirmed and is not available to be reported."
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Time to Progression",
+                      "OutcomeMeasurePopulationDescription":"N=2 participants excluded from analysis: N=1 due to revised BCNS diagnosis and N=1 because unable to confirm administration of at least one dose of tazarotene.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Count of Participants",
+                      "OutcomeMeasureUnitOfMeasure":"Participants",
+                      "OutcomeMeasureTimeFrame":"36 months",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Tazarotene Cream",
+                            "OutcomeGroupDescription":"This is a 36 month, multi-center, single arm, open label clinical study design"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"34"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"NA",
+                                        "OutcomeMeasurementComment":"The PI has left the institution and the only access to the data is from the publication. The access to this specific data cannot be confirmed and is not available to be reported."
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Estimated Duration of Complete Response",
+                      "OutcomeMeasurePopulationDescription":"N=2 participants excluded from analysis: N=1 due to revised BCNS diagnosis and N=1 because unable to confirm administration of at least one dose of tazarotene.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Count of Participants",
+                      "OutcomeMeasureUnitOfMeasure":"Participants",
+                      "OutcomeMeasureTimeFrame":"36 months",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Tazarotene Cream",
+                            "OutcomeGroupDescription":"This is a 36 month, multi-center, single arm, open label clinical study design"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"34"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"NA",
+                                        "OutcomeMeasurementComment":"The PI has left the institution and the only access to the data is from the publication. The access to this specific data cannot be confirmed and is not available to be reported."
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Overall Response at Treated Lesions",
+                      "OutcomeMeasurePopulationDescription":"N=2 participants excluded from analysis: N=1 due to revised BCNS diagnosis and N=1 because unable to confirm administration of at least one dose of tazarotene.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Count of Participants",
+                      "OutcomeMeasureUnitOfMeasure":"Participants",
+                      "OutcomeMeasureTimeFrame":"36 months",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Tazarotene Cream",
+                            "OutcomeGroupDescription":"This is a 36 month, multi-center, single arm, open label clinical study design"
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"34"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"NA",
+                                        "OutcomeMeasurementComment":"The PI has left the institution and the only access to the data is from the publication. The access to this specific data cannot be confirmed and is not available to be reported."
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "AdverseEventsModule":{
+                "EventsFrequencyThreshold":"3",
+                "EventsTimeFrame":"36 months",
+                "EventGroupList":{
+                  "EventGroup":[
+                    {
+                      "EventGroupId":"EG000",
+                      "EventGroupTitle":"Tazarotene Cream",
+                      "EventGroupDescription":"This is a 36 month, multi-center, single arm, open label clinical study design",
+                      "EventGroupDeathsNumAffected":"0",
+                      "EventGroupDeathsNumAtRisk":"36",
+                      "EventGroupSeriousNumAffected":"2",
+                      "EventGroupSeriousNumAtRisk":"36",
+                      "EventGroupOtherNumAffected":"31",
+                      "EventGroupOtherNumAtRisk":"36"
+                    }
+                  ]
+                },
+                "SeriousEventList":{
+                  "SeriousEvent":[
+                    {
+                      "SeriousEventTerm":"prostate cancer diagnosis",
+                      "SeriousEventOrganSystem":"Renal and urinary disorders",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"36"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"cellulitis and maxillary sinusitis",
+                      "SeriousEventOrganSystem":"Ear and labyrinth disorders",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"36"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "OtherEventList":{
+                  "OtherEvent":[
+                    {
+                      "OtherEventTerm":"irritation",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"6",
+                            "OtherEventStatsNumAtRisk":"36"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"dryness",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"6",
+                            "OtherEventStatsNumAtRisk":"36"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"inflammation",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"36"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"itching",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"3",
+                            "OtherEventStatsNumAtRisk":"36"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"peeling",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"4",
+                            "OtherEventStatsNumAtRisk":"36"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"edema",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"36"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"rash",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"4",
+                            "OtherEventStatsNumAtRisk":"36"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"erythema",
+                      "OtherEventOrganSystem":"Skin and subcutaneous tissue disorders",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumAffected":"6",
+                            "OtherEventStatsNumAtRisk":"36"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "MoreInfoModule":{
+                "CertainAgreement":{
+                  "AgreementPISponsorEmployee":"Yes"
+                },
+                "PointOfContact":{
+                  "PointOfContactTitle":"Ervin H Epstein Jr., MD",
+                  "PointOfContactOrganization":"Children's Hospital of Oakland Research Institute, Oakland",
+                  "PointOfContactEMail":"eepstein@chori.org",
+                  "PointOfContactPhone":"510-450-5688"
+                }
+              }
+            },
+            "DerivedSection":{
+              "MiscInfoModule":{
+                "VersionHolder":"August 17, 2023"
+              },
+              "ConditionBrowseModule":{
+                "ConditionMeshList":{
+                  "ConditionMesh":[
+                    {
+                      "ConditionMeshId":"D000001478",
+                      "ConditionMeshTerm":"Basal Cell Nevus Syndrome"
+                    },{
+                      "ConditionMeshId":"D000009369",
+                      "ConditionMeshTerm":"Neoplasms"
+                    },{
+                      "ConditionMeshId":"D000013577",
+                      "ConditionMeshTerm":"Syndrome"
+                    }
+                  ]
+                },
+                "ConditionAncestorList":{
+                  "ConditionAncestor":[
+                    {
+                      "ConditionAncestorId":"D000004194",
+                      "ConditionAncestorTerm":"Disease"
+                    },{
+                      "ConditionAncestorId":"D000010335",
+                      "ConditionAncestorTerm":"Pathologic Processes"
+                    },{
+                      "ConditionAncestorId":"D000009807",
+                      "ConditionAncestorTerm":"Odontogenic Cysts"
+                    },{
+                      "ConditionAncestorId":"D000007570",
+                      "ConditionAncestorTerm":"Jaw Cysts"
+                    },{
+                      "ConditionAncestorId":"D000001845",
+                      "ConditionAncestorTerm":"Bone Cysts"
+                    },{
+                      "ConditionAncestorId":"D000003560",
+                      "ConditionAncestorTerm":"Cysts"
+                    },{
+                      "ConditionAncestorId":"D000002280",
+                      "ConditionAncestorTerm":"Carcinoma, Basal Cell"
+                    },{
+                      "ConditionAncestorId":"D000002277",
+                      "ConditionAncestorTerm":"Carcinoma"
+                    },{
+                      "ConditionAncestorId":"D000009375",
+                      "ConditionAncestorTerm":"Neoplasms, Glandular and Epithelial"
+                    },{
+                      "ConditionAncestorId":"D000009370",
+                      "ConditionAncestorTerm":"Neoplasms by Histologic Type"
+                    },{
+                      "ConditionAncestorId":"D000018295",
+                      "ConditionAncestorTerm":"Neoplasms, Basal Cell"
+                    },{
+                      "ConditionAncestorId":"D000009386",
+                      "ConditionAncestorTerm":"Neoplastic Syndromes, Hereditary"
+                    },{
+                      "ConditionAncestorId":"D000001848",
+                      "ConditionAncestorTerm":"Bone Diseases, Developmental"
+                    },{
+                      "ConditionAncestorId":"D000001847",
+                      "ConditionAncestorTerm":"Bone Diseases"
+                    },{
+                      "ConditionAncestorId":"D000009140",
+                      "ConditionAncestorTerm":"Musculoskeletal Diseases"
+                    },{
+                      "ConditionAncestorId":"D000007571",
+                      "ConditionAncestorTerm":"Jaw Diseases"
+                    },{
+                      "ConditionAncestorId":"D000009057",
+                      "ConditionAncestorTerm":"Stomatognathic Diseases"
+                    },{
+                      "ConditionAncestorId":"D000000015",
+                      "ConditionAncestorTerm":"Abnormalities, Multiple"
+                    },{
+                      "ConditionAncestorId":"D000000013",
+                      "ConditionAncestorTerm":"Congenital Abnormalities"
+                    },{
+                      "ConditionAncestorId":"D000030342",
+                      "ConditionAncestorTerm":"Genetic Diseases, Inborn"
+                    }
+                  ]
+                },
+                "ConditionBrowseLeafList":{
+                  "ConditionBrowseLeaf":[
+                    {
+                      "ConditionBrowseLeafId":"M16045",
+                      "ConditionBrowseLeafName":"Syndrome",
+                      "ConditionBrowseLeafAsFound":"Syndrome",
+                      "ConditionBrowseLeafRelevance":"high"
+                    },{
+                      "ConditionBrowseLeafId":"M5224",
+                      "ConditionBrowseLeafName":"Carcinoma",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M20779",
+                      "ConditionBrowseLeafName":"Facies",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M5227",
+                      "ConditionBrowseLeafName":"Carcinoma, Basal Cell",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M15371",
+                      "ConditionBrowseLeafName":"Skin Neoplasms",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M4462",
+                      "ConditionBrowseLeafName":"Basal Cell Nevus Syndrome",
+                      "ConditionBrowseLeafAsFound":"Basal Cell Nevus Syndrome",
+                      "ConditionBrowseLeafRelevance":"high"
+                    },{
+                      "ConditionBrowseLeafId":"M12136",
+                      "ConditionBrowseLeafName":"Nevus",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M12138",
+                      "ConditionBrowseLeafName":"Nevus, Pigmented",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M6455",
+                      "ConditionBrowseLeafName":"Cysts",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M12429",
+                      "ConditionBrowseLeafName":"Odontogenic Cysts",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M10290",
+                      "ConditionBrowseLeafName":"Jaw Cysts",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M4814",
+                      "ConditionBrowseLeafName":"Bone Cysts",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M12010",
+                      "ConditionBrowseLeafName":"Neoplasms, Glandular and Epithelial",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M12005",
+                      "ConditionBrowseLeafName":"Neoplasms by Histologic Type",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M20129",
+                      "ConditionBrowseLeafName":"Neoplasms, Basal Cell",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M12021",
+                      "ConditionBrowseLeafName":"Neoplastic Syndromes, Hereditary",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M4816",
+                      "ConditionBrowseLeafName":"Bone Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M4817",
+                      "ConditionBrowseLeafName":"Bone Diseases, Developmental",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M11787",
+                      "ConditionBrowseLeafName":"Musculoskeletal Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M10291",
+                      "ConditionBrowseLeafName":"Jaw Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M11707",
+                      "ConditionBrowseLeafName":"Stomatognathic Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M12",
+                      "ConditionBrowseLeafName":"Congenital Abnormalities",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M14",
+                      "ConditionBrowseLeafName":"Abnormalities, Multiple",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M23376",
+                      "ConditionBrowseLeafName":"Genetic Diseases, Inborn",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"T4126",
+                      "ConditionBrowseLeafName":"Nevoid Basal Cell Carcinoma Syndrome",
+                      "ConditionBrowseLeafAsFound":"Basal Cell Nevus Syndrome",
+                      "ConditionBrowseLeafRelevance":"high"
+                    }
+                  ]
+                },
+                "ConditionBrowseBranchList":{
+                  "ConditionBrowseBranch":[
+                    {
+                      "ConditionBrowseBranchAbbrev":"BC23",
+                      "ConditionBrowseBranchName":"Symptoms and General Pathology"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"All",
+                      "ConditionBrowseBranchName":"All Conditions"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC04",
+                      "ConditionBrowseBranchName":"Neoplasms"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC17",
+                      "ConditionBrowseBranchName":"Skin and Connective Tissue Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC05",
+                      "ConditionBrowseBranchName":"Musculoskeletal Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC07",
+                      "ConditionBrowseBranchName":"Mouth and Tooth Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC16",
+                      "ConditionBrowseBranchName":"Diseases and Abnormalities at or Before Birth"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"Rare",
+                      "ConditionBrowseBranchName":"Rare Diseases"
+                    }
+                  ]
+                }
+              },
+              "InterventionBrowseModule":{
+                "InterventionMeshList":{
+                  "InterventionMesh":[
+                    {
+                      "InterventionMeshId":"C000086827",
+                      "InterventionMeshTerm":"Tazarotene"
+                    }
+                  ]
+                },
+                "InterventionAncestorList":{
+                  "InterventionAncestor":[
+                    {
+                      "InterventionAncestorId":"D000003879",
+                      "InterventionAncestorTerm":"Dermatologic Agents"
+                    },{
+                      "InterventionAncestorId":"D000007641",
+                      "InterventionAncestorTerm":"Keratolytic Agents"
+                    }
+                  ]
+                },
+                "InterventionBrowseLeafList":{
+                  "InterventionBrowseLeaf":[
+                    {
+                      "InterventionBrowseLeafId":"M229241",
+                      "InterventionBrowseLeafName":"Tazarotene",
+                      "InterventionBrowseLeafAsFound":"Clomiphene Citrate",
+                      "InterventionBrowseLeafRelevance":"high"
+                    },{
+                      "InterventionBrowseLeafId":"M6764",
+                      "InterventionBrowseLeafName":"Dermatologic Agents",
+                      "InterventionBrowseLeafRelevance":"low"
+                    },{
+                      "InterventionBrowseLeafId":"M10357",
+                      "InterventionBrowseLeafName":"Keratolytic Agents",
+                      "InterventionBrowseLeafRelevance":"low"
+                    }
+                  ]
+                },
+                "InterventionBrowseBranchList":{
+                  "InterventionBrowseBranch":[
+                    {
+                      "InterventionBrowseBranchAbbrev":"Derm",
+                      "InterventionBrowseBranchName":"Dermatologic Agents"
+                    },{
+                      "InterventionBrowseBranchAbbrev":"All",
+                      "InterventionBrowseBranchName":"All Drugs and Chemicals"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+  

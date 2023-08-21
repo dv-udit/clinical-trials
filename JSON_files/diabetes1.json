@@ -1,0 +1,1758 @@
+
+{
+    "FullStudiesResponse":{
+      "APIVrs":"1.01.05",
+      "DataVrs":"2023:08:16 23:57:56.293",
+      "Expression":"NCT01252810",
+      "NStudiesAvail":462815,
+      "NStudiesFound":1,
+      "MinRank":1,
+      "MaxRank":1,
+      "NStudiesReturned":1,
+      "FullStudies":[
+        {
+          "Rank":1,
+          "Study":{
+            "ProtocolSection":{
+              "IdentificationModule":{
+                "NCTId":"NCT01252810",
+                "OrgStudyIdInfo":{
+                  "OrgStudyId":"GE 145-002"
+                },
+                "Organization":{
+                  "OrgFullName":"GE Healthcare",
+                  "OrgClass":"INDUSTRY"
+                },
+                "BriefTitle":"Safety Study of GE-145 320 mg I/mL Injection vs. Iopamidol 370 mg I/mL in Elderly Subjects Undergoing Coronary Procedure",
+                "OfficialTitle":"A Phase 2, Double-Blind, Randomized, Safety Study of GE-145 320 mg I/mL Injection Versus Iopamidol 370 mg I/mL in Elderly Subjects Undergoing Coronary Artery Catheterization Procedure"
+              },
+              "StatusModule":{
+                "StatusVerifiedDate":"August 2018",
+                "OverallStatus":"Completed",
+                "ExpandedAccessInfo":{
+                  "HasExpandedAccess":"No"
+                },
+                "StartDateStruct":{
+                  "StartDate":"November 2010"
+                },
+                "PrimaryCompletionDateStruct":{
+                  "PrimaryCompletionDate":"December 2012",
+                  "PrimaryCompletionDateType":"Actual"
+                },
+                "CompletionDateStruct":{
+                  "CompletionDate":"December 2012",
+                  "CompletionDateType":"Actual"
+                },
+                "StudyFirstSubmitDate":"December 1, 2010",
+                "StudyFirstSubmitQCDate":"December 1, 2010",
+                "StudyFirstPostDateStruct":{
+                  "StudyFirstPostDate":"December 3, 2010",
+                  "StudyFirstPostDateType":"Estimate"
+                },
+                "ResultsFirstSubmitDate":"February 6, 2014",
+                "ResultsFirstSubmitQCDate":"April 2, 2014",
+                "ResultsFirstPostDateStruct":{
+                  "ResultsFirstPostDate":"May 2, 2014",
+                  "ResultsFirstPostDateType":"Estimate"
+                },
+                "LastUpdateSubmitDate":"August 1, 2018",
+                "LastUpdatePostDateStruct":{
+                  "LastUpdatePostDate":"August 29, 2018",
+                  "LastUpdatePostDateType":"Actual"
+                }
+              },
+              "SponsorCollaboratorsModule":{
+                "ResponsibleParty":{
+                  "ResponsiblePartyType":"Sponsor"
+                },
+                "LeadSponsor":{
+                  "LeadSponsorName":"GE Healthcare",
+                  "LeadSponsorClass":"INDUSTRY"
+                },
+                "CollaboratorList":{
+                  "Collaborator":[
+                    {
+                      "CollaboratorName":"i3 Statprobe",
+                      "CollaboratorClass":"INDUSTRY"
+                    },{
+                      "CollaboratorName":"Medpace, Inc.",
+                      "CollaboratorClass":"INDUSTRY"
+                    },{
+                      "CollaboratorName":"Biomedical Systems",
+                      "CollaboratorClass":"INDUSTRY"
+                    },{
+                      "CollaboratorName":"Rules-Based Medicine, Inc.",
+                      "CollaboratorClass":"INDUSTRY"
+                    }
+                  ]
+                }
+              },
+              "OversightModule":{
+                "OversightHasDMC":"Yes"
+              },
+              "DescriptionModule":{
+                "BriefSummary":"To evaluate cardio-renal and overall safety profile of GE 145 320 mg I/ml Injection when compared to iopamidol 370 mg I/mL. The study will focus on elderly subjects with either chronic renal insufficiency, or diabetes mellitus (DM) requiring drug therapy, or congestive heart failure (CHF) NYHA Class III or greater, who are referred for a coronary catheterization procedure with or without PCI."
+              },
+              "ConditionsModule":{
+                "ConditionList":{
+                  "Condition":[
+                    "Chronic Renal Insufficiency",
+                    "Diabete Mellitus",
+                    "Congestive Heart Failure"
+                  ]
+                },
+                "KeywordList":{
+                  "Keyword":[
+                    "CATH Catheterization",
+                    "CI-AKI Contrast-induced acute kidney injury",
+                    "DM Diabetes mellitus",
+                    "eGFR Estimated glomerular filtration rate",
+                    "MDRD Modification of Diet in Renal Disease",
+                    "NYHA New York Heart Association",
+                    "PCI Percutaneous coronary intervention",
+                    "SCr Serum creatinine"
+                  ]
+                }
+              },
+              "DesignModule":{
+                "StudyType":"Interventional",
+                "PhaseList":{
+                  "Phase":[
+                    "Phase 2"
+                  ]
+                },
+                "DesignInfo":{
+                  "DesignAllocation":"Randomized",
+                  "DesignInterventionModel":"Parallel Assignment",
+                  "DesignPrimaryPurpose":"Diagnostic",
+                  "DesignMaskingInfo":{
+                    "DesignMasking":"Double",
+                    "DesignWhoMaskedList":{
+                      "DesignWhoMasked":[
+                        "Participant",
+                        "Investigator"
+                      ]
+                    }
+                  }
+                },
+                "EnrollmentInfo":{
+                  "EnrollmentCount":"284",
+                  "EnrollmentType":"Actual"
+                }
+              },
+              "ArmsInterventionsModule":{
+                "ArmGroupList":{
+                  "ArmGroup":[
+                    {
+                      "ArmGroupLabel":"GE 145 320mg I/ml injection",
+                      "ArmGroupType":"Experimental",
+                      "ArmGroupInterventionList":{
+                        "ArmGroupInterventionName":[
+                          "Drug: GE-145"
+                        ]
+                      }
+                    },{
+                      "ArmGroupLabel":"Iopamidol 370mg I/ml injection",
+                      "ArmGroupType":"Active Comparator",
+                      "ArmGroupInterventionList":{
+                        "ArmGroupInterventionName":[
+                          "Drug: GE-145"
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "InterventionList":{
+                  "Intervention":[
+                    {
+                      "InterventionType":"Drug",
+                      "InterventionName":"GE-145",
+                      "InterventionDescription":"GE-145-320 mg I/mL as a single iv. administration. Comparator agent Isovue (iopamidol) 370 mg I/mL as a single iv. administration.",
+                      "InterventionArmGroupLabelList":{
+                        "InterventionArmGroupLabel":[
+                          "GE 145 320mg I/ml injection",
+                          "Iopamidol 370mg I/ml injection"
+                        ]
+                      },
+                      "InterventionOtherNameList":{
+                        "InterventionOtherName":[
+                          "Ioforminol"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "OutcomesModule":{
+                "PrimaryOutcomeList":{
+                  "PrimaryOutcome":[
+                    {
+                      "PrimaryOutcomeMeasure":"Comparison of Overall Image Quality Between Ioforminol and Iopamidol-enhanced Images as Determined by an Independent Reader.",
+                      "PrimaryOutcomeDescription":"Overall image quality (excellent, adequate or poor) and diagnostic usefulness (diagnostic or non-diagnostic) were assessed using qualitative scales.",
+                      "PrimaryOutcomeTimeFrame":"After the imaging date for either Ioforminol or Iopamidol."
+                    }
+                  ]
+                },
+                "SecondaryOutcomeList":{
+                  "SecondaryOutcome":[
+                    {
+                      "SecondaryOutcomeMeasure":"To Determine Incidence Rates of the Overall AEs, Organ-specific AEs (i.e., Delayed Skin Reactions, General Subject Comfort, and Allergic/Immunologic Reactions, Etc.) and SAEs Following Administration",
+                      "SecondaryOutcomeDescription":"To determine incidence rates of the overall AEs, organ-specific AEs (i.e., delayed skin reactions, general subject comfort, and allergic/immunologic reactions, etc.) and SAEs following administration of GE-145 or iopamidol.\n\nTo determine incidence rates and onset time of biomarker-based and SCr-based CI-AKI following administration of GE-145 or iopamidol.\n\nSummary of Treatment-Emergent Adverse Events (TEAE) in greater than of equal to 2% of Subjects.",
+                      "SecondaryOutcomeTimeFrame":"Time zero equals the date of contrast imaging and for up to 7 days for safety monitoring post contrast administration."
+                    },{
+                      "SecondaryOutcomeMeasure":"Assessing the Incidence of Renal Biomarker-based Contrast-induced Acute Kidney Injury (CI-AKI) in Subjects Post Administration of Ioforminol or Iopamidol Injections",
+                      "SecondaryOutcomeDescription":"Analyzing the number of subjects with renal biomarker-based contrast-induced acute kidney injury (CI-AKI).",
+                      "SecondaryOutcomeTimeFrame":"2, 6 and 24 hours post Ioforminol and Iopamidol adminstration"
+                    }
+                  ]
+                }
+              },
+              "EligibilityModule":{
+                "EligibilityCriteria":"Inclusion Criteria:\n\nMales and females 65 years of age with cardiovascular disease who are referred for a coronary catheterization procedure with or without PCI.\nThe subject has at least one of the following comorbidities:\n1) Chronic renal insufficiency, (eGFR <60 but 15 mL/min/1.73 m2 according to the MDRD equation) as measured within 2 weeks or at the screening visit;\n2) DM diagnosed greater than 6 months prior to study entry and which requires either insulin or anti-hyperglycemic drug therapy;\n3) CHF (NYHA) class III or greater measured within 2 weeks of enrollment or at the screening visit.\n\nExclusion Criteria:\n\nThe subject has known allergies to either iodine or any ICM.\nThe subject has severe renal insufficiency (eGFR <15 mL/min/1.73 m2 according to the MDRD equation) or is on dialysis.\nThe subject has acute coronary syndrome requiring emergency coronary angiography and/or intervention.\nThe subject is not willing or unable to discontinue metformin (e.g., Glucophage) at the time of the study procedure.",
+                "HealthyVolunteers":"No",
+                "Gender":"All",
+                "MinimumAge":"65 Years",
+                "StdAgeList":{
+                  "StdAge":[
+                    "Older Adult"
+                  ]
+                }
+              },
+              "ContactsLocationsModule":{
+                "OverallOfficialList":{
+                  "OverallOfficial":[
+                    {
+                      "OverallOfficialName":"Rubin Sheng, M.D.",
+                      "OverallOfficialAffiliation":"GE Healthcare",
+                      "OverallOfficialRole":"Study Director"
+                    }
+                  ]
+                },
+                "LocationList":{
+                  "Location":[
+                    {
+                      "LocationFacility":"GE Healthcare",
+                      "LocationCity":"Princeton",
+                      "LocationState":"New Jersey",
+                      "LocationZip":"08540",
+                      "LocationCountry":"United States"
+                    }
+                  ]
+                }
+              }
+            },
+            "ResultsSection":{
+              "ParticipantFlowModule":{
+                "FlowGroupList":{
+                  "FlowGroup":[
+                    {
+                      "FlowGroupId":"FG000",
+                      "FlowGroupTitle":"Ioforminol 320mg I/ml Injection",
+                      "FlowGroupDescription":"Ioforminol 320 mg I/mL as a single iv. administration."
+                    },{
+                      "FlowGroupId":"FG001",
+                      "FlowGroupTitle":"Iopamidol 370mg I/ml Injection",
+                      "FlowGroupDescription":"Iopamidol 370 mg I/mL as a single iv. administration."
+                    }
+                  ]
+                },
+                "FlowPeriodList":{
+                  "FlowPeriod":[
+                    {
+                      "FlowPeriodTitle":"Overall Study",
+                      "FlowMilestoneList":{
+                        "FlowMilestone":[
+                          {
+                            "FlowMilestoneType":"STARTED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"142"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"142"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"128"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"139"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowMilestoneType":"NOT COMPLETED",
+                            "FlowAchievementList":{
+                              "FlowAchievement":[
+                                {
+                                  "FlowAchievementGroupId":"FG000",
+                                  "FlowAchievementNumSubjects":"14"
+                                },{
+                                  "FlowAchievementGroupId":"FG001",
+                                  "FlowAchievementNumSubjects":"3"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "FlowDropWithdrawList":{
+                        "FlowDropWithdraw":[
+                          {
+                            "FlowDropWithdrawType":"Withdrawal by Subject",
+                            "FlowReasonList":{
+                              "FlowReason":[
+                                {
+                                  "FlowReasonGroupId":"FG000",
+                                  "FlowReasonNumSubjects":"4"
+                                },{
+                                  "FlowReasonGroupId":"FG001",
+                                  "FlowReasonNumSubjects":"1"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowDropWithdrawType":"Lost to Follow-up",
+                            "FlowReasonList":{
+                              "FlowReason":[
+                                {
+                                  "FlowReasonGroupId":"FG000",
+                                  "FlowReasonNumSubjects":"0"
+                                },{
+                                  "FlowReasonGroupId":"FG001",
+                                  "FlowReasonNumSubjects":"1"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowDropWithdrawType":"Physician Decision",
+                            "FlowReasonList":{
+                              "FlowReason":[
+                                {
+                                  "FlowReasonGroupId":"FG000",
+                                  "FlowReasonNumSubjects":"2"
+                                },{
+                                  "FlowReasonGroupId":"FG001",
+                                  "FlowReasonNumSubjects":"1"
+                                }
+                              ]
+                            }
+                          },{
+                            "FlowDropWithdrawType":"Various reasons",
+                            "FlowReasonList":{
+                              "FlowReason":[
+                                {
+                                  "FlowReasonGroupId":"FG000",
+                                  "FlowReasonNumSubjects":"8"
+                                },{
+                                  "FlowReasonGroupId":"FG001",
+                                  "FlowReasonNumSubjects":"0"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "BaselineCharacteristicsModule":{
+                "BaselineGroupList":{
+                  "BaselineGroup":[
+                    {
+                      "BaselineGroupId":"BG000",
+                      "BaselineGroupTitle":"Ioforminol 320mg I/ml Injection",
+                      "BaselineGroupDescription":"Ioforminol 320 mg I/mL as a single iv. administration."
+                    },{
+                      "BaselineGroupId":"BG001",
+                      "BaselineGroupTitle":"Iopamidol 370mg I/ml Injection",
+                      "BaselineGroupDescription":"Iopamidol 370 mg I/mL as a single iv. administration."
+                    },{
+                      "BaselineGroupId":"BG002",
+                      "BaselineGroupTitle":"Total",
+                      "BaselineGroupDescription":"Total of all reporting groups"
+                    }
+                  ]
+                },
+                "BaselineDenomList":{
+                  "BaselineDenom":[
+                    {
+                      "BaselineDenomUnits":"Participants",
+                      "BaselineDenomCountList":{
+                        "BaselineDenomCount":[
+                          {
+                            "BaselineDenomCountGroupId":"BG000",
+                            "BaselineDenomCountValue":"137"
+                          },{
+                            "BaselineDenomCountGroupId":"BG001",
+                            "BaselineDenomCountValue":"141"
+                          },{
+                            "BaselineDenomCountGroupId":"BG002",
+                            "BaselineDenomCountValue":"278"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "BaselineMeasureList":{
+                  "BaselineMeasure":[
+                    {
+                      "BaselineMeasureTitle":"Age, Categorical",
+                      "BaselineMeasureDescription":"Per a Protocol Amendment, A-01, the minimum age changed to male or female greater than or equal to 18 years of age who have a history of chronic renal insufficiently.",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"<=18 years",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"0"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"0"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Between 18 and 65 years",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"28"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"30"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"58"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":">=65 years",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"109"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"111"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"220"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Sex: Female, Male",
+                      "BaselineMeasureParamType":"Count of Participants",
+                      "BaselineMeasureUnitOfMeasure":"Participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineCategoryTitle":"Female",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"48"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"53"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"101"
+                                      }
+                                    ]
+                                  }
+                                },{
+                                  "BaselineCategoryTitle":"Male",
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"89"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"88"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"177"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "BaselineMeasureTitle":"Region of Enrollment",
+                      "BaselineMeasureParamType":"Number",
+                      "BaselineMeasureUnitOfMeasure":"participants",
+                      "BaselineClassList":{
+                        "BaselineClass":[
+                          {
+                            "BaselineClassTitle":"United States",
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"128"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"134"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"262"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "BaselineClassTitle":"Canada",
+                            "BaselineCategoryList":{
+                              "BaselineCategory":[
+                                {
+                                  "BaselineMeasurementList":{
+                                    "BaselineMeasurement":[
+                                      {
+                                        "BaselineMeasurementGroupId":"BG000",
+                                        "BaselineMeasurementValue":"9"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG001",
+                                        "BaselineMeasurementValue":"7"
+                                      },{
+                                        "BaselineMeasurementGroupId":"BG002",
+                                        "BaselineMeasurementValue":"16"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "OutcomeMeasuresModule":{
+                "OutcomeMeasureList":{
+                  "OutcomeMeasure":[
+                    {
+                      "OutcomeMeasureType":"Primary",
+                      "OutcomeMeasureTitle":"Comparison of Overall Image Quality Between Ioforminol and Iopamidol-enhanced Images as Determined by an Independent Reader.",
+                      "OutcomeMeasureDescription":"Overall image quality (excellent, adequate or poor) and diagnostic usefulness (diagnostic or non-diagnostic) were assessed using qualitative scales.",
+                      "OutcomeMeasurePopulationDescription":"The measured values are looking at 1) Overall Image Quality and, 2) Diagnostic Usefulness.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Number",
+                      "OutcomeMeasureUnitOfMeasure":"Number of subjects",
+                      "OutcomeMeasureTimeFrame":"After the imaging date for either Ioforminol or Iopamidol.",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Ioforminol 320mg I/ml Injection",
+                            "OutcomeGroupDescription":"Ioforminol 320 mg I/mL as a single iv. administration."
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Iopamidol 370mg I/ml Injection",
+                            "OutcomeGroupDescription":"Iopamidol 370 mg I/mL as a single iv. administration."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"137"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"141"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeClassTitle":"Overall Image Quality-Excellent",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"65"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"71"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Overall Image Quality-Adequate",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"57"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"59"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Overal Image Quality-Poor",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"15"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"11"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Diagnostic Usefulness-Diagnostic",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"123"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"134"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Diagnostic Usefulness-Non-Diagnostic",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"14"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"7"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"To Determine Incidence Rates of the Overall AEs, Organ-specific AEs (i.e., Delayed Skin Reactions, General Subject Comfort, and Allergic/Immunologic Reactions, Etc.) and SAEs Following Administration",
+                      "OutcomeMeasureDescription":"To determine incidence rates of the overall AEs, organ-specific AEs (i.e., delayed skin reactions, general subject comfort, and allergic/immunologic reactions, etc.) and SAEs following administration of GE-145 or iopamidol.\n\nTo determine incidence rates and onset time of biomarker-based and SCr-based CI-AKI following administration of GE-145 or iopamidol.\n\nSummary of Treatment-Emergent Adverse Events (TEAE) in greater than of equal to 2% of Subjects.",
+                      "OutcomeMeasurePopulationDescription":"Summary of Treatment-Emergent Adverse Events (TEAE) in greater than of equal to 2% of Subjects.",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Number",
+                      "OutcomeMeasureUnitOfMeasure":"Number of events",
+                      "OutcomeMeasureTimeFrame":"Time zero equals the date of contrast imaging and for up to 7 days for safety monitoring post contrast administration.",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Ioforminol 320mg I/ml Injection",
+                            "OutcomeGroupDescription":"Ioforminol 320 mg I/mL as a single iv. administration."
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Iopamidol 370mg I/ml Injection",
+                            "OutcomeGroupDescription":"Iopamidol 370 mg I/mL as a single iv. administration."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"137"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"141"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeClassTitle":"Angina Pectoris",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"3"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"2"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Coronary Artery Disease",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"3"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"3"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Diarrhea",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"3"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"1"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Nausea",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"3"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"3"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Catheter-Site Hematoma",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"9"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"8"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Catheter-Site Hemorrhage",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"4"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"6"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Catheter-Site Pain",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"4"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"3"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Chest Pain",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"3"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"2"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Urinary Tract Infection",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"3"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"4"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Blood Creatinine Increased",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"2"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"4"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Pain In Extremity",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"2"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"5"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Dizziness",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"0"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"3"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Headache",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"11"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"1"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },{
+                      "OutcomeMeasureType":"Secondary",
+                      "OutcomeMeasureTitle":"Assessing the Incidence of Renal Biomarker-based Contrast-induced Acute Kidney Injury (CI-AKI) in Subjects Post Administration of Ioforminol or Iopamidol Injections",
+                      "OutcomeMeasureDescription":"Analyzing the number of subjects with renal biomarker-based contrast-induced acute kidney injury (CI-AKI).",
+                      "OutcomeMeasurePopulationDescription":"Summary of subjects with renal biomarker-based CI-AKI by time point (Per Protocol Population).",
+                      "OutcomeMeasureReportingStatus":"Posted",
+                      "OutcomeMeasureParamType":"Number",
+                      "OutcomeMeasureUnitOfMeasure":"Subjects",
+                      "OutcomeMeasureTimeFrame":"2, 6 and 24 hours post Ioforminol and Iopamidol adminstration",
+                      "OutcomeGroupList":{
+                        "OutcomeGroup":[
+                          {
+                            "OutcomeGroupId":"OG000",
+                            "OutcomeGroupTitle":"Ioforminol 320mg I/ml Injection",
+                            "OutcomeGroupDescription":"Ioforminol 320 mg I/mL as a single iv. administration."
+                          },{
+                            "OutcomeGroupId":"OG001",
+                            "OutcomeGroupTitle":"Iopamidol 370mg I/ml Injection",
+                            "OutcomeGroupDescription":"Iopamidol 370 mg I/mL as a single iv. administration."
+                          }
+                        ]
+                      },
+                      "OutcomeDenomList":{
+                        "OutcomeDenom":[
+                          {
+                            "OutcomeDenomUnits":"Participants",
+                            "OutcomeDenomCountList":{
+                              "OutcomeDenomCount":[
+                                {
+                                  "OutcomeDenomCountGroupId":"OG000",
+                                  "OutcomeDenomCountValue":"109"
+                                },{
+                                  "OutcomeDenomCountGroupId":"OG001",
+                                  "OutcomeDenomCountValue":"106"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "OutcomeClassList":{
+                        "OutcomeClass":[
+                          {
+                            "OutcomeClassTitle":"Time- Post Contrast, 2 hours",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"24"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"21"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Time- Post Contrast, 6 hours",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"48"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"33"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },{
+                            "OutcomeClassTitle":"Time- Post Contrast, 24 hourss",
+                            "OutcomeCategoryList":{
+                              "OutcomeCategory":[
+                                {
+                                  "OutcomeMeasurementList":{
+                                    "OutcomeMeasurement":[
+                                      {
+                                        "OutcomeMeasurementGroupId":"OG000",
+                                        "OutcomeMeasurementValue":"61"
+                                      },{
+                                        "OutcomeMeasurementGroupId":"OG001",
+                                        "OutcomeMeasurementValue":"49"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "AdverseEventsModule":{
+                "EventsFrequencyThreshold":"5",
+                "EventsTimeFrame":"Up to 7 days post Ioforminol and Iopamidol administrations.",
+                "EventGroupList":{
+                  "EventGroup":[
+                    {
+                      "EventGroupId":"EG000",
+                      "EventGroupTitle":"Ioforminol 320mg I/ml Injection",
+                      "EventGroupDescription":"Ioforminol 320 mg I/mL as a single iv. administration. Up to 7 days post Iopamidol administration.",
+                      "EventGroupSeriousNumAffected":"13",
+                      "EventGroupSeriousNumAtRisk":"137",
+                      "EventGroupOtherNumAffected":"20",
+                      "EventGroupOtherNumAtRisk":"137"
+                    },{
+                      "EventGroupId":"EG001",
+                      "EventGroupTitle":"Iopamidol 370mg I/ml Injection",
+                      "EventGroupDescription":"Iopamidol 370 mg I/mL as a single iv. administration. Up to 7 days post Ioforminol administration.",
+                      "EventGroupSeriousNumAffected":"10",
+                      "EventGroupSeriousNumAtRisk":"141",
+                      "EventGroupOtherNumAffected":"9",
+                      "EventGroupOtherNumAtRisk":"141"
+                    }
+                  ]
+                },
+                "SeriousEventList":{
+                  "SeriousEvent":[
+                    {
+                      "SeriousEventTerm":"Angina pectoris",
+                      "SeriousEventOrganSystem":"Cardiac disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Aortic stenosis",
+                      "SeriousEventOrganSystem":"Cardiac disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Atrial fibrillation",
+                      "SeriousEventOrganSystem":"Cardiac disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Cardiac failure",
+                      "SeriousEventOrganSystem":"Cardiac disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Congestive cardiac failure",
+                      "SeriousEventOrganSystem":"Cardiac disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Coronary artery disease",
+                      "SeriousEventOrganSystem":"Cardiac disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"2",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Coronary artery disease and hospitalization",
+                      "SeriousEventOrganSystem":"Cardiac disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Coronary artery stenosis",
+                      "SeriousEventOrganSystem":"Cardiac disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Tachycardia",
+                      "SeriousEventOrganSystem":"Cardiac disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Unstable angina",
+                      "SeriousEventOrganSystem":"Cardiac disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Chest discomfort",
+                      "SeriousEventOrganSystem":"General disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Chest pain",
+                      "SeriousEventOrganSystem":"General disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Vascular pseudoaneurysm to hospitalization",
+                      "SeriousEventOrganSystem":"General disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Dyspnea",
+                      "SeriousEventOrganSystem":"General disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Hematoma",
+                      "SeriousEventOrganSystem":"General disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Non-cardiac chest pain",
+                      "SeriousEventOrganSystem":"General disorders",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Coronary artery bypass",
+                      "SeriousEventOrganSystem":"Surgical and medical procedures",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "SeriousEventTerm":"Cardiac pacemaker insertion to hospitalization",
+                      "SeriousEventOrganSystem":"Surgical and medical procedures",
+                      "SeriousEventSourceVocabulary":"MedDRA 14.1",
+                      "SeriousEventAssessmentType":"Systematic Assessment",
+                      "SeriousEventStatsList":{
+                        "SeriousEventStats":[
+                          {
+                            "SeriousEventStatsGroupId":"EG000",
+                            "SeriousEventStatsNumEvents":"1",
+                            "SeriousEventStatsNumAffected":"1",
+                            "SeriousEventStatsNumAtRisk":"137"
+                          },{
+                            "SeriousEventStatsGroupId":"EG001",
+                            "SeriousEventStatsNumEvents":"0",
+                            "SeriousEventStatsNumAffected":"0",
+                            "SeriousEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "OtherEventList":{
+                  "OtherEvent":[
+                    {
+                      "OtherEventTerm":"Catheter-Site Hemotoma",
+                      "OtherEventOrganSystem":"General disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 14.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventNotes":"Site of Administration",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"9",
+                            "OtherEventStatsNumAffected":"9",
+                            "OtherEventStatsNumAtRisk":"137"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"8",
+                            "OtherEventStatsNumAffected":"8",
+                            "OtherEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    },{
+                      "OtherEventTerm":"Headache",
+                      "OtherEventOrganSystem":"Nervous system disorders",
+                      "OtherEventSourceVocabulary":"MedDRA 14.1",
+                      "OtherEventAssessmentType":"Systematic Assessment",
+                      "OtherEventStatsList":{
+                        "OtherEventStats":[
+                          {
+                            "OtherEventStatsGroupId":"EG000",
+                            "OtherEventStatsNumEvents":"11",
+                            "OtherEventStatsNumAffected":"11",
+                            "OtherEventStatsNumAtRisk":"137"
+                          },{
+                            "OtherEventStatsGroupId":"EG001",
+                            "OtherEventStatsNumEvents":"1",
+                            "OtherEventStatsNumAffected":"1",
+                            "OtherEventStatsNumAtRisk":"141"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              "MoreInfoModule":{
+                "CertainAgreement":{
+                  "AgreementPISponsorEmployee":"No",
+                  "AgreementRestrictiveAgreement":"No"
+                },
+                "PointOfContact":{
+                  "PointOfContactTitle":"Ruben Sheng, M.D.",
+                  "PointOfContactOrganization":"GE Healthcare",
+                  "PointOfContactEMail":"Rubin.Sheng@ge.com",
+                  "PointOfContactPhone":"609-514-6899"
+                }
+              }
+            },
+            "DerivedSection":{
+              "MiscInfoModule":{
+                "VersionHolder":"August 17, 2023"
+              },
+              "ConditionBrowseModule":{
+                "ConditionMeshList":{
+                  "ConditionMesh":[
+                    {
+                      "ConditionMeshId":"D000051437",
+                      "ConditionMeshTerm":"Renal Insufficiency"
+                    },{
+                      "ConditionMeshId":"D000051436",
+                      "ConditionMeshTerm":"Renal Insufficiency, Chronic"
+                    },{
+                      "ConditionMeshId":"D000006333",
+                      "ConditionMeshTerm":"Heart Failure"
+                    },{
+                      "ConditionMeshId":"D000003920",
+                      "ConditionMeshTerm":"Diabetes Mellitus"
+                    }
+                  ]
+                },
+                "ConditionAncestorList":{
+                  "ConditionAncestor":[
+                    {
+                      "ConditionAncestorId":"D000006331",
+                      "ConditionAncestorTerm":"Heart Diseases"
+                    },{
+                      "ConditionAncestorId":"D000002318",
+                      "ConditionAncestorTerm":"Cardiovascular Diseases"
+                    },{
+                      "ConditionAncestorId":"D000007674",
+                      "ConditionAncestorTerm":"Kidney Diseases"
+                    },{
+                      "ConditionAncestorId":"D000014570",
+                      "ConditionAncestorTerm":"Urologic Diseases"
+                    },{
+                      "ConditionAncestorId":"D000052776",
+                      "ConditionAncestorTerm":"Female Urogenital Diseases"
+                    },{
+                      "ConditionAncestorId":"D000005261",
+                      "ConditionAncestorTerm":"Female Urogenital Diseases and Pregnancy Complications"
+                    },{
+                      "ConditionAncestorId":"D000091642",
+                      "ConditionAncestorTerm":"Urogenital Diseases"
+                    },{
+                      "ConditionAncestorId":"D000052801",
+                      "ConditionAncestorTerm":"Male Urogenital Diseases"
+                    },{
+                      "ConditionAncestorId":"D000002908",
+                      "ConditionAncestorTerm":"Chronic Disease"
+                    },{
+                      "ConditionAncestorId":"D000020969",
+                      "ConditionAncestorTerm":"Disease Attributes"
+                    },{
+                      "ConditionAncestorId":"D000010335",
+                      "ConditionAncestorTerm":"Pathologic Processes"
+                    },{
+                      "ConditionAncestorId":"D000044882",
+                      "ConditionAncestorTerm":"Glucose Metabolism Disorders"
+                    },{
+                      "ConditionAncestorId":"D000008659",
+                      "ConditionAncestorTerm":"Metabolic Diseases"
+                    },{
+                      "ConditionAncestorId":"D000004700",
+                      "ConditionAncestorTerm":"Endocrine System Diseases"
+                    }
+                  ]
+                },
+                "ConditionBrowseLeafList":{
+                  "ConditionBrowseLeaf":[
+                    {
+                      "ConditionBrowseLeafId":"M10388",
+                      "ConditionBrowseLeafName":"Kidney Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M26407",
+                      "ConditionBrowseLeafName":"Renal Insufficiency, Chronic",
+                      "ConditionBrowseLeafAsFound":"Chronic Renal Insufficiency",
+                      "ConditionBrowseLeafRelevance":"high"
+                    },{
+                      "ConditionBrowseLeafId":"M28688",
+                      "ConditionBrowseLeafName":"Acute Kidney Injury",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M6805",
+                      "ConditionBrowseLeafName":"Diabetes Mellitus",
+                      "ConditionBrowseLeafAsFound":"Diabete Mellitus",
+                      "ConditionBrowseLeafRelevance":"high"
+                    },{
+                      "ConditionBrowseLeafId":"M9111",
+                      "ConditionBrowseLeafName":"Heart Failure",
+                      "ConditionBrowseLeafAsFound":"Congestive Heart Failure",
+                      "ConditionBrowseLeafRelevance":"high"
+                    },{
+                      "ConditionBrowseLeafId":"M26408",
+                      "ConditionBrowseLeafName":"Renal Insufficiency",
+                      "ConditionBrowseLeafAsFound":"Renal Insufficiency",
+                      "ConditionBrowseLeafRelevance":"high"
+                    },{
+                      "ConditionBrowseLeafId":"M9109",
+                      "ConditionBrowseLeafName":"Heart Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M17009",
+                      "ConditionBrowseLeafName":"Urologic Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M2876",
+                      "ConditionBrowseLeafName":"Urogenital Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M26783",
+                      "ConditionBrowseLeafName":"Female Urogenital Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M13817",
+                      "ConditionBrowseLeafName":"Pregnancy Complications",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M8089",
+                      "ConditionBrowseLeafName":"Female Urogenital Diseases and Pregnancy Complications",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M26785",
+                      "ConditionBrowseLeafName":"Male Urogenital Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M5837",
+                      "ConditionBrowseLeafName":"Chronic Disease",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M22390",
+                      "ConditionBrowseLeafName":"Disease Attributes",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M11329",
+                      "ConditionBrowseLeafName":"Metabolic Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M25093",
+                      "ConditionBrowseLeafName":"Glucose Metabolism Disorders",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"M7552",
+                      "ConditionBrowseLeafName":"Endocrine System Diseases",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"T1303",
+                      "ConditionBrowseLeafName":"Chronic Graft Versus Host Disease",
+                      "ConditionBrowseLeafRelevance":"low"
+                    },{
+                      "ConditionBrowseLeafId":"T170",
+                      "ConditionBrowseLeafName":"Acute Graft Versus Host Disease",
+                      "ConditionBrowseLeafRelevance":"low"
+                    }
+                  ]
+                },
+                "ConditionBrowseBranchList":{
+                  "ConditionBrowseBranch":[
+                    {
+                      "ConditionBrowseBranchAbbrev":"BXS",
+                      "ConditionBrowseBranchName":"Urinary Tract, Sexual Organs, and Pregnancy Conditions"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"All",
+                      "ConditionBrowseBranchName":"All Conditions"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC23",
+                      "ConditionBrowseBranchName":"Symptoms and General Pathology"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC18",
+                      "ConditionBrowseBranchName":"Nutritional and Metabolic Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC19",
+                      "ConditionBrowseBranchName":"Gland and Hormone Related Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"BC14",
+                      "ConditionBrowseBranchName":"Heart and Blood Diseases"
+                    },{
+                      "ConditionBrowseBranchAbbrev":"Rare",
+                      "ConditionBrowseBranchName":"Rare Diseases"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+  
