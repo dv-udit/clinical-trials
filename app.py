@@ -48,7 +48,7 @@ qa = RetrievalQA.from_chain_type(
     llm = OpenAI() , chain_type = "map_reduce",retriever = retriever, return_source_documents = True
 )
 
-query = "what is the document all about?"
+query = "Tell me something about covid data?"
 result = qa({"query" : query})
 
 
