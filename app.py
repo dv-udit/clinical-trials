@@ -18,13 +18,7 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 
 
-
-
-
-
-
 llm = OpenAI(model_name='chatgpt-4', temperature=0)
-
 
 
 def split_docs(documents,chunk_size=1000,chunk_overlap=20):
