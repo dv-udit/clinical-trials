@@ -1,26 +1,36 @@
-# Creating a Question-Answering Model with Langchain Library
+# Clinical Trial App
 
-This guide will walk you through the process of building a Question-Answering (QA) model using the Langchain library of the Large Language Model (LLM). We'll use custom JSON data for this purpose.
+Welcome to the Clinical Trial App repository! This application provides insights into clinical trials data.
 
 ## Prerequisites
 
-Before you begin, ensure you have the following prerequisites installed:
+Before you can run the Clinical Trial App, please ensure you have the following prerequisites installed on your system:
 
-- Python
-- Langchain library
-- Custom JSON data for training
+- **Python**: You'll need Python installed to run the application locally. You can download Python from [python.org](https://www.python.org/downloads/).
 
-## Step 1: Installation
+- **Docker**: Docker is required to containerize and run the application. You can download and install Docker from [docker.com](https://www.docker.com/products/docker-desktop).
 
-First, install the Langchain library and any required dependencies:
+## Getting Started
 
+Follow these steps to get the Clinical Trial App up and running:
 
-# Install Langchain library
+1. **Clone the Repository**:
 ```
-pip install -r requirements.txt
+git clone https://github.com/dv-udit/clinical-trials
+
+cd clinical-trials
+   ```
+2. **Build the Docker image**
 ```
-## Step 2: Run
-```
-python app.py
+docker build -t your-image-name .
 ```
 
+3. **Setup .env file**
+```
+OPENAI_API_KEY=your-api-key-here
+```
+
+4. **Run the Docker Container**
+```
+docker run -p 8561:8561 --env-file .env your-image-name
+```
