@@ -2,5 +2,3 @@ openai==0.27.8
 langchain==0.0.263
 streamlit==1.25.0
 chromadb
-tiktoken
-sqlite3 >= 3.35.0
