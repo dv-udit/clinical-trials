@@ -37,32 +37,20 @@ print("documents>>>>>> embedded")
 
 db = Chroma.from_documents(documents, embeddings)
 
-# #define the system message template
-# system_template = """
-# you are an intelligent clinical trail researcher and excellent at finding answers from the documents.
-# i will ask questions from the document and you'll help me try finding the answers from this.
-# If you cannot find the answer from the pieces of context, just say that you don't know, don't try to make up an answer.
-# ---------------
-# {context}
-# """
+#define the system message template
+system_template = """
+you are an intelligent clinical trail researcher and excellent at finding answers from the documents.
+i will ask questions from the document and you'll help me try finding the answers from this.
+If you cannot find the answer from the pieces of context, just say that you don't know, don't try to make up an answer.
+---------------
+{context}
+"""
 
-# #create the chat prompt template
-
-# message = [
-#     SystemMessagePromptTemplate.from_template(system_template),
-#     HumanMessagePromptTemplate.from_template("{question}")
-# ]
-
-# qa_prompt = ChatPromptTemplate.from_messages(messages)
-
-
-
-
-
+qa_prompt = PromptTemplate.from_template(system_template)
 
 memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
 
-qa = ConversationalRetrievalChain.from_llm(OpenAI(temperature=0), db.as_retriever(), memory=memory)
+qa = ConversationalRetrievalChain.from_llm(OpenAI(temperature=0,model_name = "gpt-4"), db.as_retriever(), memory=memory,condense_question_prompt=qa_prompt)
 # qa = ConversationalRetrievalChain.from_llm(ChatOpenAI(temperature=0 , model_name = "chatgpt-4"), vectorstore.as_retriever())
 
 
@@ -73,10 +61,8 @@ qa = ConversationalRetrievalChain.from_llm(OpenAI(temperature=0), db.as_retrieve
 # query = "Give me the chat histry?"
 
 
-query = input("Enter your question")
+query = input("Enter your question : ")
 result = qa({"question": query})
-
-
 
 # response =  qa({"question" : query})
 
