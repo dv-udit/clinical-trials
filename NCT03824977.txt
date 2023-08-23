@@ -1,0 +1,463 @@
+
+APIVrs: 1.01.05
+DataVrs: 2023:08:22 00:03:36.231
+Expression: NCT03824977
+NStudiesAvail: 463387
+NStudiesFound: 1
+MinRank: 1
+MaxRank: 1
+NStudiesReturned: 1
+
+
+------------------------------
+Study 1
+
++---Study
+    |   
+    +---ProtocolSection
+    |   |   
+    |   +---IdentificationModule
+    |   |   |   
+    |   |   +---NCTId:  NCT03824977
+    |   |   |   
+    |   |   +---OrgStudyIdInfo
+    |   |   |   |   
+    |   |   |   +---OrgStudyId:  2018-A02694-51
+    |   |   |   
+    |   |   +---Organization
+    |   |   |   |   
+    |   |   |   +---OrgFullName:  University Hospital, Rouen
+    |   |   |   |   
+    |   |   |   +---OrgClass:  OTHER
+    |   |   |   
+    |   |   +---BriefTitle:  Prognostic Value of the 6-minute Stepper Test in Non-small Cell Lung Cancer Surgery
+    |   |   |   
+    |   |   +---OfficialTitle:  Prognostic Value of the 6-minute Stepper Test in Non-small Cell Lung Cancer Surgery
+    |   |   |   
+    |   |   +---Acronym:  PREOTEST
+    |   |   
+    |   +---StatusModule
+    |   |   |   
+    |   |   +---StatusVerifiedDate:  February 2022
+    |   |   |   
+    |   |   +---OverallStatus:  Completed
+    |   |   |   
+    |   |   +---ExpandedAccessInfo
+    |   |   |   |   
+    |   |   |   +---HasExpandedAccess:  No
+    |   |   |   
+    |   |   +---StartDateStruct
+    |   |   |   |   
+    |   |   |   +---StartDate:  November 21, 2018
+    |   |   |   |   
+    |   |   |   +---StartDateType:  Actual
+    |   |   |   
+    |   |   +---PrimaryCompletionDateStruct
+    |   |   |   |   
+    |   |   |   +---PrimaryCompletionDate:  February 4, 2020
+    |   |   |   |   
+    |   |   |   +---PrimaryCompletionDateType:  Actual
+    |   |   |   
+    |   |   +---CompletionDateStruct
+    |   |   |   |   
+    |   |   |   +---CompletionDate:  February 4, 2020
+    |   |   |   |   
+    |   |   |   +---CompletionDateType:  Actual
+    |   |   |   
+    |   |   +---StudyFirstSubmitDate:  January 29, 2019
+    |   |   |   
+    |   |   +---StudyFirstSubmitQCDate:  January 29, 2019
+    |   |   |   
+    |   |   +---StudyFirstPostDateStruct
+    |   |   |   |   
+    |   |   |   +---StudyFirstPostDate:  January 31, 2019
+    |   |   |   |   
+    |   |   |   +---StudyFirstPostDateType:  Actual
+    |   |   |   
+    |   |   +---LastUpdateSubmitDate:  February 18, 2022
+    |   |   |   
+    |   |   +---LastUpdatePostDateStruct
+    |   |       |   
+    |   |       +---LastUpdatePostDate:  March 7, 2022
+    |   |       |   
+    |   |       +---LastUpdatePostDateType:  Actual
+    |   |   
+    |   +---SponsorCollaboratorsModule
+    |   |   |   
+    |   |   +---ResponsibleParty
+    |   |   |   |   
+    |   |   |   +---ResponsiblePartyType:  Sponsor
+    |   |   |   
+    |   |   +---LeadSponsor
+    |   |       |   
+    |   |       +---LeadSponsorName:  University Hospital, Rouen
+    |   |       |   
+    |   |       +---LeadSponsorClass:  OTHER
+    |   |   
+    |   +---OversightModule
+    |   |   |   
+    |   |   +---OversightHasDMC:  Yes
+    |   |   |   
+    |   |   +---IsFDARegulatedDrug:  No
+    |   |   |   
+    |   |   +---IsFDARegulatedDevice:  No
+    |   |   
+    |   +---DescriptionModule
+    |   |   |   
+    |   |   +---BriefSummary:  The objective of this study is to evaluate the performances of the Six-Minute Stepper Test (6MST) and Sit To Stand test (STST) to predict post-operative complications after minimally invasive lung cancer resection.
+    |   |   
+    |   +---ConditionsModule
+    |   |   |   
+    |   |   +---ConditionList
+    |   |   |   |   
+    |   |   |   +---Condition 0:  Lung Neoplasm Malignant
+    |   |   |   |   
+    |   |   |   +---Condition 1:  Resectable Lung Non-Small Cell Carcinoma
+    |   |   |   
+    |   |   +---KeywordList
+    |   |       |   
+    |   |       +---Keyword 0:  lung resection
+    |   |       |   
+    |   |       +---Keyword 1:  low technology
+    |   |       |   
+    |   |       +---Keyword 2:  six minutes stepper test
+    |   |       |   
+    |   |       +---Keyword 3:  sit to stand test
+    |   |       |   
+    |   |       +---Keyword 4:  physiotherapy
+    |   |       |   
+    |   |       +---Keyword 5:  lung surgery
+    |   |       |   
+    |   |       +---Keyword 6:  post-operative complications
+    |   |   
+    |   +---DesignModule
+    |   |   |   
+    |   |   +---StudyType:  Observational
+    |   |   |   
+    |   |   +---PatientRegistry:  Yes
+    |   |   |   
+    |   |   +---TargetDuration:  4 Months
+    |   |   |   
+    |   |   +---DesignInfo
+    |   |   |   |   
+    |   |   |   +---DesignObservationalModelList
+    |   |   |   |   |   
+    |   |   |   |   +---DesignObservationalModel 0:  Cohort
+    |   |   |   |   
+    |   |   |   +---DesignTimePerspectiveList
+    |   |   |       |   
+    |   |   |       +---DesignTimePerspective 0:  Prospective
+    |   |   |   
+    |   |   +---EnrollmentInfo
+    |   |       |   
+    |   |       +---EnrollmentCount:  122
+    |   |       |   
+    |   |       +---EnrollmentType:  Actual
+    |   |   
+    |   +---ArmsInterventionsModule
+    |   |   |   
+    |   |   +---InterventionList
+    |   |       |   
+    |   |       +---Intervention 0
+    |   |       |   |   
+    |   |       |   +---InterventionType:  Diagnostic Test
+    |   |       |   |   
+    |   |       |   +---InterventionName:  Six minutes stepper test (6MST)
+    |   |       |   |   
+    |   |       |   +---InterventionDescription:
+    |   |       |         The 6MST is done using a stepper (Stepper essential, Decathlon(TM), France), with a walking height of 20 cm, placed in front of a wall or parallel bars, so patients can hold on if necessary.
+    |   |       |         Patients are instructed to make the maximum number of steps possible in 6 minutes, and are given a time check at one minute intervals.
+    |   |       |   
+    |   |       +---Intervention 1
+    |   |           |   
+    |   |           +---InterventionType:  Diagnostic Test
+    |   |           |   
+    |   |           +---InterventionName:  Sit to stand test (STST)
+    |   |           |   
+    |   |           +---InterventionDescription:  The STST is done using a chair measuring 47 cm in height. The patient are instructed to sit in the chair and then to do the maximum number of lifts possible from the chair, in 1 minute, with arms folded and without leaning against the chair.
+    |   |   
+    |   +---OutcomesModule
+    |   |   |   
+    |   |   +---PrimaryOutcomeList
+    |   |       |   
+    |   |       +---PrimaryOutcome 0
+    |   |           |   
+    |   |           +---PrimaryOutcomeMeasure:  occurrence of a post-operative complication grade ≥ 2 on the Clavien-Dindo scale within three months after surgery
+    |   |           |   
+    |   |           +---PrimaryOutcomeTimeFrame:  90 days
+    |   |   
+    |   +---EligibilityModule
+    |   |   |   
+    |   |   +---EligibilityCriteria:
+    |   |   |     Inclusion Criteria:
+    |   |   |     Age >18
+    |   |   |     Non-small cell lung cancer stage I to II, justifying major resection by VATS or RATS (segmentectomy, lobectomy, pneumonectomy), with or without histological confirmation
+    |   |   |     Exclusion Criteria:
+    |   |   |     Partial or total amputation localized to the lower limb;
+    |   |   |     Weight greater than 100 kg;
+    |   |   |     Orthopedic, vascular or neurological disorders leading to the incapacity of realize the 6MST;
+    |   |   |     Patient under tutorship or curatorship;
+    |   |   |     Pregnant woman.
+    |   |   |     Surgery canceled
+    |   |   |   
+    |   |   +---HealthyVolunteers:  No
+    |   |   |   
+    |   |   +---Gender:  All
+    |   |   |   
+    |   |   +---MinimumAge:  18 Years
+    |   |   |   
+    |   |   +---StdAgeList
+    |   |   |   |   
+    |   |   |   +---StdAge 0:  Adult
+    |   |   |   |   
+    |   |   |   +---StdAge 1:  Older Adult
+    |   |   |   
+    |   |   +---StudyPopulation:  Consecutive patients are included. On the day of the surgical consultation, the patient is informed of the modalities of the study by the thoracic surgeon and collects his non-opposition of participation. He is also evaluated by a physiotherapist, who supervises the realization of 6MST and STST.
+    |   |   |   
+    |   |   +---SamplingMethod:  Non-Probability Sample
+    |   |   
+    |   +---ContactsLocationsModule
+    |   |   |   
+    |   |   +---LocationList
+    |   |       |   
+    |   |       +---Location 0
+    |   |           |   
+    |   |           +---LocationFacility:  Boujibar , F
+    |   |           |   
+    |   |           +---LocationCity:  Rouen
+    |   |           |   
+    |   |           +---LocationCountry:  France
+    |   |   
+    |   +---ReferencesModule
+    |   |   |   
+    |   |   +---ReferenceList
+    |   |       |   
+    |   |       +---Reference 0
+    |   |           |   
+    |   |           +---ReferencePMID:  35396177
+    |   |           |   
+    |   |           +---ReferenceType:  derived
+    |   |           |   
+    |   |           +---ReferenceCitation:  Boujibar F, Gillibert A, Bonnevie T, Rinieri P, Montagne F, Selim J, Cuvelier A, Gravier FE, Baste JM. The 6-minute stepper test and the sit-to-stand test predict complications after major pulmonary resection via minimally invasive surgery: a prospective inception cohort study. J Physiother. 2022 Apr;68(2):130-135. doi: 10.1016/j.jphys.2022.03.001. Epub 2022 Apr 5.
+    |   |   
+    |   +---IPDSharingStatementModule
+    |       |   
+    |       +---IPDSharing:  No
+    |   
+    +---DerivedSection
+        |   
+        +---MiscInfoModule
+        |   |   
+        |   +---VersionHolder:  August 22, 2023
+        |   
+        +---ConditionBrowseModule
+        |   |   
+        |   +---ConditionMeshList
+        |   |   |   
+        |   |   +---ConditionMesh 0
+        |   |   |   |   
+        |   |   |   +---ConditionMeshId:  D000002289
+        |   |   |   |   
+        |   |   |   +---ConditionMeshTerm:  Carcinoma, Non-Small-Cell Lung
+        |   |   |   
+        |   |   +---ConditionMesh 1
+        |   |   |   |   
+        |   |   |   +---ConditionMeshId:  D000008175
+        |   |   |   |   
+        |   |   |   +---ConditionMeshTerm:  Lung Neoplasms
+        |   |   |   
+        |   |   +---ConditionMesh 2
+        |   |       |   
+        |   |       +---ConditionMeshId:  D000009369
+        |   |       |   
+        |   |       +---ConditionMeshTerm:  Neoplasms
+        |   |   
+        |   +---ConditionAncestorList
+        |   |   |   
+        |   |   +---ConditionAncestor 0
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorId:  D000002283
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorTerm:  Carcinoma, Bronchogenic
+        |   |   |   
+        |   |   +---ConditionAncestor 1
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorId:  D000001984
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorTerm:  Bronchial Neoplasms
+        |   |   |   
+        |   |   +---ConditionAncestor 2
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorId:  D000012142
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorTerm:  Respiratory Tract Neoplasms
+        |   |   |   
+        |   |   +---ConditionAncestor 3
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorId:  D000013899
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorTerm:  Thoracic Neoplasms
+        |   |   |   
+        |   |   +---ConditionAncestor 4
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorId:  D000009371
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorTerm:  Neoplasms by Site
+        |   |   |   
+        |   |   +---ConditionAncestor 5
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorId:  D000008171
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorTerm:  Lung Diseases
+        |   |   |   
+        |   |   +---ConditionAncestor 6
+        |   |       |   
+        |   |       +---ConditionAncestorId:  D000012140
+        |   |       |   
+        |   |       +---ConditionAncestorTerm:  Respiratory Tract Diseases
+        |   |   
+        |   +---ConditionBrowseLeafList
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 0
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M13755
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Postoperative Complications
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  low
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 1
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M5224
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Carcinoma
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  low
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 2
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M10862
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Lung Neoplasms
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafAsFound:  Lung Neoplasms
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  high
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 3
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M5236
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Carcinoma, Non-Small-Cell Lung
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafAsFound:  Lung Non-Small Cell Carcinoma
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  high
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 4
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M5230
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Carcinoma, Bronchogenic
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  low
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 5
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M4950
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Bronchial Neoplasms
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  low
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 6
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M14669
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Respiratory Tract Neoplasms
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  low
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 7
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M16348
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Thoracic Neoplasms
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  low
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 8
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M10858
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Lung Diseases
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  low
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 9
+        |   |       |   
+        |   |       +---ConditionBrowseLeafId:  M14667
+        |   |       |   
+        |   |       +---ConditionBrowseLeafName:  Respiratory Tract Diseases
+        |   |       |   
+        |   |       +---ConditionBrowseLeafRelevance:  low
+        |   |   
+        |   +---ConditionBrowseBranchList
+        |       |   
+        |       +---ConditionBrowseBranch 0
+        |       |   |   
+        |       |   +---ConditionBrowseBranchAbbrev:  BC23
+        |       |   |   
+        |       |   +---ConditionBrowseBranchName:  Symptoms and General Pathology
+        |       |   
+        |       +---ConditionBrowseBranch 1
+        |       |   |   
+        |       |   +---ConditionBrowseBranchAbbrev:  All
+        |       |   |   
+        |       |   +---ConditionBrowseBranchName:  All Conditions
+        |       |   
+        |       +---ConditionBrowseBranch 2
+        |       |   |   
+        |       |   +---ConditionBrowseBranchAbbrev:  BC04
+        |       |   |   
+        |       |   +---ConditionBrowseBranchName:  Neoplasms
+        |       |   
+        |       +---ConditionBrowseBranch 3
+        |           |   
+        |           +---ConditionBrowseBranchAbbrev:  BC08
+        |           |   
+        |           +---ConditionBrowseBranchName:  Respiratory Tract (Lung and Bronchial) Diseases
+        |   
+        +---InterventionBrowseModule
+            |   
+            +---InterventionBrowseLeafList
+            |   |   
+            |   +---InterventionBrowseLeaf 0
+            |       |   
+            |       +---InterventionBrowseLeafId:  M11672
+            |       |   
+            |       +---InterventionBrowseLeafName:  Morphine
+            |       |   
+            |       +---InterventionBrowseLeafRelevance:  low
+            |   
+            +---InterventionBrowseBranchList
+                |   
+                +---InterventionBrowseBranch 0
+                |   |   
+                |   +---InterventionBrowseBranchAbbrev:  Analg
+                |   |   
+                |   +---InterventionBrowseBranchName:  Analgesics
+                |   
+                +---InterventionBrowseBranch 1
+                |   |   
+                |   +---InterventionBrowseBranchAbbrev:  CNSDep
+                |   |   
+                |   +---InterventionBrowseBranchName:  Central Nervous System Depressants
+                |   
+                +---InterventionBrowseBranch 2
+                    |   
+                    +---InterventionBrowseBranchAbbrev:  All
+                    |   
+                    +---InterventionBrowseBranchName:  All Drugs and Chemicals
+
+

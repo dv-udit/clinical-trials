@@ -1,0 +1,3174 @@
+
+APIVrs: 1.01.05
+DataVrs: 2023:08:22 00:03:36.231
+Expression: NCT01182285
+NStudiesAvail: 463387
+NStudiesFound: 1
+MinRank: 1
+MaxRank: 1
+NStudiesReturned: 1
+
+
+------------------------------
+Study 1
+
++---Study
+    |   
+    +---ProtocolSection
+    |   |   
+    |   +---IdentificationModule
+    |   |   |   
+    |   |   +---NCTId:  NCT01182285
+    |   |   |   
+    |   |   +---OrgStudyIdInfo
+    |   |   |   |   
+    |   |   |   +---OrgStudyId:  100041
+    |   |   |   
+    |   |   +---SecondaryIdInfoList
+    |   |   |   |   
+    |   |   |   +---SecondaryIdInfo 0
+    |   |   |       |   
+    |   |   |       +---SecondaryId:  10-C-0041
+    |   |   |   
+    |   |   +---Organization
+    |   |   |   |   
+    |   |   |   +---OrgFullName:  National Institutes of Health Clinical Center (CC)
+    |   |   |   |   
+    |   |   |   +---OrgClass:  NIH
+    |   |   |   
+    |   |   +---BriefTitle:  A Phase II Trial of Valproic Acid in Patients With Advanced Thyroid Cancers of Follicular Cell Origin
+    |   |   |   
+    |   |   +---OfficialTitle:  A Phase II Trial of Valproic Acid in Patients With Advanced Thyroid Cancers of Follicular Origin
+    |   |   
+    |   +---StatusModule
+    |   |   |   
+    |   |   +---StatusVerifiedDate:  April 2018
+    |   |   |   
+    |   |   +---OverallStatus:  Completed
+    |   |   |   
+    |   |   +---ExpandedAccessInfo
+    |   |   |   |   
+    |   |   |   +---HasExpandedAccess:  No
+    |   |   |   
+    |   |   +---StartDateStruct
+    |   |   |   |   
+    |   |   |   +---StartDate:  September 24, 2010
+    |   |   |   |   
+    |   |   |   +---StartDateType:  Actual
+    |   |   |   
+    |   |   +---PrimaryCompletionDateStruct
+    |   |   |   |   
+    |   |   |   +---PrimaryCompletionDate:  September 28, 2015
+    |   |   |   |   
+    |   |   |   +---PrimaryCompletionDateType:  Actual
+    |   |   |   
+    |   |   +---CompletionDateStruct
+    |   |   |   |   
+    |   |   |   +---CompletionDate:  April 28, 2016
+    |   |   |   |   
+    |   |   |   +---CompletionDateType:  Actual
+    |   |   |   
+    |   |   +---StudyFirstSubmitDate:  August 13, 2010
+    |   |   |   
+    |   |   +---StudyFirstSubmitQCDate:  August 13, 2010
+    |   |   |   
+    |   |   +---StudyFirstPostDateStruct
+    |   |   |   |   
+    |   |   |   +---StudyFirstPostDate:  August 16, 2010
+    |   |   |   |   
+    |   |   |   +---StudyFirstPostDateType:  Estimate
+    |   |   |   
+    |   |   +---ResultsFirstSubmitDate:  August 22, 2016
+    |   |   |   
+    |   |   +---ResultsFirstSubmitQCDate:  October 20, 2016
+    |   |   |   
+    |   |   +---ResultsFirstPostDateStruct
+    |   |   |   |   
+    |   |   |   +---ResultsFirstPostDate:  December 14, 2016
+    |   |   |   |   
+    |   |   |   +---ResultsFirstPostDateType:  Estimate
+    |   |   |   
+    |   |   +---LastUpdateSubmitDate:  April 16, 2018
+    |   |   |   
+    |   |   +---LastUpdatePostDateStruct
+    |   |       |   
+    |   |       +---LastUpdatePostDate:  May 16, 2018
+    |   |       |   
+    |   |       +---LastUpdatePostDateType:  Actual
+    |   |   
+    |   +---SponsorCollaboratorsModule
+    |   |   |   
+    |   |   +---ResponsibleParty
+    |   |   |   |   
+    |   |   |   +---ResponsiblePartyType:  Principal Investigator
+    |   |   |   |   
+    |   |   |   +---ResponsiblePartyInvestigatorFullName:  Naris Nilubol, M.D.
+    |   |   |   |   
+    |   |   |   +---ResponsiblePartyInvestigatorTitle:  Principal Investigator
+    |   |   |   |   
+    |   |   |   +---ResponsiblePartyInvestigatorAffiliation:  National Cancer Institute (NCI)
+    |   |   |   
+    |   |   +---LeadSponsor
+    |   |       |   
+    |   |       +---LeadSponsorName:  National Cancer Institute (NCI)
+    |   |       |   
+    |   |       +---LeadSponsorClass:  NIH
+    |   |   
+    |   +---OversightModule
+    |   |   |   
+    |   |   +---OversightHasDMC:  No
+    |   |   |   
+    |   |   +---IsFDARegulatedDrug:  Yes
+    |   |   |   
+    |   |   +---IsFDARegulatedDevice:  No
+    |   |   
+    |   +---DescriptionModule
+    |   |   |   
+    |   |   +---BriefSummary:
+    |   |   |     Background:
+    |   |   |     Patients who have advanced thyroid cancer have a low long-term survival rate. These types of thyroid cancer do not respond well to conventional surgery or radiation, or to specific thyroid cancer treatments such as radioactive iodine treatment and thyroid hormone for thyroid stimulating hormone (TSH) suppression.
+    |   |   |     Valproic acid has long been approved as an anticonvulsant to treat seizures in patients with epilepsy. It has also been used to treat bipolar disorder. Recent studies have shown that valproic acid has promising effects in thyroid cancer treatment because it may help destroy cancer cells and help conventional treatments be more effective. However, valproic acid is not approved for thyroid cancer and is therefore an investigational drug.
+    |   |   |     Objectives:
+    |   |   |     To determine whether valproic acid can inhibit tumor growth or induce tumor cell death.
+    |   |   |     To determine whether valproic acid can make tumor cells increase their uptake of radioiodine.
+    |   |   |     Eligibility:
+    |   |   |     - Individuals at least 18 years of age who have advanced-stage thyroid cancer that is either unresponsive to conventional treatments or fails to absorb radioiodine.
+    |   |   |     Design:
+    |   |   |     Eligible participants will continue on the standard thyroid hormone suppression therapy and begin receiving valproic acid for a total of 10 weeks. Participants will keep a study diary to record doses and side effects, and will have regular clinic visits to provide blood samples and receive additional valproic acid.
+    |   |   |     After 10 weeks, participants will have a Thyrogen scan to measure radioiodine uptake after valproic acid therapy. Tumor biopsies and blood samples will be taken at this time.
+    |   |   |     If there is increased radioiodine uptake on the scan, participants will have additional radioiodine therapy.
+    |   |   |     If there is no increased uptake on the scan, participants will continue on valproic acid for 7 more weeks. After 16 total weeks of treatment, additional blood samples and scans will be taken. Participants may continue to take valproic acid if the thyroid cancer appears to be responding to the treatment.
+    |   |   |     Follow-up visits will be scheduled at 3, 6, 9 (for patients continuing on valproic acid only), and 12 months.
+    |   |   |   
+    |   |   +---DetailedDescription:
+    |   |         Background:
+    |   |         Patients who have advanced differentiated thyroid cancers (Stage IV) have a five-year survival of only 25%. Clinically this results in more aggressive growth, metastasis, decreased or loss of iodine uptake in the tumor, and tumors that may be refractory to conventional treatment: surgical resection, radioactive iodine treatment and thyroid hormone for Thyroid Stimulating Hormone (TSH) suppression.
+    |   |         In thyroid cancer, valproic acid, at clinically achievable concentrations, has an antiproliferative and differentiating effect.
+    |   |         We hypothesize that valproic acid may inhibit proliferation and induce differentiation in thyroid cancer cells so that 131-I may detect residual disease and be more effective for radioiodine ablation of thyroid cancer cells of follicular cell origin.
+    |   |         Objectives:
+    |   |         The primary goal of this study is to determine if valproic acid will have an antineoplastic and differentiation effect in patients with advanced and or metastatic thyroid cancer of follicular cell origin.
+    |   |         Eligibility:
+    |   |         Unresectable advanced and/or poorly differentiated thyroid cancers of follicular cell origin (excluding anaplastic and medullary thyroid cancer) that have no uptake (less than 1%) on radioiodine scan or are unresponsive to radioiodine therapy.
+    |   |         Elevated serum thyroglobulin (Tg) level (greater than 100ng/ml on thyroid hormone; greater than 10ng/ml off thyroid hormone).
+    |   |         Design:
+    |   |         This will be an open label phase II study to assess the efficacy of valproic acid therapy as an antiproliferative and differentiation agent in patients with incurable differentiated thyroid cancer (unresponsive and/or radioiodine negative and unresectable).
+    |   |         Oral valproic acid will be administered to reach a therapeutic serum level (50 to 100 microgram/ml).
+    |   |         The number of patients to be enrolled is 25 with an interim analysis of response once 13 patients are evaluable for response. It is anticipated that five patients may be enrolled per year.
+    |   |   
+    |   +---ConditionsModule
+    |   |   |   
+    |   |   +---ConditionList
+    |   |   |   |   
+    |   |   |   +---Condition 0:  Thyroid Neoplasm
+    |   |   |   
+    |   |   +---KeywordList
+    |   |       |   
+    |   |       +---Keyword 0:  Depakote
+    |   |       |   
+    |   |       +---Keyword 1:  Poorly Differentiated Thyroid Cancer
+    |   |       |   
+    |   |       +---Keyword 2:  RAI Uptake
+    |   |       |   
+    |   |       +---Keyword 3:  Thyrogen
+    |   |   
+    |   +---DesignModule
+    |   |   |   
+    |   |   +---StudyType:  Interventional
+    |   |   |   
+    |   |   +---PhaseList
+    |   |   |   |   
+    |   |   |   +---Phase 0:  Phase 2
+    |   |   |   
+    |   |   +---DesignInfo
+    |   |   |   |   
+    |   |   |   +---DesignAllocation:  Non-Randomized
+    |   |   |   |   
+    |   |   |   +---DesignInterventionModel:  Parallel Assignment
+    |   |   |   |   
+    |   |   |   +---DesignPrimaryPurpose:  Treatment
+    |   |   |   |   
+    |   |   |   +---DesignMaskingInfo
+    |   |   |       |   
+    |   |   |       +---DesignMasking:  None (Open Label)
+    |   |   |   
+    |   |   +---EnrollmentInfo
+    |   |       |   
+    |   |       +---EnrollmentCount:  13
+    |   |       |   
+    |   |       +---EnrollmentType:  Actual
+    |   |   
+    |   +---ArmsInterventionsModule
+    |   |   |   
+    |   |   +---ArmGroupList
+    |   |   |   |   
+    |   |   |   +---ArmGroup 0
+    |   |   |   |   |   
+    |   |   |   |   +---ArmGroupLabel:  A - Phase I Radioiodine-Resistant
+    |   |   |   |   |   
+    |   |   |   |   +---ArmGroupType:  Experimental
+    |   |   |   |   |   
+    |   |   |   |   +---ArmGroupDescription:  Drug: Valproic Acid Week 1 - 10 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening
+    |   |   |   |   |   
+    |   |   |   |   +---ArmGroupInterventionList
+    |   |   |   |       |   
+    |   |   |   |       +---ArmGroupInterventionName 0:  Drug: Valproic Acid
+    |   |   |   |   
+    |   |   |   +---ArmGroup 1
+    |   |   |   |   |   
+    |   |   |   |   +---ArmGroupLabel:  B1 - Phase 2 Schedule 1
+    |   |   |   |   |   
+    |   |   |   |   +---ArmGroupType:  Active Comparator
+    |   |   |   |   |   
+    |   |   |   |   +---ArmGroupDescription:  Drug: Valproic Acid Week 11 - 17 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening Drug: Cytomel (25 micrograms) Patients who exhibit an increased radioiodine uptake on Thyrogen scan post valproic acid therapy at week 10. Begin Liothyronine Sodium (Cytomel) for 4 weeks (25 micrograms twice a day)
+    |   |   |   |   |   
+    |   |   |   |   +---ArmGroupInterventionList
+    |   |   |   |       |   
+    |   |   |   |       +---ArmGroupInterventionName 0:  Drug: Valproic Acid
+    |   |   |   |       |   
+    |   |   |   |       +---ArmGroupInterventionName 1:  Drug: Liothyronine Sodium
+    |   |   |   |   
+    |   |   |   +---ArmGroup 2
+    |   |   |       |   
+    |   |   |       +---ArmGroupLabel:  B2 - Phase 2 Schedule 2
+    |   |   |       |   
+    |   |   |       +---ArmGroupType:  Active Comparator
+    |   |   |       |   
+    |   |   |       +---ArmGroupDescription:  Drug: Valproic Acid Week 11 - 52 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening Weeks 17-52: Patients who show a response by the Response Evaluation Criteria in Solid Tumors (RECIST) criteria or have a decreased thyroglobulin level from Day 1 of the treatment (registered as a partial response to the treatment) will continue on valproic acid at their current dose for a total of 52 weeks.
+    |   |   |       |   
+    |   |   |       +---ArmGroupInterventionList
+    |   |   |           |   
+    |   |   |           +---ArmGroupInterventionName 0:  Drug: Valproic Acid
+    |   |   |   
+    |   |   +---InterventionList
+    |   |       |   
+    |   |       +---Intervention 0
+    |   |       |   |   
+    |   |       |   +---InterventionType:  Drug
+    |   |       |   |   
+    |   |       |   +---InterventionName:  Valproic Acid
+    |   |       |   |   
+    |   |       |   +---InterventionDescription:
+    |   |       |   |     Week 1:
+    |   |       |   |     (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening
+    |   |       |   |   
+    |   |       |   +---InterventionArmGroupLabelList
+    |   |       |       |   
+    |   |       |       +---InterventionArmGroupLabel 0:  A - Phase I Radioiodine-Resistant
+    |   |       |       |   
+    |   |       |       +---InterventionArmGroupLabel 1:  B1 - Phase 2 Schedule 1
+    |   |       |       |   
+    |   |       |       +---InterventionArmGroupLabel 2:  B2 - Phase 2 Schedule 2
+    |   |       |   
+    |   |       +---Intervention 1
+    |   |           |   
+    |   |           +---InterventionType:  Drug
+    |   |           |   
+    |   |           +---InterventionName:  Liothyronine Sodium
+    |   |           |   
+    |   |           +---InterventionDescription:  Patients who exhibit an increased radioiodine uptake on Thyrogen scan post valproic acid therapy at week 10. Begin Cytomel for 4 weeks (25 micrograms twice a day)
+    |   |           |   
+    |   |           +---InterventionArmGroupLabelList
+    |   |           |   |   
+    |   |           |   +---InterventionArmGroupLabel 0:  B1 - Phase 2 Schedule 1
+    |   |           |   
+    |   |           +---InterventionOtherNameList
+    |   |               |   
+    |   |               +---InterventionOtherName 0:  Cytomel
+    |   |   
+    |   +---OutcomesModule
+    |   |   |   
+    |   |   +---PrimaryOutcomeList
+    |   |   |   |   
+    |   |   |   +---PrimaryOutcome 0
+    |   |   |   |   |   
+    |   |   |   |   +---PrimaryOutcomeMeasure:  RAI (Radioactive Iodine) Uptake and Tg (Thyroglobulin) Level Compared Pre and Post- Valproic Treatment
+    |   |   |   |   |   
+    |   |   |   |   +---PrimaryOutcomeDescription:  Complete response (CR) is increased Rai uptake on post- valproic acid therapy at week 10, AND a decrease in Tg level to less than 2 ng/ml (or a decrease in Tg-Ab level to less than 2.0 IU/ml) at 10 weeks AND disappearance of all lesions at 16 weeks. Partial response (PR) is increased Rai uptake on post-valproic scan at week 10, OR a decreased Tg level (or a decrease in Tg Ab (Tg antibody) level by more than 20%) at 10 weeks AND 30% decrease in target lesion at 16 weeks. Stable disease (SD) is no change in RAI uptake AND Tg levels (or TG-Ab level) AND no significant change of lesions at 16 weeks. Progressive disease (PD) is tumor mass increases OR Tg levels (or Tg-Ab levels) increases over 10 weeks OR at least 20% increase in target lesion at 16 weeks.
+    |   |   |   |   |   
+    |   |   |   |   +---PrimaryOutcomeTimeFrame:  Entry to study and after 10 weeks of treatment for Phase 1, and 10 weeks of treatment to 16 weeks of treatment for phase 2.
+    |   |   |   |   
+    |   |   |   +---PrimaryOutcome 1
+    |   |   |       |   
+    |   |   |       +---PrimaryOutcomeMeasure:  Number of Participants With Adverse Events
+    |   |   |       |   
+    |   |   |       +---PrimaryOutcomeDescription:  Here is the number of participants with adverse events. For a detailed list of adverse events, see the adverse event module.
+    |   |   |       |   
+    |   |   |       +---PrimaryOutcomeTimeFrame:  Date treatment consent signed to date off study, approximately 41 months and 11 days
+    |   |   |   
+    |   |   +---SecondaryOutcomeList
+    |   |       |   
+    |   |       +---SecondaryOutcome 0
+    |   |       |   |   
+    |   |       |   +---SecondaryOutcomeMeasure:  Best Overall Response
+    |   |       |   |   
+    |   |       |   +---SecondaryOutcomeDescription:  Best overall response was assessed by radioiodine uptake. Complete response (CR) is increased Rai (radioiodine) uptake on post- valproic acid therapy at week 10, AND a decrease in Tg (thyroglobulin ) level to less than 2 ng/ml (or a decrease in Tg-Ab (thyroglobulin antibodies) level to less than 2.0 IU/ml) at 10 weeks AND disappearance of all lesions at 16 weeks. Partial response (PR) is increased Rai uptake on post-valproic scan at week 10, OR a decreased Tg level (or a decrease in Tg Ab (Tg antibody) level by more than 20%) at 10 weeks AND 30% decrease in target lesion at 16 weeks. Stable disease (SD) is no change in RAI uptake AND Tg levels (or TG-Ab level) AND no significant change of lesions at 16 weeks. Progressive disease (PD) is tumor mass increases OR Tg levels (or Tg-Ab levels) increases over 10 weeks OR at least 20% increase in target lesion at 16 weeks.
+    |   |       |   |   
+    |   |       |   +---SecondaryOutcomeTimeFrame:  Week 16
+    |   |       |   
+    |   |       +---SecondaryOutcome 1
+    |   |           |   
+    |   |           +---SecondaryOutcomeMeasure:  NIS (Na/I-symporter) Expression
+    |   |           |   
+    |   |           +---SecondaryOutcomeDescription:  NIS (Na/I-symporter) Expression is assessed by quantitative reverse transcription (RT) polymerase chain reaction (PCR) and immunohistochemistry (IHC). NIS mRNA expression was measured by quantitative RT PCR from biopsy samples.
+    |   |           |   
+    |   |           +---SecondaryOutcomeTimeFrame:  Entry to study and after 10 weeks of treatment
+    |   |   
+    |   +---EligibilityModule
+    |   |   |   
+    |   |   +---EligibilityCriteria:
+    |   |   |     INCLUSION CRITERIA:
+    |   |   |     Advanced/poorly differentiated thyroid cancers of follicular cell origin that have no uptake (less than 1%) on radioiodine scan or are unresponsive to radioiodine therapy. Unresponsiveness to radioiodine therapy is defined as a patient s thyroglobulin not falling to less than 2ng/ml within 6 months after previous radioiodine ablative treatment.
+    |   |   |     Extensive (invasive) loco-regional tumor mass and/or metastatic spread, rendering patient inoperable.
+    |   |   |     Thyroglobulin (Tg) levels greater than or equal to 100 ng/ml in the absence of Tg antibodies. Patients who are Tg-antibody (Tg-Ab) positive may be included despite a lower Tg level if they have detectable disease on cross sectional imaging. (The presence of Tg-Ab may lead to falsely low Tg levels and therefore render the Tg a less sensitive marker of disease. However, Tg-Ab has been shown to also act as a tumor marker, and will be used as an endpoint for the study in patients who are Tg-Ab positive.).
+    |   |   |     Within 18 months of enrollment, patients must have had an radioactive iodine (RAI) scan, showing no or therapeutically insignificant RAI uptake (less than or equal to 1%).
+    |   |   |     Initial therapy must have included total/near-total thyroidectomy and RAI ablation therapy.
+    |   |   |     Patients must have had no chemotherapy, radiotherapy, or biologic therapy for their malignancy in the month prior to treatment and must have recovered from all side effects of therapeutic and diagnostic interventions.
+    |   |   |     Greater than or equal to 18 years of age.
+    |   |   |     Must be able to understand and sign the Informed Consent Document.
+    |   |   |     Clinical performance status of Eastern Oncology Cooperative Group (ECOG) less than or equal to 1.
+    |   |   |     Life expectancy of greater than three months.
+    |   |   |     Women of childbearing potential must have a negative serum beta-human chorionic gonadotropin (HCG) within 72 hours prior to study entry and must be willing to practice effective birth control to prevent pregnancy while receiving treatment and for three months after treatment is discontinued. All males of child fathering potential must also be willing to practice effective birth control.
+    |   |   |     Laboratory results must be within the following parameters before entry:
+    |   |   |     Absolute Neutrophil Count greater than 750 cells/mm(3)
+    |   |   |     Hemoglobin greater than 8.0 gm/dl
+    |   |   |     Platelet count greater than 75000/mm(3)
+    |   |   |     Creatinine less tha 1.5 times upper limit of normal (ULN)
+    |   |   |     Total protein greater than 6.4.
+    |   |   |     Total bilirubin should be less than 1.5 times ULN.
+    |   |   |     Aspartate aminotransferase (AST) serum glutamic oxaloacetic (SGOT), alanine aminotransferase (ALT) serum glutamic pyruvic transaminase (SGPT) less than 1.5 times ULN.
+    |   |   |     Amylase less than 1.5 times ULN
+    |   |   |     Ammonia less than 1.5 times ULN
+    |   |   |     EXCLUSION CRITERIA:
+    |   |   |     Allergy to valproic acid.
+    |   |   |     Current coexisting malignancy other than basal cell carcinoma.
+    |   |   |     Women of child-bearing potential who are pregnant or breastfeeding.
+    |   |   |     Valproic acid is a known teratogen, causing primary neural tube defects, facial abnormalities, and skeletal malformation; therefore pregnant women will be excluded. Additionally, patients that become pregnant while on study protocol will be discontinued immediately.
+    |   |   |     Active systemic infections, coagulation disorders or other major medical illnesses.
+    |   |   |     Patients taking tolbutamide, warfarin, zidovudine, benzodiazepines, clonazepam, diazepam.
+    |   |   |     Seizure disorder.
+    |   |   |   
+    |   |   +---HealthyVolunteers:  No
+    |   |   |   
+    |   |   +---Gender:  All
+    |   |   |   
+    |   |   +---MinimumAge:  18 Years
+    |   |   |   
+    |   |   +---MaximumAge:  100 Years
+    |   |   |   
+    |   |   +---StdAgeList
+    |   |       |   
+    |   |       +---StdAge 0:  Adult
+    |   |       |   
+    |   |       +---StdAge 1:  Older Adult
+    |   |   
+    |   +---ContactsLocationsModule
+    |   |   |   
+    |   |   +---OverallOfficialList
+    |   |   |   |   
+    |   |   |   +---OverallOfficial 0
+    |   |   |       |   
+    |   |   |       +---OverallOfficialName:  Naris Nilubol, M.D.
+    |   |   |       |   
+    |   |   |       +---OverallOfficialAffiliation:  National Cancer Institute (NCI)
+    |   |   |       |   
+    |   |   |       +---OverallOfficialRole:  Principal Investigator
+    |   |   |   
+    |   |   +---LocationList
+    |   |       |   
+    |   |       +---Location 0
+    |   |           |   
+    |   |           +---LocationFacility:  National Institutes of Health Clinical Center, 9000 Rockville Pike
+    |   |           |   
+    |   |           +---LocationCity:  Bethesda
+    |   |           |   
+    |   |           +---LocationState:  Maryland
+    |   |           |   
+    |   |           +---LocationZip:  20892
+    |   |           |   
+    |   |           +---LocationCountry:  United States
+    |   |   
+    |   +---ReferencesModule
+    |   |   |   
+    |   |   +---ReferenceList
+    |   |       |   
+    |   |       +---Reference 0
+    |   |       |   |   
+    |   |       |   +---ReferencePMID:  16684987
+    |   |       |   |   
+    |   |       |   +---ReferenceType:  background
+    |   |       |   |   
+    |   |       |   +---ReferenceCitation:  Davies L, Welch HG. Increasing incidence of thyroid cancer in the United States, 1973-2002. JAMA. 2006 May 10;295(18):2164-7. doi: 10.1001/jama.295.18.2164.
+    |   |       |   
+    |   |       +---Reference 1
+    |   |       |   |   
+    |   |       |   +---ReferencePMID:  9874472
+    |   |       |   |   
+    |   |       |   +---ReferenceType:  background
+    |   |       |   |   
+    |   |       |   +---ReferenceCitation:  Hundahl SA, Fleming ID, Fremgen AM, Menck HR. A National Cancer Data Base report on 53,856 cases of thyroid carcinoma treated in the U.S., 1985-1995 [see commetns]. Cancer. 1998 Dec 15;83(12):2638-48. doi: 10.1002/(sici)1097-0142(19981215)83:123.0.co;2-1.
+    |   |       |   
+    |   |       +---Reference 2
+    |   |       |   |   
+    |   |       |   +---ReferencePMID:  8402050
+    |   |       |   |   
+    |   |       |   +---ReferenceType:  background
+    |   |       |   |   
+    |   |       |   +---ReferenceCitation:  Goretzki PE, Simon D, Frilling A, Witte J, Reiners C, Grussendorf M, Horster FA, Roher HD. Surgical reintervention for differentiated thyroid cancer. Br J Surg. 1993 Aug;80(8):1009-12. doi: 10.1002/bjs.1800800826.
+    |   |       |   
+    |   |       +---Reference 3
+    |   |           |   
+    |   |           +---ReferencePMID:  27392538
+    |   |           |   
+    |   |           +---ReferenceType:  result
+    |   |           |   
+    |   |           +---ReferenceCitation:  Nilubol N, Merkel R, Yang L, Patel D, Reynolds JC, Sadowski SM, Neychev V, Kebebew E. A phase II trial of valproic acid in patients with advanced, radioiodine-resistant thyroid cancers of follicular cell origin. Clin Endocrinol (Oxf). 2017 Jan;86(1):128-133. doi: 10.1111/cen.13154. Epub 2016 Sep 8.
+    |   |   
+    |   +---IPDSharingStatementModule
+    |       |   
+    |       +---IPDSharing:  No
+    |   
+    +---ResultsSection
+    |   |   
+    |   +---ParticipantFlowModule
+    |   |   |   
+    |   |   +---FlowPreAssignmentDetails:  Five and eight participants were enrolled from University of California San Francisco (UCSF) and the National Institutes of Health (NIH), respectively.
+    |   |   |   
+    |   |   +---FlowGroupList
+    |   |   |   |   
+    |   |   |   +---FlowGroup 0
+    |   |   |   |   |   
+    |   |   |   |   +---FlowGroupId:  FG000
+    |   |   |   |   |   
+    |   |   |   |   +---FlowGroupTitle:  A - Phase 1 Radioiodine Resistant Thyroid Cancer
+    |   |   |   |   |   
+    |   |   |   |   +---FlowGroupDescription:  Drug: Valproic Acid Week 1 - 10 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening
+    |   |   |   |   
+    |   |   |   +---FlowGroup 1
+    |   |   |   |   |   
+    |   |   |   |   +---FlowGroupId:  FG001
+    |   |   |   |   |   
+    |   |   |   |   +---FlowGroupTitle:  B1 - Phase 2 Schedule 1 (Increased Radioiodine Uptake)
+    |   |   |   |   |   
+    |   |   |   |   +---FlowGroupDescription:  Drug: Valproic Acid Week 11 - 17 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening Drug: Cytomel (25 micrograms) Patients who exhibit an increased radioiodine uptake on Thyrogen scan post valproic acid therapy at week 10. Begin Liothyronine Sodium (Cytomel) for 4 weeks (25 micrograms twice a day)
+    |   |   |   |   
+    |   |   |   +---FlowGroup 2
+    |   |   |       |   
+    |   |   |       +---FlowGroupId:  FG002
+    |   |   |       |   
+    |   |   |       +---FlowGroupTitle:  B2 - Phase 2 Schedule 2 (No Increased Radioiodine Uptake)
+    |   |   |       |   
+    |   |   |       +---FlowGroupDescription:  Drug: Valproic Acid Week 11 - 52 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening Weeks 17-52: Patients who show a response by RECIST criteria or have a decreased thyroglobulin level from Day 1 of the treatment (registered as a partial response to the treatment) will continue on valproic acid at their current dose for a total of 52 weeks.
+    |   |   |   
+    |   |   +---FlowPeriodList
+    |   |       |   
+    |   |       +---FlowPeriod 0
+    |   |       |   |   
+    |   |       |   +---FlowPeriodTitle:  First Intervention Week 1-10
+    |   |       |   |   
+    |   |       |   +---FlowMilestoneList
+    |   |       |   |   |   
+    |   |       |   |   +---FlowMilestone 0
+    |   |       |   |   |   |   
+    |   |       |   |   |   +---FlowMilestoneType:  STARTED
+    |   |       |   |   |   |   
+    |   |       |   |   |   +---FlowAchievementList
+    |   |       |   |   |       |   
+    |   |       |   |   |       +---FlowAchievement 0
+    |   |       |   |   |       |   |   
+    |   |       |   |   |       |   +---FlowAchievementGroupId:  FG000
+    |   |       |   |   |       |   |   
+    |   |       |   |   |       |   +---FlowAchievementNumSubjects:  13
+    |   |       |   |   |       |   
+    |   |       |   |   |       +---FlowAchievement 1
+    |   |       |   |   |       |   |   
+    |   |       |   |   |       |   +---FlowAchievementGroupId:  FG001
+    |   |       |   |   |       |   |   
+    |   |       |   |   |       |   +---FlowAchievementNumSubjects:  0
+    |   |       |   |   |       |   
+    |   |       |   |   |       +---FlowAchievement 2
+    |   |       |   |   |           |   
+    |   |       |   |   |           +---FlowAchievementGroupId:  FG002
+    |   |       |   |   |           |   
+    |   |       |   |   |           +---FlowAchievementNumSubjects:  0
+    |   |       |   |   |   
+    |   |       |   |   +---FlowMilestone 1
+    |   |       |   |   |   |   
+    |   |       |   |   |   +---FlowMilestoneType:  COMPLETED
+    |   |       |   |   |   |   
+    |   |       |   |   |   +---FlowAchievementList
+    |   |       |   |   |       |   
+    |   |       |   |   |       +---FlowAchievement 0
+    |   |       |   |   |       |   |   
+    |   |       |   |   |       |   +---FlowAchievementGroupId:  FG000
+    |   |       |   |   |       |   |   
+    |   |       |   |   |       |   +---FlowAchievementNumSubjects:  10
+    |   |       |   |   |       |   
+    |   |       |   |   |       +---FlowAchievement 1
+    |   |       |   |   |       |   |   
+    |   |       |   |   |       |   +---FlowAchievementGroupId:  FG001
+    |   |       |   |   |       |   |   
+    |   |       |   |   |       |   +---FlowAchievementNumSubjects:  0
+    |   |       |   |   |       |   
+    |   |       |   |   |       +---FlowAchievement 2
+    |   |       |   |   |           |   
+    |   |       |   |   |           +---FlowAchievementGroupId:  FG002
+    |   |       |   |   |           |   
+    |   |       |   |   |           +---FlowAchievementNumSubjects:  0
+    |   |       |   |   |   
+    |   |       |   |   +---FlowMilestone 2
+    |   |       |   |       |   
+    |   |       |   |       +---FlowMilestoneType:  NOT COMPLETED
+    |   |       |   |       |   
+    |   |       |   |       +---FlowAchievementList
+    |   |       |   |           |   
+    |   |       |   |           +---FlowAchievement 0
+    |   |       |   |           |   |   
+    |   |       |   |           |   +---FlowAchievementGroupId:  FG000
+    |   |       |   |           |   |   
+    |   |       |   |           |   +---FlowAchievementNumSubjects:  3
+    |   |       |   |           |   
+    |   |       |   |           +---FlowAchievement 1
+    |   |       |   |           |   |   
+    |   |       |   |           |   +---FlowAchievementGroupId:  FG001
+    |   |       |   |           |   |   
+    |   |       |   |           |   +---FlowAchievementNumSubjects:  0
+    |   |       |   |           |   
+    |   |       |   |           +---FlowAchievement 2
+    |   |       |   |               |   
+    |   |       |   |               +---FlowAchievementGroupId:  FG002
+    |   |       |   |               |   
+    |   |       |   |               +---FlowAchievementNumSubjects:  0
+    |   |       |   |   
+    |   |       |   +---FlowDropWithdrawList
+    |   |       |       |   
+    |   |       |       +---FlowDropWithdraw 0
+    |   |       |       |   |   
+    |   |       |       |   +---FlowDropWithdrawType:  Disease progression
+    |   |       |       |   |   
+    |   |       |       |   +---FlowReasonList
+    |   |       |       |       |   
+    |   |       |       |       +---FlowReason 0
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowReasonGroupId:  FG000
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowReasonNumSubjects:  1
+    |   |       |       |       |   
+    |   |       |       |       +---FlowReason 1
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowReasonGroupId:  FG001
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowReasonNumSubjects:  0
+    |   |       |       |       |   
+    |   |       |       |       +---FlowReason 2
+    |   |       |       |           |   
+    |   |       |       |           +---FlowReasonGroupId:  FG002
+    |   |       |       |           |   
+    |   |       |       |           +---FlowReasonNumSubjects:  0
+    |   |       |       |   
+    |   |       |       +---FlowDropWithdraw 1
+    |   |       |       |   |   
+    |   |       |       |   +---FlowDropWithdrawType:  Adverse Event
+    |   |       |       |   |   
+    |   |       |       |   +---FlowReasonList
+    |   |       |       |       |   
+    |   |       |       |       +---FlowReason 0
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowReasonGroupId:  FG000
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowReasonNumSubjects:  1
+    |   |       |       |       |   
+    |   |       |       |       +---FlowReason 1
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowReasonGroupId:  FG001
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowReasonNumSubjects:  0
+    |   |       |       |       |   
+    |   |       |       |       +---FlowReason 2
+    |   |       |       |           |   
+    |   |       |       |           +---FlowReasonGroupId:  FG002
+    |   |       |       |           |   
+    |   |       |       |           +---FlowReasonNumSubjects:  0
+    |   |       |       |   
+    |   |       |       +---FlowDropWithdraw 2
+    |   |       |           |   
+    |   |       |           +---FlowDropWithdrawType:  Non-compliance
+    |   |       |           |   
+    |   |       |           +---FlowReasonList
+    |   |       |               |   
+    |   |       |               +---FlowReason 0
+    |   |       |               |   |   
+    |   |       |               |   +---FlowReasonGroupId:  FG000
+    |   |       |               |   |   
+    |   |       |               |   +---FlowReasonNumSubjects:  1
+    |   |       |               |   
+    |   |       |               +---FlowReason 1
+    |   |       |               |   |   
+    |   |       |               |   +---FlowReasonGroupId:  FG001
+    |   |       |               |   |   
+    |   |       |               |   +---FlowReasonNumSubjects:  0
+    |   |       |               |   
+    |   |       |               +---FlowReason 2
+    |   |       |                   |   
+    |   |       |                   +---FlowReasonGroupId:  FG002
+    |   |       |                   |   
+    |   |       |                   +---FlowReasonNumSubjects:  0
+    |   |       |   
+    |   |       +---FlowPeriod 1
+    |   |       |   |   
+    |   |       |   +---FlowPeriodTitle:  Second Intervention Week 11-17
+    |   |       |   |   
+    |   |       |   +---FlowMilestoneList
+    |   |       |       |   
+    |   |       |       +---FlowMilestone 0
+    |   |       |       |   |   
+    |   |       |       |   +---FlowMilestoneType:  STARTED
+    |   |       |       |   |   
+    |   |       |       |   +---FlowAchievementList
+    |   |       |       |       |   
+    |   |       |       |       +---FlowAchievement 0
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowAchievementGroupId:  FG000
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowAchievementNumSubjects:  0
+    |   |       |       |       |   
+    |   |       |       |       +---FlowAchievement 1
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowAchievementGroupId:  FG001
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowAchievementNumSubjects:  0
+    |   |       |       |       |   
+    |   |       |       |       +---FlowAchievement 2
+    |   |       |       |           |   
+    |   |       |       |           +---FlowAchievementGroupId:  FG002
+    |   |       |       |           |   
+    |   |       |       |           +---FlowAchievementNumSubjects:  0
+    |   |       |       |   
+    |   |       |       +---FlowMilestone 1
+    |   |       |       |   |   
+    |   |       |       |   +---FlowMilestoneType:  COMPLETED
+    |   |       |       |   |   
+    |   |       |       |   +---FlowAchievementList
+    |   |       |       |       |   
+    |   |       |       |       +---FlowAchievement 0
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowAchievementGroupId:  FG000
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowAchievementNumSubjects:  0
+    |   |       |       |       |   
+    |   |       |       |       +---FlowAchievement 1
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowAchievementGroupId:  FG001
+    |   |       |       |       |   |   
+    |   |       |       |       |   +---FlowAchievementNumSubjects:  0
+    |   |       |       |       |   
+    |   |       |       |       +---FlowAchievement 2
+    |   |       |       |           |   
+    |   |       |       |           +---FlowAchievementGroupId:  FG002
+    |   |       |       |           |   
+    |   |       |       |           +---FlowAchievementNumSubjects:  0
+    |   |       |       |   
+    |   |       |       +---FlowMilestone 2
+    |   |       |           |   
+    |   |       |           +---FlowMilestoneType:  NOT COMPLETED
+    |   |       |           |   
+    |   |       |           +---FlowAchievementList
+    |   |       |               |   
+    |   |       |               +---FlowAchievement 0
+    |   |       |               |   |   
+    |   |       |               |   +---FlowAchievementGroupId:  FG000
+    |   |       |               |   |   
+    |   |       |               |   +---FlowAchievementNumSubjects:  0
+    |   |       |               |   
+    |   |       |               +---FlowAchievement 1
+    |   |       |               |   |   
+    |   |       |               |   +---FlowAchievementGroupId:  FG001
+    |   |       |               |   |   
+    |   |       |               |   +---FlowAchievementNumSubjects:  0
+    |   |       |               |   
+    |   |       |               +---FlowAchievement 2
+    |   |       |                   |   
+    |   |       |                   +---FlowAchievementGroupId:  FG002
+    |   |       |                   |   
+    |   |       |                   +---FlowAchievementNumSubjects:  0
+    |   |       |   
+    |   |       +---FlowPeriod 2
+    |   |           |   
+    |   |           +---FlowPeriodTitle:  Third Intervention Week 11-52
+    |   |           |   
+    |   |           +---FlowMilestoneList
+    |   |           |   |   
+    |   |           |   +---FlowMilestone 0
+    |   |           |   |   |   
+    |   |           |   |   +---FlowMilestoneType:  STARTED
+    |   |           |   |   |   
+    |   |           |   |   +---FlowAchievementList
+    |   |           |   |       |   
+    |   |           |   |       +---FlowAchievement 0
+    |   |           |   |       |   |   
+    |   |           |   |       |   +---FlowAchievementGroupId:  FG000
+    |   |           |   |       |   |   
+    |   |           |   |       |   +---FlowAchievementNumSubjects:  0
+    |   |           |   |       |   
+    |   |           |   |       +---FlowAchievement 1
+    |   |           |   |       |   |   
+    |   |           |   |       |   +---FlowAchievementGroupId:  FG001
+    |   |           |   |       |   |   
+    |   |           |   |       |   +---FlowAchievementNumSubjects:  0
+    |   |           |   |       |   
+    |   |           |   |       +---FlowAchievement 2
+    |   |           |   |           |   
+    |   |           |   |           +---FlowAchievementGroupId:  FG002
+    |   |           |   |           |   
+    |   |           |   |           +---FlowAchievementComment:  2 subj. taken off study after completing ph 1: 1 due to a negative uptake scan & one off due to PD.
+    |   |           |   |           |   
+    |   |           |   |           +---FlowAchievementNumSubjects:  8
+    |   |           |   |   
+    |   |           |   +---FlowMilestone 1
+    |   |           |   |   |   
+    |   |           |   |   +---FlowMilestoneType:  COMPLETED
+    |   |           |   |   |   
+    |   |           |   |   +---FlowAchievementList
+    |   |           |   |       |   
+    |   |           |   |       +---FlowAchievement 0
+    |   |           |   |       |   |   
+    |   |           |   |       |   +---FlowAchievementGroupId:  FG000
+    |   |           |   |       |   |   
+    |   |           |   |       |   +---FlowAchievementNumSubjects:  0
+    |   |           |   |       |   
+    |   |           |   |       +---FlowAchievement 1
+    |   |           |   |       |   |   
+    |   |           |   |       |   +---FlowAchievementGroupId:  FG001
+    |   |           |   |       |   |   
+    |   |           |   |       |   +---FlowAchievementNumSubjects:  0
+    |   |           |   |       |   
+    |   |           |   |       +---FlowAchievement 2
+    |   |           |   |           |   
+    |   |           |   |           +---FlowAchievementGroupId:  FG002
+    |   |           |   |           |   
+    |   |           |   |           +---FlowAchievementNumSubjects:  0
+    |   |           |   |   
+    |   |           |   +---FlowMilestone 2
+    |   |           |       |   
+    |   |           |       +---FlowMilestoneType:  NOT COMPLETED
+    |   |           |       |   
+    |   |           |       +---FlowAchievementList
+    |   |           |           |   
+    |   |           |           +---FlowAchievement 0
+    |   |           |           |   |   
+    |   |           |           |   +---FlowAchievementGroupId:  FG000
+    |   |           |           |   |   
+    |   |           |           |   +---FlowAchievementNumSubjects:  0
+    |   |           |           |   
+    |   |           |           +---FlowAchievement 1
+    |   |           |           |   |   
+    |   |           |           |   +---FlowAchievementGroupId:  FG001
+    |   |           |           |   |   
+    |   |           |           |   +---FlowAchievementNumSubjects:  0
+    |   |           |           |   
+    |   |           |           +---FlowAchievement 2
+    |   |           |               |   
+    |   |           |               +---FlowAchievementGroupId:  FG002
+    |   |           |               |   
+    |   |           |               +---FlowAchievementNumSubjects:  8
+    |   |           |   
+    |   |           +---FlowDropWithdrawList
+    |   |               |   
+    |   |               +---FlowDropWithdraw 0
+    |   |               |   |   
+    |   |               |   +---FlowDropWithdrawType:  Disease Progression
+    |   |               |   |   
+    |   |               |   +---FlowReasonList
+    |   |               |       |   
+    |   |               |       +---FlowReason 0
+    |   |               |       |   |   
+    |   |               |       |   +---FlowReasonGroupId:  FG000
+    |   |               |       |   |   
+    |   |               |       |   +---FlowReasonNumSubjects:  0
+    |   |               |       |   
+    |   |               |       +---FlowReason 1
+    |   |               |       |   |   
+    |   |               |       |   +---FlowReasonGroupId:  FG001
+    |   |               |       |   |   
+    |   |               |       |   +---FlowReasonNumSubjects:  0
+    |   |               |       |   
+    |   |               |       +---FlowReason 2
+    |   |               |           |   
+    |   |               |           +---FlowReasonGroupId:  FG002
+    |   |               |           |   
+    |   |               |           +---FlowReasonNumSubjects:  6
+    |   |               |   
+    |   |               +---FlowDropWithdraw 1
+    |   |                   |   
+    |   |                   +---FlowDropWithdrawType:  Other
+    |   |                   |   
+    |   |                   +---FlowReasonList
+    |   |                       |   
+    |   |                       +---FlowReason 0
+    |   |                       |   |   
+    |   |                       |   +---FlowReasonGroupId:  FG000
+    |   |                       |   |   
+    |   |                       |   +---FlowReasonNumSubjects:  0
+    |   |                       |   
+    |   |                       +---FlowReason 1
+    |   |                       |   |   
+    |   |                       |   +---FlowReasonGroupId:  FG001
+    |   |                       |   |   
+    |   |                       |   +---FlowReasonNumSubjects:  0
+    |   |                       |   
+    |   |                       +---FlowReason 2
+    |   |                           |   
+    |   |                           +---FlowReasonGroupId:  FG002
+    |   |                           |   
+    |   |                           +---FlowReasonNumSubjects:  2
+    |   |   
+    |   +---BaselineCharacteristicsModule
+    |   |   |   
+    |   |   +---BaselinePopulationDescription:  Five and eight participants were enrolled from University of California San Francisco (UCSF), and the National Institutes of Health, respectively.
+    |   |   |   
+    |   |   +---BaselineGroupList
+    |   |   |   |   
+    |   |   |   +---BaselineGroup 0
+    |   |   |       |   
+    |   |   |       +---BaselineGroupId:  BG000
+    |   |   |       |   
+    |   |   |       +---BaselineGroupTitle:  All Participants (Phase 1 and Phase 2 Schedule 2)
+    |   |   |       |   
+    |   |   |       +---BaselineGroupDescription:
+    |   |   |             A- Phase 1 Radioiodine-Resistant Drug: Valproic Acid Week 1 - 10 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening
+    |   |   |             B2 - Phase 2 Schedule 2 Drug: Valproic Acid Week 11 - 52 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening Weeks 17-52: Patients who show a response by RECIST criteria or have a decreased thyroglobulin level from Day 1 of the treatment (registered as a partial response to the treatment) will continue on valproic acid at their current dose for a total of 52 weeks.
+    |   |   |   
+    |   |   +---BaselineDenomList
+    |   |   |   |   
+    |   |   |   +---BaselineDenom 0
+    |   |   |       |   
+    |   |   |       +---BaselineDenomUnits:  Participants
+    |   |   |       |   
+    |   |   |       +---BaselineDenomCountList
+    |   |   |           |   
+    |   |   |           +---BaselineDenomCount 0
+    |   |   |               |   
+    |   |   |               +---BaselineDenomCountGroupId:  BG000
+    |   |   |               |   
+    |   |   |               +---BaselineDenomCountValue:  13
+    |   |   |   
+    |   |   +---BaselineMeasureList
+    |   |       |   
+    |   |       +---BaselineMeasure 0
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureTitle:  Age, Categorical
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureParamType:  Count of Participants
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureUnitOfMeasure:  Participants
+    |   |       |   |   
+    |   |       |   +---BaselineClassList
+    |   |       |       |   
+    |   |       |       +---BaselineClass 0
+    |   |       |           |   
+    |   |       |           +---BaselineCategoryList
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 0
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  <=18 years
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  0
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 1
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  Between 18 and 65 years
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  9
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 2
+    |   |       |                   |   
+    |   |       |                   +---BaselineCategoryTitle:  >=65 years
+    |   |       |                   |   
+    |   |       |                   +---BaselineMeasurementList
+    |   |       |                       |   
+    |   |       |                       +---BaselineMeasurement 0
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementGroupId:  BG000
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementValue:  4
+    |   |       |   
+    |   |       +---BaselineMeasure 1
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureTitle:  Age, Continuous
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureParamType:  Mean
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureDispersionType:  Standard Deviation
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureUnitOfMeasure:  years
+    |   |       |   |   
+    |   |       |   +---BaselineClassList
+    |   |       |       |   
+    |   |       |       +---BaselineClass 0
+    |   |       |           |   
+    |   |       |           +---BaselineCategoryList
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 0
+    |   |       |                   |   
+    |   |       |                   +---BaselineMeasurementList
+    |   |       |                       |   
+    |   |       |                       +---BaselineMeasurement 0
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementGroupId:  BG000
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementValue:  61.08
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementSpread:  7.63
+    |   |       |   
+    |   |       +---BaselineMeasure 2
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureTitle:  Sex: Female, Male
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureParamType:  Count of Participants
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureUnitOfMeasure:  Participants
+    |   |       |   |   
+    |   |       |   +---BaselineClassList
+    |   |       |       |   
+    |   |       |       +---BaselineClass 0
+    |   |       |           |   
+    |   |       |           +---BaselineCategoryList
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 0
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  Female
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  4
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 1
+    |   |       |                   |   
+    |   |       |                   +---BaselineCategoryTitle:  Male
+    |   |       |                   |   
+    |   |       |                   +---BaselineMeasurementList
+    |   |       |                       |   
+    |   |       |                       +---BaselineMeasurement 0
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementGroupId:  BG000
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementValue:  9
+    |   |       |   
+    |   |       +---BaselineMeasure 3
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureTitle:  Ethnicity (NIH/OMB)
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureParamType:  Count of Participants
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureUnitOfMeasure:  Participants
+    |   |       |   |   
+    |   |       |   +---BaselineClassList
+    |   |       |       |   
+    |   |       |       +---BaselineClass 0
+    |   |       |           |   
+    |   |       |           +---BaselineCategoryList
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 0
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  Hispanic or Latino
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  0
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 1
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  Not Hispanic or Latino
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  11
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 2
+    |   |       |                   |   
+    |   |       |                   +---BaselineCategoryTitle:  Unknown or Not Reported
+    |   |       |                   |   
+    |   |       |                   +---BaselineMeasurementList
+    |   |       |                       |   
+    |   |       |                       +---BaselineMeasurement 0
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementGroupId:  BG000
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementValue:  2
+    |   |       |   
+    |   |       +---BaselineMeasure 4
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureTitle:  Race (NIH/OMB)
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureParamType:  Count of Participants
+    |   |       |   |   
+    |   |       |   +---BaselineMeasureUnitOfMeasure:  Participants
+    |   |       |   |   
+    |   |       |   +---BaselineClassList
+    |   |       |       |   
+    |   |       |       +---BaselineClass 0
+    |   |       |           |   
+    |   |       |           +---BaselineCategoryList
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 0
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  American Indian or Alaska Native
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  0
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 1
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  Asian
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  0
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 2
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  Native Hawaiian or Other Pacific Islander
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  0
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 3
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  Black or African American
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  2
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 4
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  White
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  9
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 5
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineCategoryTitle:  More than one race
+    |   |       |               |   |   
+    |   |       |               |   +---BaselineMeasurementList
+    |   |       |               |       |   
+    |   |       |               |       +---BaselineMeasurement 0
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementGroupId:  BG000
+    |   |       |               |           |   
+    |   |       |               |           +---BaselineMeasurementValue:  0
+    |   |       |               |   
+    |   |       |               +---BaselineCategory 6
+    |   |       |                   |   
+    |   |       |                   +---BaselineCategoryTitle:  Unknown or Not Reported
+    |   |       |                   |   
+    |   |       |                   +---BaselineMeasurementList
+    |   |       |                       |   
+    |   |       |                       +---BaselineMeasurement 0
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementGroupId:  BG000
+    |   |       |                           |   
+    |   |       |                           +---BaselineMeasurementValue:  2
+    |   |       |   
+    |   |       +---BaselineMeasure 5
+    |   |           |   
+    |   |           +---BaselineMeasureTitle:  Region of Enrollment
+    |   |           |   
+    |   |           +---BaselineMeasureParamType:  Count of Participants
+    |   |           |   
+    |   |           +---BaselineMeasureUnitOfMeasure:  Participants
+    |   |           |   
+    |   |           +---BaselineClassList
+    |   |               |   
+    |   |               +---BaselineClass 0
+    |   |                   |   
+    |   |                   +---BaselineClassTitle:  United States
+    |   |                   |   
+    |   |                   +---BaselineCategoryList
+    |   |                       |   
+    |   |                       +---BaselineCategory 0
+    |   |                           |   
+    |   |                           +---BaselineMeasurementList
+    |   |                               |   
+    |   |                               +---BaselineMeasurement 0
+    |   |                                   |   
+    |   |                                   +---BaselineMeasurementGroupId:  BG000
+    |   |                                   |   
+    |   |                                   +---BaselineMeasurementValue:  13
+    |   |   
+    |   +---OutcomeMeasuresModule
+    |   |   |   
+    |   |   +---OutcomeMeasureList
+    |   |       |   
+    |   |       +---OutcomeMeasure 0
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureType:  Primary
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureTitle:  RAI (Radioactive Iodine) Uptake and Tg (Thyroglobulin) Level Compared Pre and Post- Valproic Treatment
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureDescription:  Complete response (CR) is increased Rai uptake on post- valproic acid therapy at week 10, AND a decrease in Tg level to less than 2 ng/ml (or a decrease in Tg-Ab level to less than 2.0 IU/ml) at 10 weeks AND disappearance of all lesions at 16 weeks. Partial response (PR) is increased Rai uptake on post-valproic scan at week 10, OR a decreased Tg level (or a decrease in Tg Ab (Tg antibody) level by more than 20%) at 10 weeks AND 30% decrease in target lesion at 16 weeks. Stable disease (SD) is no change in RAI uptake AND Tg levels (or TG-Ab level) AND no significant change of lesions at 16 weeks. Progressive disease (PD) is tumor mass increases OR Tg levels (or Tg-Ab levels) increases over 10 weeks OR at least 20% increase in target lesion at 16 weeks.
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasurePopulationDescription:  13 participants were enrolled in phase 1 and 8/13 (5 from University of California San Francisco (UCSF) moved on from phase 1 to the phase 2 schedule 2 portion. However, Tg data from UCSF is unavailable for 5 of the participant, thus only 3 were analyzed in the phase 2 portion.
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureReportingStatus:  Posted
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureParamType:  Count of Participants
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureUnitOfMeasure:  Participants
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureTimeFrame:  Entry to study and after 10 weeks of treatment for Phase 1, and 10 weeks of treatment to 16 weeks of treatment for phase 2.
+    |   |       |   |   
+    |   |       |   +---OutcomeGroupList
+    |   |       |   |   |   
+    |   |       |   |   +---OutcomeGroup 0
+    |   |       |   |   |   |   
+    |   |       |   |   |   +---OutcomeGroupId:  OG000
+    |   |       |   |   |   |   
+    |   |       |   |   |   +---OutcomeGroupTitle:  A - Phase 1 Radioiodine Resistant Thyroid Cancer
+    |   |       |   |   |   |   
+    |   |       |   |   |   +---OutcomeGroupDescription:  Drug: Valproic Acid Week 1 - 10 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening
+    |   |       |   |   |   
+    |   |       |   |   +---OutcomeGroup 1
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeGroupId:  OG001
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeGroupTitle:  B2 - Phase 2 Schedule 2 (No Increased Radioiodine Uptake)
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeGroupDescription:  Drug: Valproic Acid Week 11 - 52 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening Weeks 17-52: Patients who show a response by RECIST criteria or have a decreased thyroglobulin level from Day 1 of the treatment (registered as a partial response to the treatment) will continue on valproic acid at their current dose for a total of 52 weeks.
+    |   |       |   |   
+    |   |       |   +---OutcomeDenomList
+    |   |       |   |   |   
+    |   |       |   |   +---OutcomeDenom 0
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeDenomUnits:  Participants
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeDenomCountList
+    |   |       |   |           |   
+    |   |       |   |           +---OutcomeDenomCount 0
+    |   |       |   |           |   |   
+    |   |       |   |           |   +---OutcomeDenomCountGroupId:  OG000
+    |   |       |   |           |   |   
+    |   |       |   |           |   +---OutcomeDenomCountValue:  13
+    |   |       |   |           |   
+    |   |       |   |           +---OutcomeDenomCount 1
+    |   |       |   |               |   
+    |   |       |   |               +---OutcomeDenomCountGroupId:  OG001
+    |   |       |   |               |   
+    |   |       |   |               +---OutcomeDenomCountValue:  3
+    |   |       |   |   
+    |   |       |   +---OutcomeClassList
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 0
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg start - >900 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  6
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  1
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 1
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg start - 707 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 2
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg start - 661 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 3
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg start - 362 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  0
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  1
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 4
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg start - 289 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 5
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg start - 183 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  0
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  1
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 6
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg start - 154 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 7
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg start - 101 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 8
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg start - 99 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 9
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg start - 15.7 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 10
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  antiTg start - 142 IU/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 11
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  antiTg start - 220 IU/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  0
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  1
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 12
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  antiTg start - <20 IU/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  7
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  2
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 13
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - >900 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  4
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  1
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 14
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 749 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 15
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 702 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 16
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 630 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 17
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 480 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  1
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 18
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 362 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  0
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 19
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 204 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 20
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 184 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  0
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  1
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 21
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 183 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  0
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 22
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 128 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 23
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 61 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 24
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - 10.8 ng/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 25
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Tg end - none
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 26
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  antiTg end - 338 IU/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 27
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  anti Tg end - 220 IU/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  0
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 28
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  antiTg end - 83 IU/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 29
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  antiTg end - 80 IU/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  0
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  1
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 30
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  anti Tg end - <20 IU/ml
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  5
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  2
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 31
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  antiTg end - none
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  1
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 32
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  RAI uptake pre-treatment - none
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |               |   |   
+    |   |       |       |               |   +---OutcomeMeasurementValue:  13
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 1
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG001
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 33
+    |   |       |           |   
+    |   |       |           +---OutcomeClassTitle:  RAI uptake post treatment - none
+    |   |       |           |   
+    |   |       |           +---OutcomeCategoryList
+    |   |       |               |   
+    |   |       |               +---OutcomeCategory 0
+    |   |       |                   |   
+    |   |       |                   +---OutcomeMeasurementList
+    |   |       |                       |   
+    |   |       |                       +---OutcomeMeasurement 0
+    |   |       |                       |   |   
+    |   |       |                       |   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |                       |   |   
+    |   |       |                       |   +---OutcomeMeasurementValue:  10
+    |   |       |                       |   
+    |   |       |                       +---OutcomeMeasurement 1
+    |   |       |                           |   
+    |   |       |                           +---OutcomeMeasurementGroupId:  OG001
+    |   |       |                           |   
+    |   |       |                           +---OutcomeMeasurementValue:  0
+    |   |       |   
+    |   |       +---OutcomeMeasure 1
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureType:  Primary
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureTitle:  Number of Participants With Adverse Events
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureDescription:  Here is the number of participants with adverse events. For a detailed list of adverse events, see the adverse event module.
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasurePopulationDescription:  Adverse events are not reported per Arm. All adverse events were reported to include phases 1 and 2 since it is analyzed throughout the whole study.
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureReportingStatus:  Posted
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureParamType:  Count of Participants
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureUnitOfMeasure:  Participants
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureTimeFrame:  Date treatment consent signed to date off study, approximately 41 months and 11 days
+    |   |       |   |   
+    |   |       |   +---OutcomeGroupList
+    |   |       |   |   |   
+    |   |       |   |   +---OutcomeGroup 0
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeGroupId:  OG000
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeGroupTitle:  All Participants
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeGroupDescription:  A - Phase 1 Radioiodine Resistant Thyroid Cancer Drug: Valproic Acid Week 1 - 10 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening B2 - Phase 2 Schedule 2 (No Increased Radioiodine Uptake) Drug: Valproic Acid Week 11 - 52 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening Weeks 17-52: Patients who show a response by RECIST criteria or have a decreased thyroglobulin level from Day 1 of the treatment (registered as a partial response to the treatment) will continue on valproic acid at their current dose for a total of 52 weeks.
+    |   |       |   |   
+    |   |       |   +---OutcomeDenomList
+    |   |       |   |   |   
+    |   |       |   |   +---OutcomeDenom 0
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeDenomUnits:  Participants
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeDenomCountList
+    |   |       |   |           |   
+    |   |       |   |           +---OutcomeDenomCount 0
+    |   |       |   |               |   
+    |   |       |   |               +---OutcomeDenomCountGroupId:  OG000
+    |   |       |   |               |   
+    |   |       |   |               +---OutcomeDenomCountValue:  13
+    |   |       |   |   
+    |   |       |   +---OutcomeClassList
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 0
+    |   |       |           |   
+    |   |       |           +---OutcomeCategoryList
+    |   |       |               |   
+    |   |       |               +---OutcomeCategory 0
+    |   |       |                   |   
+    |   |       |                   +---OutcomeMeasurementList
+    |   |       |                       |   
+    |   |       |                       +---OutcomeMeasurement 0
+    |   |       |                           |   
+    |   |       |                           +---OutcomeMeasurementGroupId:  OG000
+    |   |       |                           |   
+    |   |       |                           +---OutcomeMeasurementValue:  8
+    |   |       |   
+    |   |       +---OutcomeMeasure 2
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureType:  Secondary
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureTitle:  Best Overall Response
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureDescription:  Best overall response was assessed by radioiodine uptake. Complete response (CR) is increased Rai (radioiodine) uptake on post- valproic acid therapy at week 10, AND a decrease in Tg (thyroglobulin ) level to less than 2 ng/ml (or a decrease in Tg-Ab (thyroglobulin antibodies) level to less than 2.0 IU/ml) at 10 weeks AND disappearance of all lesions at 16 weeks. Partial response (PR) is increased Rai uptake on post-valproic scan at week 10, OR a decreased Tg level (or a decrease in Tg Ab (Tg antibody) level by more than 20%) at 10 weeks AND 30% decrease in target lesion at 16 weeks. Stable disease (SD) is no change in RAI uptake AND Tg levels (or TG-Ab level) AND no significant change of lesions at 16 weeks. Progressive disease (PD) is tumor mass increases OR Tg levels (or Tg-Ab levels) increases over 10 weeks OR at least 20% increase in target lesion at 16 weeks.
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasurePopulationDescription:  Best overall response was not assessed for the phase 1 portion.
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureReportingStatus:  Posted
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureParamType:  Count of Participants
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureUnitOfMeasure:  Participants
+    |   |       |   |   
+    |   |       |   +---OutcomeMeasureTimeFrame:  Week 16
+    |   |       |   |   
+    |   |       |   +---OutcomeGroupList
+    |   |       |   |   |   
+    |   |       |   |   +---OutcomeGroup 0
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeGroupId:  OG000
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeGroupTitle:  B2 - Phase 2 Schedule 2 (No Increased Radiiodine Uptake)
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeGroupDescription:  Drug: Valproic Acid Week 11 - 52 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening Weeks 17-52: Patients who show a response by RECIST criteria or have a decreased thyroglobulin level from Day 1 of the treatment (registered as a partial response to the treatment) will continue on valproic acid at their current dose for a total of 52 weeks.
+    |   |       |   |   
+    |   |       |   +---OutcomeDenomList
+    |   |       |   |   |   
+    |   |       |   |   +---OutcomeDenom 0
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeDenomUnits:  Participants
+    |   |       |   |       |   
+    |   |       |   |       +---OutcomeDenomCountList
+    |   |       |   |           |   
+    |   |       |   |           +---OutcomeDenomCount 0
+    |   |       |   |               |   
+    |   |       |   |               +---OutcomeDenomCountGroupId:  OG000
+    |   |       |   |               |   
+    |   |       |   |               +---OutcomeDenomCountValue:  8
+    |   |       |   |   
+    |   |       |   +---OutcomeClassList
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 0
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Complete Response (CR)
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 1
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Partial Response (PR)
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  0
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 2
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Stable Disease (SD)
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  1
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 3
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeClassTitle:  Progressive Disease (PD)
+    |   |       |       |   |   
+    |   |       |       |   +---OutcomeCategoryList
+    |   |       |       |       |   
+    |   |       |       |       +---OutcomeCategory 0
+    |   |       |       |           |   
+    |   |       |       |           +---OutcomeMeasurementList
+    |   |       |       |               |   
+    |   |       |       |               +---OutcomeMeasurement 0
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementGroupId:  OG000
+    |   |       |       |                   |   
+    |   |       |       |                   +---OutcomeMeasurementValue:  6
+    |   |       |       |   
+    |   |       |       +---OutcomeClass 4
+    |   |       |           |   
+    |   |       |           +---OutcomeClassTitle:  Unknown
+    |   |       |           |   
+    |   |       |           +---OutcomeCategoryList
+    |   |       |               |   
+    |   |       |               +---OutcomeCategory 0
+    |   |       |                   |   
+    |   |       |                   +---OutcomeMeasurementList
+    |   |       |                       |   
+    |   |       |                       +---OutcomeMeasurement 0
+    |   |       |                           |   
+    |   |       |                           +---OutcomeMeasurementGroupId:  OG000
+    |   |       |                           |   
+    |   |       |                           +---OutcomeMeasurementValue:  1
+    |   |       |   
+    |   |       +---OutcomeMeasure 3
+    |   |           |   
+    |   |           +---OutcomeMeasureType:  Secondary
+    |   |           |   
+    |   |           +---OutcomeMeasureTitle:  NIS (Na/I-symporter) Expression
+    |   |           |   
+    |   |           +---OutcomeMeasureDescription:  NIS (Na/I-symporter) Expression is assessed by quantitative reverse transcription (RT) polymerase chain reaction (PCR) and immunohistochemistry (IHC). NIS mRNA expression was measured by quantitative RT PCR from biopsy samples.
+    |   |           |   
+    |   |           +---OutcomeMeasurePopulationDescription:  There is no standard of error to report. The acronym GAPDH expanded is glyceraldehyde 3-phosphate dehydrogenase. Only 1 participant was analyzed because biopsies were not performed in 12 subjects.
+    |   |           |   
+    |   |           +---OutcomeMeasureReportingStatus:  Posted
+    |   |           |   
+    |   |           +---OutcomeMeasureParamType:  Median
+    |   |           |   
+    |   |           +---OutcomeMeasureDispersionType:  Standard Error
+    |   |           |   
+    |   |           +---OutcomeMeasureUnitOfMeasure:  percent expression
+    |   |           |   
+    |   |           +---OutcomeMeasureTimeFrame:  Entry to study and after 10 weeks of treatment
+    |   |           |   
+    |   |           +---OutcomeGroupList
+    |   |           |   |   
+    |   |           |   +---OutcomeGroup 0
+    |   |           |       |   
+    |   |           |       +---OutcomeGroupId:  OG000
+    |   |           |       |   
+    |   |           |       +---OutcomeGroupTitle:  A - Phase 1 Radioiodine Resistant Thyroid Cancer
+    |   |           |       |   
+    |   |           |       +---OutcomeGroupDescription:  Drug: Valproic Acid Week 1 - 10 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening
+    |   |           |   
+    |   |           +---OutcomeDenomList
+    |   |           |   |   
+    |   |           |   +---OutcomeDenom 0
+    |   |           |       |   
+    |   |           |       +---OutcomeDenomUnits:  Participants
+    |   |           |       |   
+    |   |           |       +---OutcomeDenomCountList
+    |   |           |           |   
+    |   |           |           +---OutcomeDenomCount 0
+    |   |           |               |   
+    |   |           |               +---OutcomeDenomCountGroupId:  OG000
+    |   |           |               |   
+    |   |           |               +---OutcomeDenomCountValue:  1
+    |   |           |   
+    |   |           +---OutcomeClassList
+    |   |               |   
+    |   |               +---OutcomeClass 0
+    |   |               |   |   
+    |   |               |   +---OutcomeClassTitle:  Pre-treatment NIS expression (relative to GAPDH)
+    |   |               |   |   
+    |   |               |   +---OutcomeCategoryList
+    |   |               |       |   
+    |   |               |       +---OutcomeCategory 0
+    |   |               |           |   
+    |   |               |           +---OutcomeMeasurementList
+    |   |               |               |   
+    |   |               |               +---OutcomeMeasurement 0
+    |   |               |                   |   
+    |   |               |                   +---OutcomeMeasurementGroupId:  OG000
+    |   |               |                   |   
+    |   |               |                   +---OutcomeMeasurementValue:  21
+    |   |               |                   |   
+    |   |               |                   +---OutcomeMeasurementSpread:  0
+    |   |               |   
+    |   |               +---OutcomeClass 1
+    |   |                   |   
+    |   |                   +---OutcomeClassTitle:  Post-treatment NIS expression (relative to GAPDH)
+    |   |                   |   
+    |   |                   +---OutcomeCategoryList
+    |   |                       |   
+    |   |                       +---OutcomeCategory 0
+    |   |                           |   
+    |   |                           +---OutcomeMeasurementList
+    |   |                               |   
+    |   |                               +---OutcomeMeasurement 0
+    |   |                                   |   
+    |   |                                   +---OutcomeMeasurementGroupId:  OG000
+    |   |                                   |   
+    |   |                                   +---OutcomeMeasurementValue:  25
+    |   |                                   |   
+    |   |                                   +---OutcomeMeasurementSpread:  0
+    |   |   
+    |   +---AdverseEventsModule
+    |   |   |   
+    |   |   +---EventsFrequencyThreshold:  0
+    |   |   |   
+    |   |   +---EventsTimeFrame:  Date treatment consent signed to date off study, approximately 41 months and 11 days
+    |   |   |   
+    |   |   +---EventsDescription:  Adverse events are not reported per Arm. All adverse events were reported to include phases 1 and 2 since it is analyzed throughout the whole study. No adverse events were recorded for participants at University of California San Francisco (UCSF).
+    |   |   |   
+    |   |   +---EventGroupList
+    |   |   |   |   
+    |   |   |   +---EventGroup 0
+    |   |   |       |   
+    |   |   |       +---EventGroupId:  EG000
+    |   |   |       |   
+    |   |   |       +---EventGroupTitle:  All Participants (Phase 1 and Phase 2 Schedule 2)
+    |   |   |       |   
+    |   |   |       +---EventGroupDescription:  A - Phase 1 Radioiodine Resistant Thyroid Cancer Drug: Valproic Acid Week 1 - 10 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening B2 - Phase 2 Schedule 2 (No Increased Radioiodine Uptake) Drug: Valproic Acid Week 11 - 52 (Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening Weeks 17-52: Patients who show a response by RECIST criteria or have a decreased thyroglobulin level from Day 1 of the treatment (registered as a partial response to the treatment) will continue on valproic acid at their current dose for a total of 52 weeks.
+    |   |   |       |   
+    |   |   |       +---EventGroupDeathsNumAffected:  0
+    |   |   |       |   
+    |   |   |       +---EventGroupDeathsNumAtRisk:  13
+    |   |   |       |   
+    |   |   |       +---EventGroupSeriousNumAffected:  2
+    |   |   |       |   
+    |   |   |       +---EventGroupSeriousNumAtRisk:  13
+    |   |   |       |   
+    |   |   |       +---EventGroupOtherNumAffected:  8
+    |   |   |       |   
+    |   |   |       +---EventGroupOtherNumAtRisk:  13
+    |   |   |   
+    |   |   +---SeriousEventList
+    |   |   |   |   
+    |   |   |   +---SeriousEvent 0
+    |   |   |   |   |   
+    |   |   |   |   +---SeriousEventTerm:  Confusion
+    |   |   |   |   |   
+    |   |   |   |   +---SeriousEventOrganSystem:  Psychiatric disorders
+    |   |   |   |   |   
+    |   |   |   |   +---SeriousEventSourceVocabulary:  CTCAE (4.0)
+    |   |   |   |   |   
+    |   |   |   |   +---SeriousEventAssessmentType:  Systematic Assessment
+    |   |   |   |   |   
+    |   |   |   |   +---SeriousEventStatsList
+    |   |   |   |       |   
+    |   |   |   |       +---SeriousEventStats 0
+    |   |   |   |           |   
+    |   |   |   |           +---SeriousEventStatsGroupId:  EG000
+    |   |   |   |           |   
+    |   |   |   |           +---SeriousEventStatsNumEvents:  1
+    |   |   |   |           |   
+    |   |   |   |           +---SeriousEventStatsNumAffected:  1
+    |   |   |   |           |   
+    |   |   |   |           +---SeriousEventStatsNumAtRisk:  13
+    |   |   |   |   
+    |   |   |   +---SeriousEvent 1
+    |   |   |       |   
+    |   |   |       +---SeriousEventTerm:  Pleural effusion
+    |   |   |       |   
+    |   |   |       +---SeriousEventOrganSystem:  Respiratory, thoracic and mediastinal disorders
+    |   |   |       |   
+    |   |   |       +---SeriousEventSourceVocabulary:  CTCAE (4.0)
+    |   |   |       |   
+    |   |   |       +---SeriousEventAssessmentType:  Systematic Assessment
+    |   |   |       |   
+    |   |   |       +---SeriousEventStatsList
+    |   |   |           |   
+    |   |   |           +---SeriousEventStats 0
+    |   |   |               |   
+    |   |   |               +---SeriousEventStatsGroupId:  EG000
+    |   |   |               |   
+    |   |   |               +---SeriousEventStatsNumEvents:  1
+    |   |   |               |   
+    |   |   |               +---SeriousEventStatsNumAffected:  1
+    |   |   |               |   
+    |   |   |               +---SeriousEventStatsNumAtRisk:  13
+    |   |   |   
+    |   |   +---OtherEventList
+    |   |       |   
+    |   |       +---OtherEvent 0
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Alanine aminotransferase increased
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Investigations
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 1
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Alkaline phosphatase increased
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Investigations
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 2
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Alopecia
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Skin and subcutaneous tissue disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 3
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Anemia
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Blood and lymphatic system disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  7
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  5
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 4
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Aspartate aminotransferase increased
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Investigations
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 5
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Cough
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Respiratory, thoracic and mediastinal disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  2
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  2
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 6
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Creatinine increased
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Investigations
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 7
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Diarrhea
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Eye disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 8
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Dyspepsia
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Gastrointestinal disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 9
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Fatigue
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  General disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  2
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  2
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 10
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Fever
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  General disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 11
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Generalized muscle weakness
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Musculoskeletal and connective tissue disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 12
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Hypercalcemia
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Metabolism and nutrition disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  3
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 13
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Hyperglycemia
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Metabolism and nutrition disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 14
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Hypermagnesemia
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Metabolism and nutrition disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 15
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Hypertension
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Vascular disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  2
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 16
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Hypoalbuminemia
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Metabolism and nutrition disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  4
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  3
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 17
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Hyponatremia
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Metabolism and nutrition disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  2
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 18
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Hypotension
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Vascular disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 19
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Hypoxia
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Respiratory, thoracic and mediastinal disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  2
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  2
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 20
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Insomnia
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Psychiatric disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 21
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Lymphocyte count decreased
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Investigations
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  8
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  5
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 22
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Platelet count decreased
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Investigations
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  3
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  3
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 23
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Pleural effusion
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Respiratory, thoracic and mediastinal disorders
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 24
+    |   |       |   |   
+    |   |       |   +---OtherEventTerm:  Serum amylase increased
+    |   |       |   |   
+    |   |       |   +---OtherEventOrganSystem:  Investigations
+    |   |       |   |   
+    |   |       |   +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |       |   |   
+    |   |       |   +---OtherEventAssessmentType:  Systematic Assessment
+    |   |       |   |   
+    |   |       |   +---OtherEventStatsList
+    |   |       |       |   
+    |   |       |       +---OtherEventStats 0
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsGroupId:  EG000
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumEvents:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAffected:  1
+    |   |       |           |   
+    |   |       |           +---OtherEventStatsNumAtRisk:  13
+    |   |       |   
+    |   |       +---OtherEvent 25
+    |   |           |   
+    |   |           +---OtherEventTerm:  White blood cell decreased
+    |   |           |   
+    |   |           +---OtherEventOrganSystem:  Investigations
+    |   |           |   
+    |   |           +---OtherEventSourceVocabulary:  CTCAE (4.0)
+    |   |           |   
+    |   |           +---OtherEventAssessmentType:  Systematic Assessment
+    |   |           |   
+    |   |           +---OtherEventStatsList
+    |   |               |   
+    |   |               +---OtherEventStats 0
+    |   |                   |   
+    |   |                   +---OtherEventStatsGroupId:  EG000
+    |   |                   |   
+    |   |                   +---OtherEventStatsNumEvents:  2
+    |   |                   |   
+    |   |                   +---OtherEventStatsNumAffected:  1
+    |   |                   |   
+    |   |                   +---OtherEventStatsNumAtRisk:  13
+    |   |   
+    |   +---MoreInfoModule
+    |       |   
+    |       +---CertainAgreement
+    |       |   |   
+    |       |   +---AgreementPISponsorEmployee:  No
+    |       |   |   
+    |       |   +---AgreementRestrictiveAgreement:  No
+    |       |   
+    |       +---PointOfContact
+    |           |   
+    |           +---PointOfContactTitle:  Dr. Naris Nilubol
+    |           |   
+    |           +---PointOfContactOrganization:  National Cancer Institute
+    |           |   
+    |           +---PointOfContactEMail:  niluboln@nih.gov
+    |           |   
+    |           +---PointOfContactPhone:  301-451-2355
+    |   
+    +---DocumentSection
+    |   |   
+    |   +---LargeDocumentModule
+    |       |   
+    |       +---LargeDocList
+    |           |   
+    |           +---LargeDoc 0
+    |               |   
+    |               +---LargeDocTypeAbbrev:  Prot_ICF
+    |               |   
+    |               +---LargeDocHasProtocol:  Yes
+    |               |   
+    |               +---LargeDocHasSAP:  No
+    |               |   
+    |               +---LargeDocHasICF:  Yes
+    |               |   
+    |               +---LargeDocLabel:  Study Protocol and Informed Consent Form
+    |               |   
+    |               +---LargeDocDate:  April 24, 2015
+    |               |   
+    |               +---LargeDocUploadDate:  02/06/2018 13:28
+    |               |   
+    |               +---LargeDocFilename:  Prot_ICF_000.pdf
+    |   
+    +---DerivedSection
+        |   
+        +---MiscInfoModule
+        |   |   
+        |   +---VersionHolder:  August 22, 2023
+        |   
+        +---ConditionBrowseModule
+        |   |   
+        |   +---ConditionMeshList
+        |   |   |   
+        |   |   +---ConditionMesh 0
+        |   |   |   |   
+        |   |   |   +---ConditionMeshId:  D000013964
+        |   |   |   |   
+        |   |   |   +---ConditionMeshTerm:  Thyroid Neoplasms
+        |   |   |   
+        |   |   +---ConditionMesh 1
+        |   |       |   
+        |   |       +---ConditionMeshId:  D000013959
+        |   |       |   
+        |   |       +---ConditionMeshTerm:  Thyroid Diseases
+        |   |   
+        |   +---ConditionAncestorList
+        |   |   |   
+        |   |   +---ConditionAncestor 0
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorId:  D000004700
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorTerm:  Endocrine System Diseases
+        |   |   |   
+        |   |   +---ConditionAncestor 1
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorId:  D000004701
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorTerm:  Endocrine Gland Neoplasms
+        |   |   |   
+        |   |   +---ConditionAncestor 2
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorId:  D000009371
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorTerm:  Neoplasms by Site
+        |   |   |   
+        |   |   +---ConditionAncestor 3
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorId:  D000009369
+        |   |   |   |   
+        |   |   |   +---ConditionAncestorTerm:  Neoplasms
+        |   |   |   
+        |   |   +---ConditionAncestor 4
+        |   |       |   
+        |   |       +---ConditionAncestorId:  D000006258
+        |   |       |   
+        |   |       +---ConditionAncestorTerm:  Head and Neck Neoplasms
+        |   |   
+        |   +---ConditionBrowseLeafList
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 0
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M16413
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Thyroid Neoplasms
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafAsFound:  Thyroid Neoplasms
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  high
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 1
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M16408
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Thyroid Diseases
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafAsFound:  Thyroid
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  high
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 2
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M7552
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Endocrine System Diseases
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  low
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 3
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafId:  M7553
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafName:  Endocrine Gland Neoplasms
+        |   |   |   |   
+        |   |   |   +---ConditionBrowseLeafRelevance:  low
+        |   |   |   
+        |   |   +---ConditionBrowseLeaf 4
+        |   |       |   
+        |   |       +---ConditionBrowseLeafId:  M9038
+        |   |       |   
+        |   |       +---ConditionBrowseLeafName:  Head and Neck Neoplasms
+        |   |       |   
+        |   |       +---ConditionBrowseLeafRelevance:  low
+        |   |   
+        |   +---ConditionBrowseBranchList
+        |       |   
+        |       +---ConditionBrowseBranch 0
+        |       |   |   
+        |       |   +---ConditionBrowseBranchAbbrev:  BC04
+        |       |   |   
+        |       |   +---ConditionBrowseBranchName:  Neoplasms
+        |       |   
+        |       +---ConditionBrowseBranch 1
+        |       |   |   
+        |       |   +---ConditionBrowseBranchAbbrev:  BC19
+        |       |   |   
+        |       |   +---ConditionBrowseBranchName:  Gland and Hormone Related Diseases
+        |       |   
+        |       +---ConditionBrowseBranch 2
+        |           |   
+        |           +---ConditionBrowseBranchAbbrev:  All
+        |           |   
+        |           +---ConditionBrowseBranchName:  All Conditions
+        |   
+        +---InterventionBrowseModule
+            |   
+            +---InterventionMeshList
+            |   |   
+            |   +---InterventionMesh 0
+            |       |   
+            |       +---InterventionMeshId:  D000014635
+            |       |   
+            |       +---InterventionMeshTerm:  Valproic Acid
+            |   
+            +---InterventionAncestorList
+            |   |   
+            |   +---InterventionAncestor 0
+            |   |   |   
+            |   |   +---InterventionAncestorId:  D000000927
+            |   |   |   
+            |   |   +---InterventionAncestorTerm:  Anticonvulsants
+            |   |   
+            |   +---InterventionAncestor 1
+            |   |   |   
+            |   |   +---InterventionAncestorId:  D000004791
+            |   |   |   
+            |   |   +---InterventionAncestorTerm:  Enzyme Inhibitors
+            |   |   
+            |   +---InterventionAncestor 2
+            |   |   |   
+            |   |   +---InterventionAncestorId:  D000045504
+            |   |   |   
+            |   |   +---InterventionAncestorTerm:  Molecular Mechanisms of Pharmacological Action
+            |   |   
+            |   +---InterventionAncestor 3
+            |   |   |   
+            |   |   +---InterventionAncestorId:  D000018682
+            |   |   |   
+            |   |   +---InterventionAncestorTerm:  GABA Agents
+            |   |   
+            |   +---InterventionAncestor 4
+            |   |   |   
+            |   |   +---InterventionAncestorId:  D000018377
+            |   |   |   
+            |   |   +---InterventionAncestorTerm:  Neurotransmitter Agents
+            |   |   
+            |   +---InterventionAncestor 5
+            |   |   |   
+            |   |   +---InterventionAncestorId:  D000045505
+            |   |   |   
+            |   |   +---InterventionAncestorTerm:  Physiological Effects of Drugs
+            |   |   
+            |   +---InterventionAncestor 6
+            |   |   |   
+            |   |   +---InterventionAncestorId:  D000018692
+            |   |   |   
+            |   |   +---InterventionAncestorTerm:  Antimanic Agents
+            |   |   
+            |   +---InterventionAncestor 7
+            |   |   |   
+            |   |   +---InterventionAncestorId:  D000014149
+            |   |   |   
+            |   |   +---InterventionAncestorTerm:  Tranquilizing Agents
+            |   |   
+            |   +---InterventionAncestor 8
+            |   |   |   
+            |   |   +---InterventionAncestorId:  D000002492
+            |   |   |   
+            |   |   +---InterventionAncestorTerm:  Central Nervous System Depressants
+            |   |   
+            |   +---InterventionAncestor 9
+            |       |   
+            |       +---InterventionAncestorId:  D000011619
+            |       |   
+            |       +---InterventionAncestorTerm:  Psychotropic Drugs
+            |   
+            +---InterventionBrowseLeafList
+            |   |   
+            |   +---InterventionBrowseLeaf 0
+            |   |   |   
+            |   |   +---InterventionBrowseLeafId:  M17073
+            |   |   |   
+            |   |   +---InterventionBrowseLeafName:  Valproic Acid
+            |   |   |   
+            |   |   +---InterventionBrowseLeafAsFound:  Nitrate
+            |   |   |   
+            |   |   +---InterventionBrowseLeafRelevance:  high
+            |   |   
+            |   +---InterventionBrowseLeaf 1
+            |   |   |   
+            |   |   +---InterventionBrowseLeafId:  M3936
+            |   |   |   
+            |   |   +---InterventionBrowseLeafName:  Anticonvulsants
+            |   |   |   
+            |   |   +---InterventionBrowseLeafRelevance:  low
+            |   |   
+            |   +---InterventionBrowseLeaf 2
+            |   |   |   
+            |   |   +---InterventionBrowseLeafId:  M7641
+            |   |   |   
+            |   |   +---InterventionBrowseLeafName:  Enzyme Inhibitors
+            |   |   |   
+            |   |   +---InterventionBrowseLeafRelevance:  low
+            |   |   
+            |   +---InterventionBrowseLeaf 3
+            |   |   |   
+            |   |   +---InterventionBrowseLeafId:  M20194
+            |   |   |   
+            |   |   +---InterventionBrowseLeafName:  Neurotransmitter Agents
+            |   |   |   
+            |   |   +---InterventionBrowseLeafRelevance:  low
+            |   |   
+            |   +---InterventionBrowseLeaf 4
+            |       |   
+            |       +---InterventionBrowseLeafId:  M14164
+            |       |   
+            |       +---InterventionBrowseLeafName:  Psychotropic Drugs
+            |       |   
+            |       +---InterventionBrowseLeafRelevance:  low
+            |   
+            +---InterventionBrowseBranchList
+                |   
+                +---InterventionBrowseBranch 0
+                |   |   
+                |   +---InterventionBrowseBranchAbbrev:  AntiConv
+                |   |   
+                |   +---InterventionBrowseBranchName:  Anticonvulsants
+                |   
+                +---InterventionBrowseBranch 1
+                |   |   
+                |   +---InterventionBrowseBranchAbbrev:  CNSDep
+                |   |   
+                |   +---InterventionBrowseBranchName:  Central Nervous System Depressants
+                |   
+                +---InterventionBrowseBranch 2
+                |   |   
+                |   +---InterventionBrowseBranchAbbrev:  PsychDr
+                |   |   
+                |   +---InterventionBrowseBranchName:  Psychotropic Drugs
+                |   
+                +---InterventionBrowseBranch 3
+                    |   
+                    +---InterventionBrowseBranchAbbrev:  All
+                    |   
+                    +---InterventionBrowseBranchName:  All Drugs and Chemicals
+
+
