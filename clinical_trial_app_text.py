@@ -26,29 +26,16 @@ uploaded_file = st.file_uploader("Upload a file" , type='txt')
 
 def generate_response(uploaded_file,query_text):
     print("uploaded_file(name)>>>>>>>>>",uploaded_file.name)
+    print("uploaded_file(name)>>>>>>>>>",uploaded_file)
     if uploaded_file is not None:   
-        # print("uploaded>>>>>>>>>>",type(uploaded_file))
 
         filename = uploaded_file.name
         # This is a long document we can split up.
         with open(filename) as f:
             state_of_the_union = f.read()
 
-
-
-
-        # docs = [uploaded_file.read().decode()]
-
-        # documents = [uploaded_file.read().decode()]
-        # print("type>>>>>>>>>>",type(documents))
-        # loader = docs.load()
-        # documents = loader.load()
-        # document_string = '\n'.join(docs)
-        # print("type>>>>>>>>>>",type(document_string))
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=6000, chunk_overlap=1000,length_function = len)
         documents = text_splitter.create_documents([state_of_the_union])
-        # documents = text_splitter.split_documents(document_string)
-        # documents = text_splitter.split_documents(document_string)
 
         embeddings = OpenAIEmbeddings()
         db = Chroma.from_documents(documents, embeddings)
@@ -71,13 +58,12 @@ def generate_response(uploaded_file,query_text):
 
 
 
-        # query = input("Enter your question : ")
         result = qa({"question": query_text})
 
         return result["answer"]        
 
 
-query_text = st.text_input('Enter your question:', placeholder = 'Upload only text files only', disabled=not uploaded_file)
+query_text = st.text_input('Enter your question:', placeholder = 'Upload only text files here', disabled=not uploaded_file)
 #  Form input and query
 result = []
 with st.form('myform', clear_on_submit=True):
