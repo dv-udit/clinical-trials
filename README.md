@@ -39,4 +39,4 @@ docker run -p 8561:8561 --env-file .env your-image-name
 
 Check out the live demo of the App:
 
-[Demo Link](https://clinical-trials-7sresfbk9rs9bmcvrwxo4x.streamlit.app/)
+[Demo Link](https://clinical-trials-jq4bjcqz4beoxu9lynij6g.streamlit.app/)
