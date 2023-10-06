@@ -9,7 +9,7 @@ sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 import streamlit as st
 import os
-
+import re
 from langchain.llms import OpenAI
 from langchain.document_loaders.csv_loader import CSVLoader
 from langchain.document_loaders import TextLoader
@@ -35,7 +35,7 @@ if 'current_filename' not in st.session_state:
     st.session_state.current_filename = None
 
 if "QA" not in st.session_state:
-    st.session_state.QA = []
+    st.session_state.QA = {}
 
 LLMDATA = {}
 
@@ -70,7 +70,14 @@ def set_LLM(uploaded_file):
             # text_splitter = RecursiveCharacterTextSplitter(chunk_size=6000, chunk_overlap=1000,length_function = len)
             documents = create_documents(uploaded_file)
             embeddings = OpenAIEmbeddings()
-            db = Chroma.from_documents(documents, embeddings)
+
+            pattern = r'[a-zA-Z0-9]+'
+            matches = re.findall(pattern,filename)
+            # result = ''.join(matches)
+
+            # print(result)            
+            db = Chroma(collection_name = ''.join(matches),embedding_function = embeddings,persist_directory = ''.join(matches))
+            db.add_documents(documents)
             LLMDATA[filename] = {
                 "db": db
             }
@@ -153,10 +160,17 @@ def generate_response(query_text, filename):
         memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
         qa = ConversationalRetrievalChain.from_llm(OpenAI(temperature=0, model_name="gpt-4"), db.as_retriever(search_kwargs={'k': 3,}),
                                                    memory=memory, condense_question_prompt=qa_prompt)
-        result = qa({"question": query_text})
+        # st.write(db.as_retriever().get_relevant_documents(query_text))
+        result = qa({"question": query_text})          
         # return result["answer"]   
         dict = {"question": result["question"], "answer": result["answer"]}
-        st.session_state.QA.append(dict)
+        # st.session_state.QA.append(dict)
+        if filename in st.session_state.QA:
+            st.session_state.QA[filename].append(dict)
+        else:
+            st.session_state.QA[filename] = []
+            st.session_state.QA[filename].append(dict)
+            
 
 
 def file_upload_form():
@@ -184,7 +198,8 @@ def query_form():
             filename = st.session_state.current_filename
             with st.spinner('Generating...'):
                 generate_response(query_text, filename)
-                for i in st.session_state.QA:
+                file_qa = st.session_state.QA[filename]
+                for i in file_qa:
                     st.write("Question : " + i["question"])
                     st.write("Answer : " + i["answer"])
 
