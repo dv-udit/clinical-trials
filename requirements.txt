@@ -1,4 +1,9 @@
+chromadb==0.4.8
 openai==0.27.8
 langchain==0.0.263
 streamlit==1.25.0
-
+tiktoken==0.4.0
+pdfminer-six==20221105
+watchdog==3.0.0
+pysqlite-binary
+# pysqlite3-binary
